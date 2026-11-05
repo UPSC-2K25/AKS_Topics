@@ -2,7 +2,7 @@
 let allTopics = [];
 let filteredTopics = [];
 let currentPage = 1;
-const ITEMS_PER_PAGE = 5;
+const ITEMS_PER_PAGE = 4;
 
 // DOM Nodes
 const searchInput = document.getElementById("searchInput");
