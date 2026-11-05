@@ -1,31 +1,30 @@
-// State Management
+// Global State
 let allTopics = [];
 let filteredTopics = [];
 let currentPage = 1;
 const ITEMS_PER_PAGE = 5;
 
-// DOM Selectors
+// DOM Nodes
 const searchInput = document.getElementById("searchInput");
-const subjectFilter = document.getElementById("subjectFilter");
+const subjectInput = document.getElementById("subjectInput");
 const priorityFilter = document.getElementById("priorityFilter");
 const resetBtn = document.getElementById("resetBtn");
 const cardsContainer = document.getElementById("cardsContainer");
 const resultsCount = document.getElementById("resultsCount");
 const paginationInfo = document.getElementById("paginationInfo");
+
 const firstBtn = document.getElementById("firstBtn");
 const prevBtn = document.getElementById("prevBtn");
 const nextBtn = document.getElementById("nextBtn");
 const lastBtn = document.getElementById("lastBtn");
-const pageNumberButtons = document.getElementById("pageNumberButtons");
 
 /**
- * Splits a passage into clean bullet points based on full stops,
- * handling decimals and common abbreviations correctly.
+ * Splits passages cleanly into individual bullet sentences
  */
 function passageToBullets(passage) {
   if (!passage) return [];
   
-  // Protect common abbreviation dots and decimals before splitting
+  // Protect abbreviations, titles, and decimal points
   const sanitized = passage
     .replace(/(?:\b(?:e\.g|i\.e|viz|vs|etc|no|fig|dr|mr|mrs|prof)\.)/gi, match => match.replace(/\./g, '__DOT__'))
     .replace(/(\d+)\.(\d+)/g, '$1__DOT__$2');
@@ -38,50 +37,32 @@ function passageToBullets(passage) {
 }
 
 /**
- * Populates unique subjects into the Subject dropdown
- */
-function populateSubjectDropdown(data) {
-  const subjectSet = new Set();
-  data.forEach(item => {
-    if (!item.subject) return;
-    // Splits grouped subjects if separated by slashes
-    item.subject.split('/').forEach(sub => subjectSet.add(sub.trim()));
-  });
-
-  const sorted = Array.from(subjectSet).sort();
-  sorted.forEach(subject => {
-    const opt = document.createElement("option");
-    opt.value = subject;
-    opt.textContent = subject;
-    subjectFilter.appendChild(opt);
-  });
-}
-
-/**
- * Filter evaluation engine
+ * Filter Engine:
+ * - General search tests topic, passage, or ID
+ * - Subject search is strictly scoped to the subject property
+ * - Priority checks exact match
  */
 function applyFilters() {
   const query = searchInput.value.toLowerCase().trim();
-  const selectedSubject = subjectFilter.value;
+  const subjectQuery = subjectInput.value.toLowerCase().trim();
   const selectedPriority = priorityFilter.value;
 
   filteredTopics = allTopics.filter(item => {
-    const matchSearch = 
+    const matchGeneral = 
       !query || 
       item.topic.toLowerCase().includes(query) || 
       item.passage.toLowerCase().includes(query) ||
-      (item.subject && item.subject.toLowerCase().includes(query)) ||
       String(item.id).includes(query);
 
     const matchSubject = 
-      selectedSubject === "ALL" || 
-      (item.subject && item.subject.toLowerCase().includes(selectedSubject.toLowerCase()));
+      !subjectQuery || 
+      (item.subject && item.subject.toLowerCase().includes(subjectQuery));
 
     const matchPriority = 
       selectedPriority === "ALL" || 
       (item.imp_level && item.imp_level.toLowerCase() === selectedPriority.toLowerCase());
 
-    return matchSearch && matchSubject && matchPriority;
+    return matchGeneral && matchSubject && matchPriority;
   });
 
   currentPage = 1;
@@ -89,7 +70,7 @@ function applyFilters() {
 }
 
 /**
- * Render cards for current slice
+ * Render Cards in the scrollable main container
  */
 function renderCards() {
   cardsContainer.innerHTML = "";
@@ -97,7 +78,7 @@ function renderCards() {
   if (filteredTopics.length === 0) {
     cardsContainer.innerHTML = `
       <div class="empty-state">
-        <p>No matching topics found. Adjust your search or reset filters.</p>
+        <p>No matching topics found for the active criteria.</p>
       </div>`;
     return;
   }
@@ -111,7 +92,6 @@ function renderCards() {
 
     const bullets = passageToBullets(item.passage);
     const bulletsHtml = bullets.map(b => `<li>${b}</li>`).join("");
-
     const priorityClass = `badge-${(item.imp_level || "medium").toLowerCase()}`;
 
     card.innerHTML = `
@@ -122,7 +102,7 @@ function renderCards() {
         </div>
         <div class="badges-wrap">
           <span class="badge badge-subject">${item.subject || 'General'}</span>
-          <span class="badge ${priorityClass}">${item.imp_level || 'Normal'} Priority</span>
+          <span class="badge ${priorityClass}">${item.imp_level || 'Normal'}</span>
         </div>
       </div>
       <ul class="passage-bullets">
@@ -134,39 +114,18 @@ function renderCards() {
 }
 
 /**
- * Renders pagination controls and numerical buttons
+ * Render Header Navigation Pagination State
  */
 function renderPagination() {
   const totalPages = Math.ceil(filteredTopics.length / ITEMS_PER_PAGE) || 1;
 
-  resultsCount.textContent = `Showing ${filteredTopics.length} total entries`;
-  paginationInfo.textContent = `Page ${currentPage} of ${totalPages}`;
+  resultsCount.textContent = `${filteredTopics.length} items`;
+  paginationInfo.textContent = `${currentPage} / ${totalPages}`;
 
   firstBtn.disabled = currentPage === 1;
   prevBtn.disabled = currentPage === 1;
   nextBtn.disabled = currentPage === totalPages;
   lastBtn.disabled = currentPage === totalPages;
-
-  pageNumberButtons.innerHTML = "";
-
-  // Render a sliding window of max 5 page buttons
-  let startPage = Math.max(1, currentPage - 2);
-  let endPage = Math.min(totalPages, startPage + 4);
-  if (endPage - startPage < 4) {
-    startPage = Math.max(1, endPage - 4);
-  }
-
-  for (let i = startPage; i <= endPage; i++) {
-    const btn = document.createElement("button");
-    btn.className = `page-num ${i === currentPage ? "active" : ""}`;
-    btn.textContent = i;
-    btn.addEventListener("click", () => {
-      currentPage = i;
-      renderView();
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    });
-    pageNumberButtons.appendChild(btn);
-  }
 }
 
 function renderView() {
@@ -176,54 +135,58 @@ function renderView() {
 
 // Event Listeners
 searchInput.addEventListener("input", applyFilters);
-subjectFilter.addEventListener("change", applyFilters);
+subjectInput.addEventListener("input", applyFilters);
 priorityFilter.addEventListener("change", applyFilters);
 
 resetBtn.addEventListener("click", () => {
   searchInput.value = "";
-  subjectFilter.value = "ALL";
+  subjectInput.value = "";
   priorityFilter.value = "ALL";
   applyFilters();
 });
 
-firstBtn.addEventListener("click", () => { currentPage = 1; renderView(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+firstBtn.addEventListener("click", () => { 
+  currentPage = 1; 
+  renderView(); 
+  cardsContainer.scrollTop = 0; 
+});
+
 lastBtn.addEventListener("click", () => { 
   currentPage = Math.ceil(filteredTopics.length / ITEMS_PER_PAGE) || 1; 
   renderView(); 
-  window.scrollTo({ top: 0, behavior: "smooth" }); 
+  cardsContainer.scrollTop = 0; 
 });
+
 prevBtn.addEventListener("click", () => { 
   if (currentPage > 1) { 
     currentPage--; 
     renderView(); 
-    window.scrollTo({ top: 0, behavior: "smooth" }); 
+    cardsContainer.scrollTop = 0; 
   } 
 });
+
 nextBtn.addEventListener("click", () => { 
   const totalPages = Math.ceil(filteredTopics.length / ITEMS_PER_PAGE) || 1;
   if (currentPage < totalPages) { 
     currentPage++; 
     renderView(); 
-    window.scrollTo({ top: 0, behavior: "smooth" }); 
+    cardsContainer.scrollTop = 0; 
   } 
 });
 
-/**
- * Data Initialization
- */
+// Initialization
 async function initApp() {
   try {
-    const response = await fetch("data.json");
-    if (!response.ok) throw new Error("Failed to load data.json");
-    allTopics = await response.json();
-    populateSubjectDropdown(allTopics);
+    const res = await fetch("data.json");
+    if (!res.ok) throw new Error("Network response error");
+    allTopics = await res.json();
     applyFilters();
   } catch (err) {
     cardsContainer.innerHTML = `
       <div class="empty-state">
-        <p><strong>Error loading database:</strong> Ensure <code>data.json</code> is placed in the root directory alongside index.html.</p>
+        <p><strong>Failed to load data.json.</strong> Place your data file in the same repository directory.</p>
       </div>`;
-    resultsCount.textContent = "0 entries";
+    resultsCount.textContent = "0 items";
   }
 }
 
