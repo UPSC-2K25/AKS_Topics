@@ -3498,5 +3498,355 @@
     "context/backstory": "His public philosophy of development linked national progress with the aspirations and participation of young people.",
     "quote/statement": "Let us sacrifice our today so that our children can have a better tomorrow.",
     "Meaning": "Intergenerational justice requires responsible use of resources, long-term planning and sustainable development."
+  },
+  {
+    "id": 501,
+    "personality": "Taittiriya Upanishad",
+    "context/backstory": "Taittiriya Upanishad 3.6.1, describing the ultimate reality as bliss.",
+    "quote/statement": "आनन्दो ब्रह्मेति व्यजानात् — Anando Brahmeti Vyajanat.",
+    "Meaning": "Bliss is the nature of the ultimate reality. It reminds us that genuine human development must go beyond material prosperity to include inner well-being and contentment."
+  },
+  {
+    "id": 502,
+    "personality": "Maha Upanishad",
+    "context/backstory": "Maha Upanishad 6.72. A famous expression of universal brotherhood and the interconnectedness of humanity.",
+    "quote/statement": "अयं निजः परो वेति गणना लघुचेतसाम् । उदारचरितानां तु वसुधैव कुटुम्बकम् ॥ — Vasudhaiva Kutumbakam.",
+    "Meaning": "The whole world is one family. It promotes universal brotherhood, tolerance, global cooperation and compassion beyond national, religious and cultural boundaries."
+  },
+  {
+    "id": 503,
+    "personality": "Traditional Indian blessing",
+    "context/backstory": "A traditional blessing offered to those who provide food or hospitality. It reflects the cultural respect accorded to food producers and providers.",
+    "quote/statement": "अन्नदाता सुखी भव — Annadata Sukhibhava.",
+    "Meaning": "May the giver of food be happy. It highlights the dignity of farmers, food producers and those who feed society."
+  },
+  {
+    "id": 504,
+    "personality": "Traditional Sanskrit Subhashita",
+    "context/backstory": "A popular agricultural saying expressing the importance of cultivation and productive use of land. Its precise classical textual source is uncertain.",
+    "quote/statement": "कृषितो नास्ति दुर्भिक्षम् — Krishito Nasti Durbhiksham.",
+    "Meaning": "There is no scarcity where agriculture flourishes. It highlights the importance of farmers, agricultural productivity, food security and rural development."
+  },
+  {
+    "id": 505,
+    "personality": "Taittiriya Upanishad",
+    "context/backstory": "Taittiriya Upanishad 3.9.1, in its teaching on food and hospitality.",
+    "quote/statement": "अन्नं बहु कुर्वीत — Annam Bahu Kurvita.",
+    "Meaning": "Produce food in abundance. It underlines food production, agricultural prosperity, food security and the moral importance of ensuring that nobody goes hungry."
+  },
+  {
+    "id": 506,
+    "personality": "Taittiriya Upanishad",
+    "context/backstory": "Taittiriya Upanishad 3.7, teaching reverence towards food.",
+    "quote/statement": "अन्नं न निन्द्यात् — Annam Na Nindyat.",
+    "Meaning": "Do not disrespect food. It teaches food conservation, avoidance of wastage and respect for the labour and natural resources involved in food production."
+  },
+  {
+    "id": 507,
+    "personality": "Taittiriya Upanishad",
+    "context/backstory": "Taittiriya Upanishad 1.11.2, part of the instructions given to students as they complete their education.",
+    "quote/statement": "मातृदेवो भव — Matru Devo Bhava.",
+    "Meaning": "Treat your mother as divine. It emphasises gratitude, respect, care and the importance of family values."
+  },
+  {
+    "id": 508,
+    "personality": "Taittiriya Upanishad",
+    "context/backstory": "Taittiriya Upanishad 1.11.2, an instruction on respect towards parents.",
+    "quote/statement": "पितृदेवो भव — Pitru Devo Bhava.",
+    "Meaning": "Treat your father as divine. It promotes filial responsibility, gratitude and respect for parental guidance."
+  },
+  {
+    "id": 509,
+    "personality": "Taittiriya Upanishad",
+    "context/backstory": "Taittiriya Upanishad 1.11.2, emphasising the revered position of the teacher.",
+    "quote/statement": "आचार्यदेवो भव — Acharya Devo Bhava.",
+    "Meaning": "Treat your teacher as divine. It highlights the importance of education, mentorship, respect for knowledge and the teacher's role in character formation."
+  },
+  {
+    "id": 510,
+    "personality": "Taittiriya Upanishad",
+    "context/backstory": "Taittiriya Upanishad 1.11.2, an instruction on hospitality and respect for visitors.",
+    "quote/statement": "अतिथिदेवो भव — Atithi Devo Bhava.",
+    "Meaning": "Treat your guest as divine. It reflects hospitality, kindness, respect and the duty to treat others with dignity."
+  },
+  {
+    "id": 511,
+    "personality": "Taittiriya Upanishad",
+    "context/backstory": "Taittiriya Upanishad 1.11.1, the ethical instructions given to students.",
+    "quote/statement": "सत्यं वद । धर्मं चर । — Satyam Vada, Dharmam Chara.",
+    "Meaning": "Speak the truth and practise righteousness. It establishes honesty and ethical conduct as essential foundations of personal life and public administration."
+  },
+  {
+    "id": 512,
+    "personality": "Taittiriya Upanishad",
+    "context/backstory": "Taittiriya Upanishad 1.11.1, advising students to remain committed to learning.",
+    "quote/statement": "स्वाध्यायान्मा प्रमदः — Swadhyayan Ma Pramadah.",
+    "Meaning": "Do not neglect self-study. It encourages lifelong learning, self-improvement and continuous professional development."
+  },
+  {
+    "id": 513,
+    "personality": "Mundaka Upanishad",
+    "context/backstory": "Mundaka Upanishad 3.1.6, declaring the ultimate victory of truth.",
+    "quote/statement": "सत्यमेव जयते नानृतम् — Satyameva Jayate Nanritam.",
+    "Meaning": "Truth alone triumphs, not falsehood. It is India's national motto and represents integrity, transparency, honesty and accountability."
+  },
+  {
+    "id": 514,
+    "personality": "Brihadaranyaka Upanishad",
+    "context/backstory": "Brihadaranyaka Upanishad 1.3.28, part of a well-known prayer for spiritual progress.",
+    "quote/statement": "असतो मा सद्गमय — Asato Ma Sadgamaya.",
+    "Meaning": "Lead me from falsehood to truth. It symbolises the pursuit of truth, ethical awareness and the movement from ignorance towards wisdom."
+  },
+  {
+    "id": 515,
+    "personality": "Brihadaranyaka Upanishad",
+    "context/backstory": "Brihadaranyaka Upanishad 1.3.28, the second part of the prayer for spiritual progress.",
+    "quote/statement": "तमसो मा ज्योतिर्गमय — Tamaso Ma Jyotirgamaya.",
+    "Meaning": "Lead me from darkness to light. It represents education, scientific temper, awareness and the removal of ignorance and superstition."
+  },
+  {
+    "id": 516,
+    "personality": "Brihadaranyaka Upanishad",
+    "context/backstory": "Brihadaranyaka Upanishad 1.3.28, the final part of the prayer.",
+    "quote/statement": "मृत्योर्मा अमृतं गमय — Mrityor Ma Amritam Gamaya.",
+    "Meaning": "Lead me from death to immortality. It symbolises the aspiration to overcome fear, ignorance and the limitations of human existence through spiritual wisdom."
+  },
+  {
+    "id": 517,
+    "personality": "Traditional Shanti Prayer",
+    "context/backstory": "A widely recited Sanskrit benediction expressing the wish for universal happiness and freedom from suffering.",
+    "quote/statement": "सर्वे भवन्तु सुखिनः । सर्वे सन्तु निरामयाः । — Sarve Bhavantu Sukhinah, Sarve Santu Niramayah.",
+    "Meaning": "May all be happy and free from illness. It reflects inclusive welfare, universal healthcare, compassion and the idea that development should benefit everyone."
+  },
+  {
+    "id": 518,
+    "personality": "Traditional Sanskrit Prayer",
+    "context/backstory": "A widely used prayer in contemporary spiritual and yoga traditions, expressing concern for the well-being of all beings.",
+    "quote/statement": "लोकाः समस्ताः सुखिनो भवन्तु — Lokah Samastah Sukhino Bhavantu.",
+    "Meaning": "May all beings in all worlds be happy. It promotes universal welfare, environmental responsibility, peace and global solidarity."
+  },
+  {
+    "id": 519,
+    "personality": "Traditional Shanti Prayer",
+    "context/backstory": "A traditional benediction wishing freedom from illness and suffering for all.",
+    "quote/statement": "सर्वे सन्तु निरामयाः — Sarve Santu Niramayah.",
+    "Meaning": "May everyone be free from disease. It is relevant to public health, universal healthcare, sanitation and equitable access to medical services."
+  },
+  {
+    "id": 520,
+    "personality": "Mahabharata",
+    "context/backstory": "A famous ethical maxim found in the Mahabharata tradition, expressing the primacy of non-violence.",
+    "quote/statement": "अहिंसा परमो धर्मः — Ahimsa Paramo Dharma.",
+    "Meaning": "Non-violence is the highest duty. It advocates compassion, peaceful conflict resolution, tolerance and respect for all living beings."
+  },
+  {
+    "id": 521,
+    "personality": "Manusmriti",
+    "context/backstory": "Manusmriti 8.15, a traditional maxim on the protective power of righteousness.",
+    "quote/statement": "धर्मो रक्षति रक्षितः — Dharmo Rakshati Rakshitah.",
+    "Meaning": "Dharma protects those who protect it. It suggests that justice, ethical conduct and the rule of law sustain society when citizens and institutions uphold them."
+  },
+  {
+    "id": 522,
+    "personality": "Traditional Sanskrit Subhashita",
+    "context/backstory": "A popular verse describing the usefulness of nature and its gifts to humanity.",
+    "quote/statement": "परोपकाराय फलन्ति वृक्षाः — Paropakaraya Phalanti Vrikshah.",
+    "Meaning": "Trees bear fruit for the benefit of others. It teaches selfless service and environmental generosity, reminding us that nature sustains life beyond its own existence."
+  },
+  {
+    "id": 523,
+    "personality": "Traditional Sanskrit Subhashita",
+    "context/backstory": "A traditional ethical maxim on the purpose of human life.",
+    "quote/statement": "परोपकारार्थमिदं शरीरम् — Paropakarartham Idam Shariram.",
+    "Meaning": "This human body is meant for helping others. It emphasises service, altruism, compassion and the responsibility to use one's abilities for social welfare."
+  },
+  {
+    "id": 524,
+    "personality": "Traditional Sanskrit Subhashita",
+    "context/backstory": "A famous verse describing the transformative value of education and knowledge.",
+    "quote/statement": "विद्या ददाति विनयं, विनयाद् याति पात्रताम् — Vidya Dadati Vinayam, Vinayad Yati Patratam.",
+    "Meaning": "Knowledge gives humility, and humility leads to worthiness. It shows that true education should develop character, competence and ethical behaviour."
+  },
+  {
+    "id": 525,
+    "personality": "Saraswati Stotra",
+    "context/backstory": "A traditional hymn praising knowledge as a form of wealth that cannot be stolen or destroyed.",
+    "quote/statement": "न चोरहार्यं न च राजहार्यं न भ्रातृभाज्यं न च भारकारी । व्यये कृते वर्धत एव नित्यं विद्याधनं सर्वधनप्रधानम् ॥ — Na Choraharyam Na Cha Rajaharyam.",
+    "Meaning": "Knowledge cannot be stolen, confiscated or divided; it grows when shared. It highlights education as an enduring and equitable form of wealth."
+  },
+  {
+    "id": 526,
+    "personality": "Traditional Sanskrit Subhashita",
+    "context/backstory": "A traditional saying celebrating perseverance and enterprise.",
+    "quote/statement": "उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः — Udyamena Hi Sidhyanti Karyani Na Manorathaih.",
+    "Meaning": "Tasks are accomplished through effort, not merely through wishes. It promotes hard work, initiative, discipline and result-oriented administration."
+  },
+  {
+    "id": 527,
+    "personality": "Traditional Sanskrit Subhashita",
+    "context/backstory": "A popular maxim on perseverance, commonly associated with Sanskrit moral literature.",
+    "quote/statement": "उद्यमः साहसं धैर्यं बुद्धिः शक्तिः पराक्रमः । षडेते यत्र वर्तन्ते तत्र देवः सहायः ॥ — Udyamah Sahasam Dhairyam Buddhih Shaktih Parakramah.",
+    "Meaning": "Enterprise, courage, patience, intelligence, strength and determination invite success. It emphasises a combination of personal effort and sound judgement."
+  },
+  {
+    "id": 528,
+    "personality": "Traditional Sanskrit Subhashita",
+    "context/backstory": "A traditional maxim on the destructive effect of laziness.",
+    "quote/statement": "आलस्यं हि मनुष्याणां शरीरस्थो महान् रिपुः — Alasyam Hi Manushyanam Sharirastho Mahan Ripuh.",
+    "Meaning": "Laziness is a great enemy residing within human beings. It encourages discipline, responsibility, productivity and timely action."
+  },
+  {
+    "id": 529,
+    "personality": "Traditional Sanskrit Subhashita",
+    "context/backstory": "A traditional saying on the superiority of knowledge over material possessions.",
+    "quote/statement": "नास्ति विद्यासमं चक्षुः — Nasti Vidya Samam Chakshuh.",
+    "Meaning": "There is no eye equal to knowledge. Education gives people the ability to understand reality, distinguish right from wrong and make informed decisions."
+  },
+  {
+    "id": 530,
+    "personality": "Valmiki Ramayana",
+    "context/backstory": "A famous statement associated with Rama's return from Lanka in the Yuddha Kanda.",
+    "quote/statement": "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी — Janani Janmabhumishcha Swargadapi Gariyasi.",
+    "Meaning": "Mother and motherland are greater than heaven. It expresses gratitude towards one's roots, patriotism and responsibility towards one's homeland."
+  },
+  {
+    "id": 531,
+    "personality": "Valmiki Ramayana",
+    "context/backstory": "A famous statement attributed to Rama in the Yuddha Kanda, expressing his preference for his homeland over material splendour.",
+    "quote/statement": "अपि स्वर्णमयी लङ्का न मे लक्ष्मण रोचते । जननी जन्मभूमिश्च स्वर्गादपि गरीयसी ॥ — Api Svarnamayi Lanka Na Me Lakshmana Rochate.",
+    "Meaning": "Even a golden Lanka does not appeal to me; mother and motherland are greater than heaven. It teaches that material prosperity cannot replace belonging, identity and emotional responsibility towards one's homeland."
+  },
+  {
+    "id": 532,
+    "personality": "Manusmriti",
+    "context/backstory": "Manusmriti 4.138, prescribing ethical speech.",
+    "quote/statement": "सत्यं ब्रूयात् प्रियं ब्रूयात् न ब्रूयात् सत्यमप्रियम् — Satyam Bruyat, Priyam Bruyat.",
+    "Meaning": "Speak the truth and speak pleasantly; do not speak unpleasant truth unnecessarily. It teaches tact, empathy and responsible communication, while not justifying concealment of facts when public interest requires disclosure."
+  },
+  {
+    "id": 533,
+    "personality": "Manusmriti",
+    "context/backstory": "Manusmriti 4.138, the concluding part of its guidance on truthful and considerate speech.",
+    "quote/statement": "प्रियं च नानृतं ब्रूयात् — Priyam Cha Nanritam Bruyat.",
+    "Meaning": "Do not speak falsehood merely to please someone. It highlights honesty and integrity even when the truth may be inconvenient."
+  },
+  {
+    "id": 534,
+    "personality": "Mahabharata",
+    "context/backstory": "A well-known ethical principle in the Mahabharata tradition, often called the principle of reciprocity.",
+    "quote/statement": "आत्मनः प्रतिकूलानि परेषां न समाचरेत् — Atmanah Pratikulani Paresham Na Samacharet.",
+    "Meaning": "Do not do to others what is harmful or unpleasant to yourself. It expresses empathy, fairness and the ethical foundation of treating others with dignity."
+  },
+  {
+    "id": 535,
+    "personality": "Bhagavad Gita",
+    "context/backstory": "Bhagavad Gita 3.21, Krishna explains how the conduct of exemplary people influences society.",
+    "quote/statement": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः — Yad Yad Acharati Shreshthah Tattadevetaro Janah.",
+    "Meaning": "Whatever exemplary people do, others follow. It highlights the importance of ethical leadership, role modelling and personal integrity in public life."
+  },
+  {
+    "id": 536,
+    "personality": "Bhagavad Gita",
+    "context/backstory": "Bhagavad Gita 2.47, Krishna's teaching on duty and detachment from the fruits of action.",
+    "quote/statement": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन — Karmanye Vadhikaraste Ma Phaleshu Kadachana.",
+    "Meaning": "You have a right to perform your duty, but not to the fruits of action. It teaches duty-consciousness, sincerity and freedom from excessive attachment to personal rewards."
+  },
+  {
+    "id": 537,
+    "personality": "Bhagavad Gita",
+    "context/backstory": "Bhagavad Gita 2.50, explaining the importance of skill and wisdom in action.",
+    "quote/statement": "योगः कर्मसु कौशलम् — Yogah Karmasu Kaushalam.",
+    "Meaning": "Yoga is excellence or skill in action. It promotes efficiency, competence, mindfulness and quality in the performance of one's responsibilities."
+  },
+  {
+    "id": 538,
+    "personality": "Bhagavad Gita",
+    "context/backstory": "Bhagavad Gita 2.48, teaching equanimity in success and failure.",
+    "quote/statement": "समत्वं योग उच्यते — Samatvam Yoga Uchyate.",
+    "Meaning": "Equanimity is called yoga. It encourages emotional balance, impartiality and composure in difficult administrative and personal situations."
+  },
+  {
+    "id": 539,
+    "personality": "Bhagavad Gita",
+    "context/backstory": "Bhagavad Gita 4.38, describing knowledge as a purifier.",
+    "quote/statement": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते — Na Hi Jnanena Sadrisham Pavitramiha Vidyate.",
+    "Meaning": "There is nothing as purifying as knowledge. It emphasises education, wisdom, critical thinking and the ability of knowledge to overcome ignorance."
+  },
+  {
+    "id": 540,
+    "personality": "Bhagavad Gita",
+    "context/backstory": "Bhagavad Gita 4.39, on the relationship between faith, discipline and knowledge.",
+    "quote/statement": "श्रद्धावाँल्लभते ज्ञानम् — Shraddhavan Labhate Jnanam.",
+    "Meaning": "A person with sincere commitment and faith attains knowledge. It highlights dedication, patience and disciplined learning."
+  },
+  {
+    "id": 541,
+    "personality": "Bhagavad Gita",
+    "context/backstory": "Bhagavad Gita 4.8, describing the restoration of righteousness when injustice becomes dominant.",
+    "quote/statement": "परित्राणाय साधूनां विनाशाय च दुष्कृताम् । धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥ — Paritranaya Sadhunam.",
+    "Meaning": "The protection of the good and the restoration of righteousness are essential. It can be used to discuss the duty of institutions to protect the vulnerable and uphold justice."
+  },
+  {
+    "id": 542,
+    "personality": "Bhagavad Gita",
+    "context/backstory": "Bhagavad Gita 5.25, describing those who work for the welfare of all beings.",
+    "quote/statement": "सर्वभूतहिते रताः — Sarvabhutahite Ratah.",
+    "Meaning": "Those who are devoted to the welfare of all beings. It is highly relevant to public service, inclusive development, compassion and universal welfare."
+  },
+  {
+    "id": 543,
+    "personality": "Bhagavad Gita",
+    "context/backstory": "Bhagavad Gita 6.32, describing the person who sees others with the same regard as oneself.",
+    "quote/statement": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन — Atmaupamyena Sarvatra Samam Pashyati Yo Arjuna.",
+    "Meaning": "A person who sees others as equal to oneself demonstrates the highest understanding. It promotes empathy, equality, impartiality and sensitivity towards others."
+  },
+  {
+    "id": 544,
+    "personality": "Patanjali Yoga Sutras",
+    "context/backstory": "Yoga Sutras 2.30, listing the five yamas or ethical restraints that guide conduct.",
+    "quote/statement": "अहिंसा सत्यास्तेय ब्रह्मचर्यापरिग्रहाः — Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha.",
+    "Meaning": "Non-violence, truthfulness, non-stealing, self-restraint and non-possessiveness are ethical disciplines. They offer a framework for personal integrity and responsible conduct."
+  },
+  {
+    "id": 545,
+    "personality": "Patanjali Yoga Sutras",
+    "context/backstory": "Yoga Sutras 1.33, prescribing attitudes that help maintain mental clarity and social harmony.",
+    "quote/statement": "मैत्री करुणा मुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनातः चित्तप्रसादनम् — Maitri Karuna Mudita Upekshanam.",
+    "Meaning": "Cultivate friendliness towards the happy, compassion towards the suffering, joy towards the virtuous and equanimity towards the non-virtuous. It promotes emotional intelligence and balanced interpersonal conduct."
+  },
+  {
+    "id": 546,
+    "personality": "Patanjali Yoga Sutras",
+    "context/backstory": "Yoga Sutras 1.2, defining yoga as the regulation of mental fluctuations.",
+    "quote/statement": "योगश्चित्तवृत्तिनिरोधः — Yogash Chitta Vritti Nirodhah.",
+    "Meaning": "Yoga is the discipline of mental fluctuations. It highlights self-control, mindfulness, emotional stability and clarity in decision-making."
+  },
+  {
+    "id": 547,
+    "personality": "Rigveda",
+    "context/backstory": "Rigveda 10.191.2, a famous Vedic hymn promoting collective action and social harmony.",
+    "quote/statement": "संगच्छध्वं संवदध्वं सं वो मनांसि जानताम् — Sangachchhadhvam Samvadadhvam Sam Vo Manamsi Janatam.",
+    "Meaning": "Move together, speak together and let your minds be in harmony. It promotes teamwork, dialogue, cooperation, consensus-building and participatory governance."
+  },
+  {
+    "id": 548,
+    "personality": "Rigveda",
+    "context/backstory": "Rigveda 1.89.1, a prayer inviting noble and beneficial thoughts from every direction.",
+    "quote/statement": "आ नो भद्राः क्रतवो यन्तु विश्वतः — Aa No Bhadrah Kratavo Yantu Vishwatah.",
+    "Meaning": "May noble thoughts come to us from all directions. It encourages open-mindedness, intellectual freedom, scientific temper and learning from diverse cultures and perspectives."
+  },
+  {
+    "id": 549,
+    "personality": "Rigveda",
+    "context/backstory": "Rigveda 9.63.5, containing an expression of collective aspiration and the spread of noble conduct.",
+    "quote/statement": "कृण्वन्तो विश्वमार्यम् — Krinvanto Vishwam Aryam.",
+    "Meaning": "Let us make the world noble. It can be interpreted as a call to promote ethical conduct, knowledge, social progress and human excellence."
+  },
+  {
+    "id": 550,
+    "personality": "Aitareya Brahmana",
+    "context/backstory": "A well-known maxim from the Aitareya Brahmana tradition, celebrating the value of movement and effort.",
+    "quote/statement": "चरन् वै मधु विन्दति — Charan Vai Madhu Vindati.",
+    "Meaning": "The one who moves forward finds sweetness. It teaches that effort, initiative, exploration and perseverance bring opportunities and success."
   }
 ]
