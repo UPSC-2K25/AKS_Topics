@@ -3848,5 +3848,180 @@
     "context/backstory": "A well-known maxim from the Aitareya Brahmana tradition, celebrating the value of movement and effort.",
     "quote/statement": "चरन् वै मधु विन्दति — Charan Vai Madhu Vindati.",
     "Meaning": "The one who moves forward finds sweetness. It teaches that effort, initiative, exploration and perseverance bring opportunities and success."
+  },
+  {
+    "id": 551,
+    "personality": "Ethics",
+    "context/backstory": "Integrity, honesty, transparency, accountability and ethical governance.",
+    "quote/statement": "Satyameva Jayate",
+    "meaning": "Truth alone triumphs. Public institutions and civil servants must uphold truth and integrity."
+  },
+  {
+    "id": 552,
+    "personality": "Essay",
+    "context/backstory": "Globalisation, international relations, universal brotherhood, peace and human unity.",
+    "quote/statement": "Vasudhaiva Kutumbakam",
+    "meaning": "The world is one family. Humanity must rise above narrow divisions and work together."
+  },
+  {
+    "id": 553,
+    "personality": "Essay",
+    "context/backstory": "Inclusive development, welfare state, social justice, compassion and human well-being.",
+    "quote/statement": "Sarve Bhavantu Sukhinah",
+    "meaning": "May all be happy and free from suffering. True progress must promote the welfare of everyone."
+  },
+  {
+    "id": 554,
+    "personality": "Ethics",
+    "context/backstory": "Personal integrity, ethical conduct, probity in public life and responsible administration.",
+    "quote/statement": "Satyam Vada, Dharmam Chara",
+    "meaning": "Speak the truth and practise righteousness. Ethical principles must guide both words and actions."
+  },
+  {
+    "id": 555,
+    "personality": "Ethics",
+    "context/backstory": "Non-violence, tolerance, conflict resolution, compassion and peaceful administration.",
+    "quote/statement": "Ahimsa Paramo Dharma",
+    "meaning": "Non-violence is the highest virtue. Respect for life and dignity should guide human conduct."
+  },
+  {
+    "id": 556,
+    "personality": "Ethics",
+    "context/backstory": "Work culture, professional competence, dedication, efficiency and excellence in public service.",
+    "quote/statement": "Yogah Karmasu Kaushalam",
+    "meaning": "Yoga is excellence in action. Work should be performed with skill, discipline and dedication."
+  },
+  {
+    "id": 557,
+    "personality": "Ethics",
+    "context/backstory": "Duty, selflessness, work ethics, impartiality and detachment from personal rewards.",
+    "quote/statement": "Karmanye Vadhikaraste",
+    "meaning": "One has the right to perform one's duty, but not to control its results. Focus on sincere effort rather than personal rewards."
+  },
+  {
+    "id": 558,
+    "personality": "Ethics",
+    "context/backstory": "Hospitality, public service, citizen-centric administration and respect for others.",
+    "quote/statement": "Atithi Devo Bhava",
+    "meaning": "Treat the guest as divine. Every individual deserves respect, dignity and considerate treatment."
+  },
+  {
+    "id": 559,
+    "personality": "Ethics",
+    "context/backstory": "Family values, gratitude, respect for parents and intergenerational responsibility.",
+    "quote/statement": "Matru Devo Bhava",
+    "meaning": "Treat your mother as divine. It highlights the importance of gratitude, care and respect for motherhood."
+  },
+  {
+    "id": 560,
+    "personality": "Ethics",
+    "context/backstory": "Family values, respect for elders, responsibility and socialisation.",
+    "quote/statement": "Pitru Devo Bhava",
+    "meaning": "Treat your father as divine. It emphasises respect, gratitude and responsibility towards parents."
+  },
+  {
+    "id": 561,
+    "personality": "Ethics",
+    "context/backstory": "Education, respect for teachers, mentorship and the role of ethical leadership.",
+    "quote/statement": "Acharya Devo Bhava",
+    "meaning": "Treat your teacher as divine. Teachers and mentors play a vital role in shaping character and values."
+  },
+  {
+    "id": 562,
+    "personality": "Essay",
+    "context/backstory": "Agriculture, farmers' welfare, food security, rural development and the dignity of labour.",
+    "quote/statement": "Annadata Sukhibhava",
+    "meaning": "May the provider of food be happy. Society must respect and ensure the well-being of farmers and food producers."
+  },
+  {
+    "id": 563,
+    "personality": "Essay",
+    "context/backstory": "Agricultural development, food security, rural prosperity and prevention of hunger.",
+    "quote/statement": "Krishito Nasti Durbhiksham",
+    "meaning": "There is no famine where agriculture flourishes. Agricultural productivity is fundamental to food security and prosperity."
+  },
+  {
+    "id": 564,
+    "personality": "Essay",
+    "context/backstory": "Food production, food security, agricultural policy and the importance of adequate food supply.",
+    "quote/statement": "Annam Bahu Kurvita",
+    "meaning": "Produce food in abundance. Society must promote food production and ensure adequate nourishment for all."
+  },
+  {
+    "id": 565,
+    "personality": "Ethics",
+    "context/backstory": "Food wastage, responsible consumption, hunger, sustainability and resource conservation.",
+    "quote/statement": "Annam Na Nindyat",
+    "meaning": "Do not disrespect food. Food must be valued, consumed responsibly and never wasted."
+  },
+  {
+    "id": 566,
+    "personality": "Ethics",
+    "context/backstory": "Rule of law, constitutional morality, justice, accountability and ethical governance.",
+    "quote/statement": "Dharmo Rakshati Rakshitah",
+    "meaning": "Dharma protects those who protect it. Upholding justice, law and righteousness strengthens society and institutions."
+  },
+  {
+    "id": 567,
+    "personality": "Ethics",
+    "context/backstory": "Leadership by example, role modelling, administrative responsibility and integrity in public life.",
+    "quote/statement": "Yad Yad Acharati Shreshthah",
+    "meaning": "Whatever exemplary people do, others follow. Leaders must demonstrate the values and conduct they expect from society."
+  },
+  {
+    "id": 568,
+    "personality": "Ethics",
+    "context/backstory": "Compassion, environmental ethics, animal welfare, inclusive governance and universal welfare.",
+    "quote/statement": "Sarvabhutahite Ratah",
+    "meaning": "One who is devoted to the welfare of all beings. Ethical conduct should extend beyond oneself to all living beings."
+  },
+  {
+    "id": 569,
+    "personality": "Ethics",
+    "context/backstory": "Empathy, impartiality, social harmony, human dignity and ethical decision-making.",
+    "quote/statement": "Atmanah Pratikulani Paresham Na Samacharet",
+    "meaning": "Do not do to others what you consider harmful to yourself. Treat others with the fairness and consideration you expect for yourself."
+  },
+  {
+    "id": 570,
+    "personality": "Essay",
+    "context/backstory": "Scientific temper, intellectual openness, reform, pluralism and knowledge exchange.",
+    "quote/statement": "Aa No Bhadrah Kratavo Yantu Vishwatah",
+    "meaning": "Let noble thoughts come to us from all directions. Society should remain open to good ideas and knowledge from everywhere."
+  },
+  {
+    "id": 571,
+    "personality": "Ethics",
+    "context/backstory": "Teamwork, cooperative federalism, public participation, consensus-building and collective action.",
+    "quote/statement": "Sangachchhadhvam Samvadadhvam",
+    "meaning": "Walk together and communicate together. Collective progress requires cooperation, dialogue and shared purpose."
+  },
+  {
+    "id": 572,
+    "personality": "Essay",
+    "context/backstory": "Education, awareness, scientific temper, social reform and the fight against ignorance.",
+    "quote/statement": "Tamaso Ma Jyotirgamaya",
+    "meaning": "Lead me from darkness to light. Education and awareness help individuals overcome ignorance and move towards knowledge."
+  },
+  {
+    "id": 573,
+    "personality": "Essay",
+    "context/backstory": "Truth, justice, ethical transformation, good governance and the pursuit of knowledge.",
+    "quote/statement": "Asato Ma Sadgamaya",
+    "meaning": "Lead me from falsehood to truth. Individuals and institutions must move towards truth, justice and ethical conduct."
+  },
+  {
+    "id": 574,
+    "personality": "Ethics",
+    "context/backstory": "Perseverance, dedication, hard work, administrative efficiency and achievement of goals.",
+    "quote/statement": "Udyamena Hi Sidhyanti Karyani Na Manorathaih",
+    "meaning": "Tasks are accomplished through effort, not merely through wishes. Success requires action, commitment and perseverance."
+  },
+  {
+    "id": 575,
+    "personality": "Essay",
+    "context/backstory": "Environmental protection, altruism, sustainability, community welfare and intergenerational responsibility.",
+    "quote/statement": "Paropakaraya Phalanti Vrikshah",
+    "meaning": "Trees bear fruits for the benefit of others. Nature teaches selfless service and reminds us to contribute to the welfare of society."
   }
 ]
