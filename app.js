@@ -191,3 +191,27 @@ async function initApp() {
 }
 
 initApp();
+
+// Keyboard Navigation for Pagination (Left/Right Arrows)
+document.addEventListener("keydown", (e) => {
+  // Ignore navigation when typing inside search/filter inputs
+  if (["INPUT", "SELECT", "TEXTAREA"].includes(document.activeElement.tagName)) {
+    return;
+  }
+
+  const totalPages = Math.ceil(filteredTopics.length / ITEMS_PER_PAGE) || 1;
+
+  if (e.key === "ArrowLeft") {
+    if (currentPage > 1) {
+      currentPage--;
+      renderView();
+      cardsContainer.scrollTop = 0;
+    }
+  } else if (e.key === "ArrowRight") {
+    if (currentPage < totalPages) {
+      currentPage++;
+      renderView();
+      cardsContainer.scrollTop = 0;
+    }
+  }
+});
