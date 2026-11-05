@@ -3,72 +3,55 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>UPSC CSE Topic Bank</title>
+  <title>AKS-Topics</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="container">
-    <header>
-      <h1>UPSC High-Yield Knowledge Base</h1>
-      <p class="subtitle">Systematic Topic Registry with Live Filters & Micro-Sentences</p>
-    </header>
-
-    <!-- Control Bar -->
-    <section class="controls-panel">
-      <div class="control-group">
-        <label for="searchInput">Search Topics & Passages</label>
-        <input 
-          type="text" 
-          id="searchInput" 
-          placeholder="Type keyword (e.g., GLOF, Article 44, SEBI)..."
-          autocomplete="off"
-        >
-      </div>
-
-      <div class="control-row">
-        <div class="control-group">
-          <label for="subjectFilter">Subject</label>
-          <select id="subjectFilter">
-            <option value="ALL">All Subjects</option>
-          </select>
-        </div>
-
-        <div class="control-group">
-          <label for="priorityFilter">Priority Level</label>
-          <select id="priorityFilter">
-            <option value="ALL">All Priorities</option>
-            <option value="High">High</option>
-            <option value="Medium">Medium</option>
-            <option value="Low">Low</option>
-          </select>
-        </div>
-
-        <div class="control-group reset-group">
-          <button id="resetBtn" class="secondary-btn" type="button">Reset Filters</button>
-        </div>
-      </div>
-    </section>
-
-    <!-- Meta Status Bar -->
-    <div class="status-bar">
-      <span id="resultsCount">Loading topics...</span>
-      <span id="paginationInfo">Page 1 of 1</span>
+  <!-- Ultra-Lean Top Navigation Bar -->
+  <header class="top-nav">
+    <div class="nav-left">
+      <span class="brand-title">AKS-Topics</span>
+      <span id="resultsCount" class="meta-count">0 items</span>
     </div>
 
-    <!-- Cards Container -->
-    <main id="cardsContainer" class="cards-list" aria-live="polite">
-      <!-- Generated via app.js -->
-    </main>
+    <div class="nav-filters">
+      <input 
+        type="text" 
+        id="searchInput" 
+        class="nav-input" 
+        placeholder="Search topic or passage..." 
+        autocomplete="off"
+      >
+      <input 
+        type="text" 
+        id="subjectInput" 
+        class="nav-input" 
+        placeholder="Filter subject keyword..." 
+        autocomplete="off"
+      >
+      <select id="priorityFilter" class="nav-select">
+        <option value="ALL">All Priorities</option>
+        <option value="High">High</option>
+        <option value="Medium">Medium</option>
+        <option value="Low">Low</option>
+      </select>
+      <button id="resetBtn" class="nav-btn" type="button" title="Clear all filters">Reset</button>
+    </div>
 
-    <!-- Pagination Controls -->
-    <nav class="pagination-bar" aria-label="Topic navigation">
-      <button id="firstBtn" class="page-btn">&laquo; First</button>
-      <button id="prevBtn" class="page-btn">&lsaquo; Prev</button>
-      <div id="pageNumberButtons" class="page-numbers"></div>
-      <button id="nextBtn" class="page-btn">Next &rsaquo;</button>
-      <button id="lastBtn" class="page-btn">Last &raquo;</button>
-    </nav>
-  </div>
+    <!-- Compact Inline Pagination -->
+    <div class="nav-pagination">
+      <button id="firstBtn" class="page-nav-btn" title="First Page">&laquo;</button>
+      <button id="prevBtn" class="page-nav-btn" title="Previous Page">&lsaquo;</button>
+      <span id="paginationInfo" class="page-indicator">1 / 1</span>
+      <button id="nextBtn" class="page-nav-btn" title="Next Page">&rsaquo;</button>
+      <button id="lastBtn" class="page-nav-btn" title="Last Page">&raquo;</button>
+    </div>
+  </header>
+
+  <!-- Independent Scrollable Content Area -->
+  <main id="cardsContainer" class="main-viewport" aria-live="polite">
+    <!-- Generated dynamically via app.js -->
+  </main>
 
   <script src="app.js"></script>
 </body>
