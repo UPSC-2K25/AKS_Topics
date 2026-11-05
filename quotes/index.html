@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AKS-Quotes</title>
+  <link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+  <!-- Ultra-Lean Top Navigation Bar -->
+  <header class="top-nav">
+    <div class="nav-left">
+      <a href="../" class="back-link" title="Return to Portal">&larr;</a>
+      <span class="brand-title">AKS-Quotes</span>
+      <span id="resultsCount" class="meta-count">0 items</span>
+    </div>
+
+    <div class="nav-filters">
+      <input 
+        type="text" 
+        id="searchInput" 
+        class="nav-input" 
+        placeholder="Search quote, context, or meaning..." 
+        autocomplete="off"
+      >
+      <input 
+        type="text" 
+        id="personalityInput" 
+        class="nav-input" 
+        placeholder="Filter personality..." 
+        autocomplete="off"
+      >
+      <button id="resetBtn" class="nav-btn" type="button" title="Clear all filters">Reset</button>
+    </div>
+
+    <!-- Compact Inline Pagination -->
+    <div class="nav-pagination">
+      <button id="firstBtn" class="page-nav-btn" title="First Page">&laquo;</button>
+      <button id="prevBtn" class="page-nav-btn" title="Previous Page">&lsaquo;</button>
+      <span id="paginationInfo" class="page-indicator">1 / 1</span>
+      <button id="nextBtn" class="page-nav-btn" title="Next Page">&rsaquo;</button>
+      <button id="lastBtn" class="page-nav-btn" title="Last Page">&raquo;</button>
+    </div>
+  </header>
+
+  <!-- Independent Scrollable Content Area -->
+  <main id="cardsContainer" class="main-viewport" aria-live="polite">
+    <!-- Generated dynamically via app.js -->
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
