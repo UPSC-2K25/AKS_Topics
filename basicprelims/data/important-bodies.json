@@ -1,0 +1,67 @@
+[
+  {
+    "sno": 1,
+    "body_name": "Election Commission of India (ECI)",
+    "constitutional_status": "Constitutional Body (Permanent and Autonomous)",
+    "governing_article_or_statute": "Article 324 of the Constitution of India; Representation of the People Acts (1950 and 1951)",
+    "parent_ministry_or_branch": "Independent Constitutional Authority (Administrative liaison with Ministry of Law & Justice)",
+    "composition_and_eligibility": "Chief Election Commissioner (CEC) and two Election Commissioners (multi-member body since 1993)",
+    "appointment_and_removal_process": "Appointed by the President based on a Selection Committee (Prime Minister, Union Cabinet Minister, and Leader of Opposition/Single Largest Party); CEC removed like a Supreme Court Judge (proven misbehavior/incapacity), ECs removed only on recommendation of CEC",
+    "mandate_and_functions": "Superintendence, direction, and control of elections to Parliament, State Legislatures, and the offices of the President and Vice-President; enforcement of the Model Code of Conduct (MCC)",
+    "quasi_judicial_and_enforcement_powers": "Decides symbol disputes for political parties (Election Symbols Order 1968), disqualification inquiries referred by President/Governor under Article 103 and 192",
+    "institutional_autonomy_safeguards": "Security of tenure for CEC; salary and conditions equal to a Supreme Court judge; conditions cannot be varied to their disadvantage",
+    "key_challenges_and_reforms_needed": "Expenditure is not charged on the Consolidated Fund of India; lack of independent permanent administrative cadre; exclusion of the Chief Justice of India from the 2023 appointments statute"
+  },
+  {
+    "sno": 2,
+    "body_name": "Finance Commission of India",
+    "constitutional_status": "Constitutional Body (Quasi-Judicial, constituted quinquennially)",
+    "governing_article_or_statute": "Article 280 and Article 281 of the Constitution of India; Finance Commission (Miscellaneous Provisions) Act 1951",
+    "parent_ministry_or_branch": "Executive / Ministry of Finance (Department of Economic Affairs)",
+    "composition_and_eligibility": "Chairman (experienced in public affairs) and four members (qualified as HC judges, experienced in public finance, economic administration)",
+    "appointment_and_removal_process": "Appointed by the President of India every fifth year (or earlier as needed)",
+    "mandate_and_functions": "Recommends horizontal and vertical devolution of net tax proceeds between the Union and States; principles governing grants-in-aid (Article 275); measures to augment state consolidated funds for local bodies",
+    "quasi_judicial_and_enforcement_powers": "Powers of a Civil Court under CPC 1908 to summon records, witnesses, and requisition financial statistics from states",
+    "institutional_autonomy_safeguards": "Independent statutory qualification framework; expert constitutional advisory role",
+    "key_challenges_and_reforms_needed": "Recommendations are strictly advisory and non-binding on the Union cabinet; friction between developed southern states and populous northern states over population census criteria (1971 vs 2011)"
+  },
+  {
+    "sno": 3,
+    "body_name": "Comptroller and Auditor General of India (CAG)",
+    "constitutional_status": "Constitutional Body ('Guardian of the Public Purse')",
+    "governing_article_or_statute": "Articles 148 to 151 of the Constitution of India; CAG's (DPC) Act 1971",
+    "parent_ministry_or_branch": "Independent Constitutional Authority (Heads the Indian Audit and Accounts Department)",
+    "composition_and_eligibility": "Single-member authority; senior civil servants with extensive administrative and public financial expertise",
+    "appointment_and_removal_process": "Appointed by President by warrant under his hand and seal; removed on grounds and procedure identical to a Supreme Court Judge",
+    "mandate_and_functions": "Audits accounts of Union, States, UTs, and state-funded PSUs; conducts financial, compliance, and performance audits; assists Parliament's Public Accounts Committee (PAC) as 'friend, philosopher, and guide'",
+    "quasi_judicial_and_enforcement_powers": "Right to inspect any government treasury or office, call for books of accounts; no direct penal power to enforce recoveries",
+    "institutional_autonomy_safeguards": "Tenure of 6 years or 65 years of age; salary and administrative expenses charged on the Consolidated Fund of India; ineligible for further office under Central or State government after retirement",
+    "key_challenges_and_reforms_needed": "Audits are post-mortem (conducted after funds are spent); limited access to non-budgetary vehicles like PM CARES, Public-Private Partnerships (PPPs), and disinvested PSUs"
+  },
+  {
+    "sno": 4,
+    "body_name": "National Human Rights Commission (NHRC)",
+    "constitutional_status": "Statutory Body",
+    "governing_article_or_statute": "Protection of Human Rights Act (PHRA) 1993 (amended in 2006 and 2019)",
+    "parent_ministry_or_branch": "Executive / Ministry of Home Affairs",
+    "composition_and_eligibility": "Chairperson (former CJI or Judge of Supreme Court) and 5 members, plus 7 ex-officio chairpersons of National Commissions (Minorities, SC, ST, Women, etc.)",
+    "appointment_and_removal_process": "Appointed by President on recommendations of a 6-member committee (PM, Home Minister, Speaker, Deputy Chairman of Rajya Sabha, Leaders of Opposition in both Houses)",
+    "mandate_and_functions": "Inquire suo-motu or on petitions into human rights violations by public servants; visit jails; review constitutional and legal human-rights safeguards",
+    "quasi_judicial_and_enforcement_powers": "Powers of a Civil Court under CPC 1908 (summon witnesses, examine oaths, demand documents); can recommend monetary compensation",
+    "institutional_autonomy_safeguards": "Fixed term of 3 years or up to 70 years of age; removal only on proved misbehavior after inquiry by the Supreme Court",
+    "key_challenges_and_reforms_needed": "Criticized as a 'toothless tiger' because its findings are purely recommendatory; cannot investigate incidents after one year from the date of occurrence; limited jurisdiction over armed forces"
+  },
+  {
+    "sno": 5,
+    "body_name": "National Green Tribunal (NGT)",
+    "constitutional_status": "Statutory / Specialized Judicial Body",
+    "governing_article_or_statute": "National Green Tribunal Act 2010 (enacted under India's constitutional obligation for a healthy environment under Article 21)",
+    "parent_ministry_or_branch": "Judicial / Ministry of Environment, Forest and Climate Change (MoEFCC)",
+    "composition_and_eligibility": "Full-time Chairperson (retired SC Judge or HC Chief Justice) and 10 to 20 Judicial Members alongside 10 to 20 Expert Environmental Members",
+    "appointment_and_removal_process": "Chairperson appointed by the Central Government in consultation with the Chief Justice of India; members chosen by a selection committee",
+    "mandate_and_functions": "Expeditious disposal (mandated within 6 months) of civil disputes involving environmental protection, forest conservation, enforcement of legal rights over natural resources, and relief/compensation for environmental damage",
+    "quasi_judicial_and_enforcement_powers": "Enforces the Polluter Pays Principle and Precautionary Principle; can penalize violators with fines or prison terms; appeals lie directly to the Supreme Court",
+    "institutional_autonomy_safeguards": "Members ineligible for reappointment; not bound by civil procedure codes (CPC), governed by principles of natural justice",
+    "key_challenges_and_reforms_needed": "Excluded jurisdiction over the Wildlife (Protection) Act 1972 and Indian Forest Act 1927; frequent executive conflict over economic clearances; vacant benches in regional circuits"
+  }
+]

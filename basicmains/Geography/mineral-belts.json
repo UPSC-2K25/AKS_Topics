@@ -1,0 +1,106 @@
+[
+  {
+    "label": "National Mineral Endowments & GDP Contribution",
+    "info": "India produces approximately 95 minerals (4 fuel, 10 metallic, 23 non-metallic, 3 atomic, and 55 minor minerals); the mining and quarrying sector contributes roughly 1.9% to 2.1% of India's Gross Value Added (GVA)."
+  },
+  {
+    "label": "Geological Distribution of Major Mineral Belts",
+    "info": "Mineral wealth is stratified across four principal zones: North-Eastern Peninsular Belt (Chhota Nagpur/Odisha/Jharkhand—highest concentration of heavy minerals), Central Belt (Chhattisgarh/MP/Maharashtra), South-Western Belt (Karnataka/Goa/Tamil Nadu), and North-Western Belt (Aravallis/Rajasthan/Gujarat)."
+  },
+  {
+    "label": "Iron Ore: Reserves, Types & Production Metrics",
+    "info": "Total reserves stand at ~33–36 billion tonnes (haematite ~64%, magnetite ~36%); India ranks 4th globally in iron ore production (~250–275 MT annually), with Odisha single-handedly accounting for over 50% of national output, followed by Chhattisgarh, Karnataka, and Jharkhand."
+  },
+  {
+    "label": "Haematite vs. Magnetite Geography",
+    "info": "Haematite (Fe content ~60–70%) is concentrated in the Barabil-Koira valley (Keonjhar, Sundargarh in Odisha), Bailadila (Dantewada, Chhattisgarh), and Noamundi/Gua (Jharkhand); Magnetite (Fe content ~60–62%) is centered in the Dharwar craton of Karnataka (Bababudan, Kudremukh, Sandur) and Salem (Tamil Nadu)."
+  },
+  {
+    "label": "Manganese Ore: Reserves & Global Standing",
+    "info": "India holds the 7th largest reserves globally and ranks among the top 5 producers; Madhya Pradesh (Balaghat belt) leads national production with ~33%, followed by Maharashtra (Bhandara/Nagpur belt ~25%) and Odisha (~20%); MOIL (a Miniratna PSU) produces ~50% of the domestic supply."
+  },
+  {
+    "label": "Chromite Monopoly & Spatial Concentration",
+    "info": "Over 96% of India's total chromite reserves and more than 99% of total production are concentrated in a single geological formation: the Sukinda ultramafic complex (Jajpur district, Odisha); crucial for domestic ferro-chrome and stainless steel industries."
+  },
+  {
+    "label": "Bauxite: Reserves & Production Dominance",
+    "info": "India holds ~3.89 billion tonnes of bauxite resources; Odisha commands over 50% of total reserves and ~65–70% of annual production (notably the Panchpatmali, Baphlimali, and Pottangi deposits in Koraput, Rayagada, and Kalahandi); other deposits span the Maikala Range (MP) and Amarkantak Plateau (Chhattisgarh)."
+  },
+  {
+    "label": "Copper: Resource Scarcity & Import Dependency",
+    "info": "India possesses only ~0.2% of global copper reserves, resulting in an ~85–90% import dependency for domestic copper concentrate; domestic mining is led by Madhya Pradesh (Malanjkhand open-cast mine producing >60%), followed by Rajasthan (Khetri-Singhana belt) and Jharkhand (Singhbhum belt)."
+  },
+  {
+    "label": "Lead and Zinc: Rajasthan's Virtual Monopoly",
+    "info": "Rajasthan accounts for ~89% of India's total lead-zinc geological resources and virtually 100% of primary domestic production; home to Rampura-Agucha (Bhilwara), the world's largest zinc-producing mine, as well as the Sindesar Khurd and Zawar mine complexes."
+  },
+  {
+    "label": "Gold Resources & Production Centers",
+    "info": "India produces under 2 tonnes of primary gold annually against an annual domestic consumption of ~700–800 tonnes (>99% import reliance); primary domestic mining is restricted to Karnataka (Hutti Gold Mines in Raichur, world's deepest ancient gold mines) and Andhra Pradesh (Jonnagiri)."
+  },
+  {
+    "label": "Silver Production Dynamics",
+    "info": "India holds negligible primary silver deposits; ~99% of domestic silver is recovered as an industrial byproduct of lead-zinc smelting in Rajasthan (by Hindustan Zinc Limited), making India one of the top 5 global silver producers."
+  },
+  {
+    "label": "Tin: Concentration in Chhattisgarh",
+    "info": "Chhattisgarh is the sole tin-producing state in India, accounting for nearly 100% of production and ~36% of identified resources, primarily occurring as cassiterite in the pegmatite formations of the Bastar and Dantewada districts."
+  },
+  {
+    "label": "Coal: Reserves, Classifications & Basin Share",
+    "info": "Total geological reserves exceed 378 billion tonnes (India ranks 4th in global reserves, 2nd in global production); ~98% of reserves belong to lower Gondwana sediments (Damodar, Mahanadi, Godavari, and Son basins) characterized by high ash content (35–45%) and low calorific value; Tertiary coals (<2%) are high in sulfur (2–7%) and confined to the North-East."
+  },
+  {
+    "label": "Coking vs. Non-Coking Coal Realities",
+    "info": "Prime coking coal is almost exclusively found in Jharia (Jharkhand); due to low native reserves and high ash content, India imports ~85% of its coking coal requirements for blast-furnace steel manufacturing, primarily from Australia, the US, and Indonesia."
+  },
+  {
+    "label": "Lignite (Brown Coal) Distribution",
+    "info": "India possesses ~46 billion tonnes of lignite resources, with ~80% concentrated in Tamil Nadu (principally the Neyveli basin operated by NLC India Ltd); secondary deposits occur in Rajasthan (Palana, Bikaner) and Gujarat."
+  },
+  {
+    "label": "Petroleum & Natural Gas Basins",
+    "info": "India produces ~29–30 MMT of crude oil annually against a consumption exceeding 230 MMT (~87% import dependency); major domestic outputs originate from Western Offshore (Mumbai High ~40%), Rajasthan onshore (Barmer/Mangala ~20%), and Assam Shelf (Digboi, Naharkatiya ~15%)."
+  },
+  {
+    "label": "Uranium Reserves & Geotectonics",
+    "info": "Total known resources are ~3.5 lakh tonnes of U3O8; historically centered in the Singhbhum Shear Zone (Jaduguda, Narwapahar, Bhatin in Jharkhand); the Tummalapalle deposit (Cuddapah Basin, Andhra Pradesh) hosts one of the world's largest low-grade reserves; Rohil (Sikar, Rajasthan) and Gogi (Karnataka) are notable newer reserves."
+  },
+  {
+    "label": "Thorium & Heavy Mineral Placer Sands",
+    "info": "India holds the world's largest reserves of thorium (~1.07 million tonnes of monazite, yielding ~25% of global thorium); monazite beach placers are distributed across Odisha (33%), Andhra Pradesh (31%), Tamil Nadu (21%), and Kerala (12%—notably Chavara/Neendakara)."
+  },
+  {
+    "label": "Lithium Reserves (Salal-Haimana & Marlagalla)",
+    "info": "Geological Survey of India (GSI) established 5.9 million tonnes of inferred (G3 category) lithium resources in the bauxite-laterite composite of Salal-Haimana (Reasi, J&K), alongside 1,600 tonnes in the pegmatite formations of Marlagalla-Allapatna (Mandya, Karnataka)."
+  },
+  {
+    "label": "Rare Earth Elements (REE) Profile",
+    "info": "India possesses ~6.9 million tonnes of REE reserves (5th globally, ~6% of global share), largely trapped in coastal monazite placers; dominated by Light REEs (Lanthanum, Cerium, Neodymium), while Heavy REEs remain severely deficient, causing substantial import reliance."
+  },
+  {
+    "label": "Mica Belts & Export Position",
+    "info": "Historically accounted for ~60% of the world's sheet muscovite mica; concentrated in the 150 km x 25 km Bihar-Jharkhand mica belt (Koderma, Gaya, Hazaribagh), the Nellore mica belt (Andhra Pradesh), and Bhilwara (Rajasthan); predominantly consumed by the electronics and cosmetic industries."
+  },
+  {
+    "label": "Limestone: Spatial Footprint & Cement Linkage",
+    "info": "Found across Vindhyan and Cuddapah formations; Rajasthan (leading producer with ~21%) and Madhya Pradesh (~13%) drive national output, directly fueling India's position as the world's second-largest cement manufacturer."
+  },
+  {
+    "label": "Diamond Deposits in the Vindhyan Supergroup",
+    "info": "Madhya Pradesh holds ~90% of national diamond reserves; the Majhgawan and Hinota kimberlite pipes in Panna district (operated by NMDC) represent the only active mechanized diamond mine in India."
+  },
+  {
+    "label": "Critical Mineral Strategy & 30 Minerals List",
+    "info": "In 2023, the Ministry of Mines designated 30 critical minerals essential for economic development and national security (including Lithium, Cobalt, Nickel, Titanium, Graphite, and REEs), targeting deep 100% supply-chain deficits across high-tech and EV manufacturing."
+  },
+  {
+    "label": "MMDR Amendment Act, 2023 Reforms",
+    "info": "Delisted 6 atomic minerals (Lithium, Beryllium, Niobium, Titanium, Tantalum, Zirconium) to permit private commercial mining, and introduced Exploration Licences (EL) through competitive bidding to accelerate deep-seated and critical mineral discoveries."
+  },
+  {
+    "label": "National Mineral Exploration Trust (NMET) & KABIL",
+    "info": "NMET collects a non-profit statutory 2% cess on mineral royalty to fund autonomous regional exploration; KABIL (Khanij Bidesh India Ltd—a JV of NALCO, HCL, and MECL) executes strategic government-to-government acquisitions of overseas lithium and cobalt assets (e.g., in Argentina and Australia)."
+  }
+]

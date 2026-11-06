@@ -1,0 +1,72 @@
+[
+  {
+    "sno": 1,
+    "disease_name": "Diptheria",
+    "pathogen_type": "Bacteria",
+    "causative_agent": "Corynebacterium diphtheriae",
+    "affected_systems": "Mucous membranes of nose and throat; skin infections",
+    "symptoms": "Fever, sore throat, swollen glands, difficulty breathing and swallowing, thick grey membrane in the throat",
+    "transmission": "Spread through respiratory droplets (coughing, sneezing), direct contact or contamination",
+    "at_risk_groups": null,
+    "complications": "Can lead to myocarditis (heart damage), kidney damage, nerve damage and even death",
+    "vaccination": "DTaP and Tdap Vaccination; Tdap vaccination for every 10 years (Booster dose)",
+    "treatment": "Treatable with antitoxin and antibiotics",
+    "prevalence_and_course": "Very rare and spreads fast; Resolves within days to weeks"
+  },
+  {
+    "sno": 2,
+    "disease_name": "Tuberculosis (TB)",
+    "pathogen_type": "Bacteria",
+    "causative_agent": "Mycobacterium tuberculosis",
+    "affected_systems": "Often affects lungs; also affects heart, kidney, spine, and brain",
+    "symptoms": "Prolonged cough, chest pain, weight loss, fever and night sweats (Active TB); asymptomatic (Latent TB)",
+    "transmission": "Spread through coughing, sneezing, and saliva (kissing or sharing food)",
+    "at_risk_groups": "Weakened immune systems (HIV/AIDS), diabetes, malnutrition, alcohol or tobacco users",
+    "complications": "Can lead to serious health complications and be fatal if untreated",
+    "vaccination": "BCG vaccination for newborns",
+    "treatment": "Treatable with combination of antibiotics (DOTS protocol: Rifampicin, Isoniazid, Pyrazinamide, Ethambutol)",
+    "prevalence_and_course": "Common and spreads fast; Takes 6 months or more to treat"
+  },
+  {
+    "sno": 3,
+    "disease_name": "Cholera",
+    "pathogen_type": "Bacteria",
+    "causative_agent": "Vibrio cholerae",
+    "affected_systems": "Gastrointestinal tract (small intestine epithelium)",
+    "symptoms": "Profuse watery diarrhea ('rice-water stools'), vomiting, rapid dehydration, muscle cramps, thirst",
+    "transmission": "Contaminated drinking water and food via the fecal-oral route",
+    "at_risk_groups": "Populations in flood zones, refugee camps, and areas lacking potable water and sanitation",
+    "complications": "Hypovolemic shock, acute kidney injury, severe acidosis, death within hours if untreated",
+    "vaccination": "Oral Cholera Vaccines (OCV: Shanchol, Euvichol, Dukoral)",
+    "treatment": "Immediate Oral Rehydration Salts (ORS), intravenous fluids, and antibiotics (doxycycline, azithromycin)",
+    "prevalence_and_course": "Endemic and epidemic in vulnerable areas; acute illness resolving in days with timely rehydration"
+  },
+  {
+    "sno": 4,
+    "disease_name": "Measles (Rubeola)",
+    "pathogen_type": "Virus",
+    "causative_agent": "Measles morbillivirus",
+    "affected_systems": "Respiratory tract, skin, and lymphatic system; impacts central nervous system",
+    "symptoms": "High fever, cough, coryza, conjunctivitis, Koplik spots inside the mouth, and maculopapular rash spreading downward",
+    "transmission": "Airborne transmission via respiratory droplets, sneezing, coughing, and aerosol persistence",
+    "at_risk_groups": "Unvaccinated young children, malnourished infants (Vitamin A deficiency), pregnant women",
+    "complications": "Severe pneumonia, encephalitis, corneal blindness, subacute sclerosing panencephalitis (SSPE)",
+    "vaccination": "MMR (Measles, Mumps, Rubella) / MR vaccine administered in two doses",
+    "treatment": "Supportive care, hydration, antipyretics, and therapeutic high-dose Vitamin A supplementation",
+    "prevalence_and_course": "Highly contagious; rash and acute febrile symptoms typically resolve in 10 to 14 days"
+  },
+  {
+    "sno": 5,
+    "disease_name": "Rabies",
+    "pathogen_type": "Virus",
+    "causative_agent": "Rabies lyssavirus",
+    "affected_systems": "Central nervous system (peripheral nerves, spinal cord, and brain parenchyma)",
+    "symptoms": "Paresthesia and tingling at the bite site, fluctuating fever, progressing to hydrophobia, aerophobia, aggressive hallucinations, paralysis, and coma",
+    "transmission": "Saliva inoculated through bites, scratches, or mucous membrane contact with infected mammals (primarily dogs and bats)",
+    "at_risk_groups": "Veterinarians, dog handlers, forest workers, and populations in canine rabies-endemic countries",
+    "complications": "Progressive fatal viral encephalomyelitis; case fatality rate approaches 100% once clinical symptoms appear",
+    "vaccination": "Pre-exposure cell-culture prophylaxis; post-exposure prophylaxis (PEP) vaccine series accompanied by Rabies Immunoglobulin (RIG)",
+    "treatment": "Strictly post-exposure prophylaxis prior to symptom onset; strictly palliative once clinical signs manifest",
+    "prevalence_and_course": "Incubation period ranges from weeks to months; clinical disease is lethal within 7 to 10 days"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "label": "Climatological Definition and Seasonality",
+    "info": "Derived from the Arabic word 'Mawsim' (season), denoting the complete seasonal reversal of prevailing wind systems. It is a secondary atmospheric circulation driven by thermal contrasts, planetary pressure migrations, and upper-air dynamics across the South Asian realm."
+  },
+  {
+    "label": "IMD Seasonal Categorization & Long Period Average (LPA)",
+    "info": "The India Meteorological Department (IMD) classifies four official seasons: Winter (Jan–Feb), Pre-monsoon/Summer (Mar–May), Southwest Monsoon (Jun–Sep), and Post-monsoon/Retreating Monsoon (Oct–Dec). The Southwest Monsoon accounts for approximately 75% of India's annual precipitation, with an all-India Long Period Average (LPA) benchmark of 868.6 mm (based on the 1971–2020 climatological baseline)."
+  },
+  {
+    "label": "Nodal Ministries and Central Departments",
+    "info": "Ministry of Earth Sciences (MoES) serves as the primary administrative nodal ministry. Operational meteorological forecasting and synoptic alerts are managed by the India Meteorological Department (IMD), supported by the National Centre for Medium Range Weather Forecasting (NCMRWF) and the Indian Institute of Tropical Meteorology (IITM, Pune)."
+  },
+  {
+    "label": "Key Official Publications and Monitoring Reports",
+    "info": "IMD's 'Statement on Climate of India', 'Annual Climate Summary', seasonal 'Long Range Forecasts (LRF Stage I in April and Stage II in late May/June)', weekly 'Monsoon Weather Reports', and MoES's comprehensive assessment report 'Assessment of Climate Change over the Indian Region'."
+  },
+  {
+    "label": "National Monsoon Mission (NMM) and Computing Infrastructure",
+    "info": "A high-priority initiative by MoES using high-resolution coupled dynamical numerical prediction models (CFSv2 and Global Forecast System - GFS) executed on petascale supercomputers (including Pratyush at IITM Pune and Mihir at NCMRWF Noida) to enhance dynamical forecasts from seasonal down to block levels."
+  },
+  {
+    "label": "Observation and Satellite Tracking Network",
+    "info": "Integrates geostationary meteorological satellites (INSAT-3D, INSAT-3DR, and INSAT-3DS with multispectral imagers and atmospheric sounders), a national network of S-band and C-band Doppler Weather Radars (DWR), high-altitude radiosonde/radiowind networks, and thousands of automated Agro-Automatic Weather Stations (AWS)."
+  },
+  {
+    "label": "Thermal Concept of Monsoon Origin (Halley's Classical Theory)",
+    "info": "Formulated by Sir Edmund Halley in 1686; treats monsoons as an enormous macro-scale land-and-sea breeze. Differential specific heat capacities cause the extensive Asian landmass to heat rapidly in summer, forming a deep thermal low-pressure trough over northwest India that draws in cool, moisture-dense maritime air from the surrounding oceans."
+  },
+  {
+    "label": "Dynamic Concept of ITCZ Migration (Flohn's Theory)",
+    "info": "Proposed by Hermann Flohn in 1951; attributes monsoon genesis to planetary wind belt shifts rather than mere local thermal contrasts. In boreal summer, the Inter-Tropical Convergence Zone (ITCZ) migrates northward to 20°N–25°N (termed the Monsoon Trough) over the Indo-Gangetic Plains. The Southeast Trade Winds cross the equator, get deflected eastward by the Coriolis force (Ferrel's Law), and enter the subcontinent as the Southwest Monsoon."
+  },
+  {
+    "label": "Tibetan Plateau as an Elevated Thermal Engine (Koteswaram's Theory)",
+    "info": "Articulated by P. Koteswaram; highlights that the high-altitude Tibetan Plateau (average elevation ~4,000–4,500 m, area ~2.5 million sq km) absorbs intense solar insolation, becoming 2°C to 3°C warmer than the surrounding atmosphere at equivalent altitudes. It acts as an elevated heat pump, inducing strong convective updrafts that diverge in the upper troposphere (around 200 hPa) to create the Tibetan Anticyclone (Tibetan High)."
+  },
+  {
+    "label": "Subtropical Westerly Jet Stream (SWJ) - Winter Configuration",
+    "info": "In winter, the SWJ flows south of the Himalayan barrier at 9–12 km altitude (200–300 hPa). It maintains a strong anticyclonic subsiding airflow that stabilizes the northern plains, reinforces continental high pressure, and steers extratropical Mediterranean cyclonic depressions (Western Disturbances) into northwest India, yielding essential winter rain for Rabi crops."
+  },
+  {
+    "label": "SWJ Northward Shift and the Monsoon Burst",
+    "info": "During late spring, intense heating weakens the southern branch of the SWJ. Its abrupt, rapid jump north of the Tibetan Plateau in late May releases the upper-tropospheric dynamic capping over northern India, creating a sudden suction effect that triggers the explosive, high-energy onset ('Burst of the Monsoon') over the Kerala coast around June 1."
+  },
+  {
+    "label": "Tropical Easterly Jet Stream (TEJ) Mechanics",
+    "info": "Formed in the upper troposphere (100–150 hPa) around 15°N latitude, fed by the divergent easterly outflow descending from the Tibetan High. It traverses peninsular India and the Arabian Sea, descending over the western Indian Ocean near Madagascar. The intensity of TEJ directly correlates with the strength of lower-tropospheric monsoon circulation; an active TEJ prevents premature upper-air convergence."
+  },
+  {
+    "label": "Mascarene High and Cross-Equatorial Flow",
+    "info": "A semi-permanent, high-pressure anticyclonic cell centered near the Mascarene Islands (around 20°S–35°S, 40°E–90°E) in the southern Indian Ocean. It serves as the primary southern-hemisphere thermodynamic staging ground, driving cross-equatorial pressure gradients toward the continental low over India."
+  },
+  {
+    "label": "Somali Jet (Findlater Low-Level Jet Stream)",
+    "info": "A narrow, high-velocity lower-tropospheric wind band (concentrated near 850 hPa / 1.5 km altitude) that flows along the coast of Somalia and northern Madagascar before turning east across the Arabian Sea. Discovered by John Findlater, variations in its core wind speed (typically 20–40 knots) serve as a direct short-term indicator of moisture transport into the western Indian coastline."
+  },
+  {
+    "label": "Arabian Sea Branch Dynamics",
+    "info": "Carries roughly 65–70% of total monsoon moisture. It splits into three sub-streams: the first strikes the Western Ghats (causing intense orographic precipitation exceeding 250–400 cm on the windward slopes and creating a rain-shadow zone over the Deccan Plateau); the second enters through the Narmada-Tapi river grabens into central India; and the third crosses Gujarat and the Thar Desert, where the parallel orientation of the low-relief Aravalli Range prevents orographic lift, rendering Rajasthan arid."
+  },
+  {
+    "label": "Bay of Bengal Branch Dynamics",
+    "info": "Travels over the Bay of Bengal, picking up secondary moisture. Deflected by the Arakan Yoma ranges of Myanmar and the Meghalaya Plateau (where the funneling topography of the Garo, Khasi, and Jaintia Hills causes extreme orographic downpours at Mawsynram and Cherrapunji), it turns westward along the Himalayan barrier, steering moisture across the Indo-Gangetic Plains."
+  },
+  {
+    "label": "Monsoon Trough and Isohyetal Gradient",
+    "info": "An elongated low-pressure zone extending from the Thar Desert to the head of the Bay of Bengal. As the Bay of Bengal branch tracks westward along this trough axis, rainfall diminishes systematically from east to west (e.g., Kolkata ~120 cm, Patna ~105 cm, Prayagraj ~90 cm, Delhi ~60 cm, and Bikaner <25 cm)."
+  },
+  {
+    "label": "Monsoon Low Pressure Systems (LPS) and Depressions",
+    "info": "Synoptic cyclonic vortices originating over the warm waters of the head Bay of Bengal or northern Arabian Sea. They travel west-northwestward along the Monsoon Trough axis at an average frequency of 2 to 3 depressions per month during July and August, dictating the spatial distribution and intensity of central Indian rains."
+  },
+  {
+    "label": "Monsoon Breaks (Lull Periods)",
+    "info": "Prolonged dry spells lasting from one to several weeks over the central and peninsular plains during peak monsoon months (July–August). They occur when the Monsoon Trough axis shifts northward to the Himalayan foothills, suppressing convective rain over the plains while triggering catastrophic orographic flash floods in Himalayan river catchments."
+  },
+  {
+    "label": "Retreating / Northeast Monsoon Dynamics",
+    "info": "Between October and December, the southward retreat of the thermal equator and cooling of the landmass pushes the ITCZ south of the equator, establishing continental high pressure over northern India. Outflowing dry northeast winds pick up moisture over the Bay of Bengal and deposit it along the Coromandel Coast (coastal Tamil Nadu, southern Andhra Pradesh, and Rayalaseema), providing 50–60% of Tamil Nadu's annual water budget."
+  },
+  {
+    "label": "El Niño–Southern Oscillation (ENSO) Teleconnection",
+    "info": "Anomalous warming of sea surface temperatures (SST) in the central and eastern equatorial Pacific (El Niño) disrupts the Pacific Walker Circulation, shifting atmospheric convection eastward. This induces an anomalous subsiding circulation over the South Asian region, historically correlating with below-normal monsoon precipitation and heightened drought risk (e.g., 2002, 2009, 2014, 2015)."
+  },
+  {
+    "label": "La Niña Teleconnection",
+    "info": "Characterized by anomalous cooling of eastern/central tropical Pacific waters, strengthening the Walker cell and promoting vigorous low-level convergence and moisture pumping over the Indian subcontinent. It historically correlates with normal, above-normal, or surplus monsoon rainfall seasons."
+  },
+  {
+    "label": "Indian Ocean Dipole (IOD) / Indian Niño",
+    "info": "A sustained SST differential between the western tropical Indian Ocean (Arabian Sea) and the eastern tropical Indian Ocean (south of Indonesia). A Positive IOD (warmer western waters) enhances convective activity over the Arabian Sea, often neutralizing or mitigating the desiccating effects of concurrent El Niño events (as observed during the 1997 and 2019 monsoon seasons)."
+  },
+  {
+    "label": "Madden-Julian Oscillation (MJO)",
+    "info": "An eastward-propagating equatorial band of anomalous convective clouds and precipitation that circles the globe every 30 to 60 days. When an active, enhanced-convective MJO phase crosses the Indian Ocean basin, it triggers sudden surges in monsoon rainfall and facilitates depression genesis; the suppressed phase induces dry breaks."
+  },
+  {
+    "label": "Pacific Decadal Oscillation (PDO) and Atlantic Multidecadal Oscillation (AMO)",
+    "info": "Multi-decadal sea-surface temperature fluctuations influencing long-term rainfall regimes. A warm/positive phase of AMO generally favors robust Indian summer monsoons, whereas a warm/positive PDO phase (characterized by warm coastal waters in the northeast Pacific) tends to suppress all-India monsoon rainfall over multi-decadal epochs."
+  },
+  {
+    "label": "Anthropogenic Climate Change Impacts on Monsoons",
+    "info": "Documented in MoES scientific reports: Total annual monsoon precipitation exhibits high inter-annual variability with a slight declining trend in core central belts over recent decades; however, extreme daily precipitation events (>150 mm/day) have more than doubled since 1950, driven by higher atmospheric moisture-holding capacity (~7% per 1°C temperature rise via the Clausius-Clapeyron relation), leading to shorter, more erratic, and intense downpours with longer dry intervals."
+  },
+  {
+    "label": "Agro-Economic Vulnerability and Groundwater Recharge",
+    "info": "Because nearly 46–48% of India's net sown area remains entirely rainfed, the spatial and temporal arrival of the monsoon directly governs Kharif sowing (paddy, pulses, oilseeds, cotton), rural disposable income, inflation dynamics (via food-price baskets), reservoir storage levels across the Central Water Commission (CWC) monitored reservoirs, and annual replenishable groundwater recharge (~437 billion cubic meters)."
+  }
+]

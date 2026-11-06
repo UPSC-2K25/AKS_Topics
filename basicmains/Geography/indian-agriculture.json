@@ -1,0 +1,102 @@
+[
+  {
+    "label": "Macroeconomic Share and Workforce Dependence",
+    "info": "Contributes approximately 16–18% of India's Gross Value Added (GVA) while engaging around 45–46% of the country's total employed workforce (Periodic Labour Force Survey data)."
+  },
+  {
+    "label": "Nodal Ministries and Central Departments",
+    "info": "Ministry of Agriculture and Farmers Welfare (Department of Agriculture and Farmers Welfare, and Department of Agricultural Research and Education - DARE/ICAR); Ministry of Fisheries, Animal Husbandry and Dairying; Ministry of Food Processing Industries (MoFPI); and Ministry of Consumer Affairs, Food and Public Distribution."
+  },
+  {
+    "label": "Key Flagship Reports and Publications",
+    "info": "Agriculture Statistics at a Glance (Directorate of Economics and Statistics, MoA&FW); Periodic Agriculture Census (MoA&FW); All India Rural Financial Inclusion Survey (NAFIS by NABARD); Situation Assessment of Agricultural Households (NSO); and Price Policy Reports by CACP."
+  },
+  {
+    "label": "Operational Landholding Pattern (Agriculture Census)",
+    "info": "Small and Marginal Farmers (operating less than 2.0 hectares) constitute 86.2% of all operational landholders in India but hold only 47.3% of the operated agricultural area. The national average operational holding size has shrunk to approximately 1.08 hectares."
+  },
+  {
+    "label": "Categorization of Operational Holdings",
+    "info": "Marginal: < 1.0 hectare (68.5% of holdings); Small: 1.0 to 2.0 hectares (17.7%); Semi-Medium: 2.0 to 4.0 hectares (9.5%); Medium: 4.0 to 10.0 hectares (3.8%); Large: > 10.0 hectares (0.6%)."
+  },
+  {
+    "label": "Net Sown Area and Cropping Intensity",
+    "info": "Total reported geographical area is ~328.7 million hectares; Net Sown Area accounts for ~139–140 million hectares (around 42.4%), with Gross Cropped Area at ~198–200 million hectares, yielding a national cropping intensity of roughly 142–144%."
+  },
+  {
+    "label": "Irrigation Penetration and Monsoon Sensitivity",
+    "info": "Approximately 52–54% of net cultivated area is irrigated, leaving nearly 46–48% dependent on monsoon rainfall (rainfed agro-ecosystems). Groundwater (tube wells and open wells) accounts for over 60–65% of the country's net irrigated area."
+  },
+  {
+    "label": "Foodgrain and Horticulture Production Status",
+    "info": "Annual total foodgrain production exceeds 330 million metric tonnes (MMT). Total horticultural production outpaces foodgrains, hovering between 350 and 355 MMT, led by fruits and vegetables."
+  },
+  {
+    "label": "Global Agricultural Standing",
+    "info": "India is the 1st largest producer globally of milk, pulses, and jute; 2nd largest producer of rice, wheat, sugarcane, groundnut, cotton, fruits, and vegetables; and one of the largest exporters of marine products, spices, and non-basmati/basmati rice."
+  },
+  {
+    "label": "Minimum Support Price (MSP) Governance",
+    "info": "Recommended by the Commission for Agricultural Costs and Prices (CACP) and approved by the Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister."
+  },
+  {
+    "label": "Commodity Coverage of MSP",
+    "info": "Announced for 22 mandated crops plus Fair and Remunerative Price (FRP) for Sugarcane (total 23 commodities): 7 Cereals (paddy, wheat, maize, sorghum, pearl millet, barley, ragi), 5 Pulses (gram, tur/arhar, moong, urad, lentil), 7 Oilseeds (groundnut, rapeseed-mustard, soybean, sesamum, sunflower, safflower, nigerseed), and 4 Commercial Crops (copra, sugarcane, cotton, raw jute)."
+  },
+  {
+    "label": "Cost Formulations for MSP Fixing",
+    "info": "CACP evaluates three formulas: A2 (actual paid-out operational costs), A2+FL (A2 plus imputed value of unpaid family labor), and C2 (comprehensive cost including rental value of owned land and interest on fixed capital). Government policy fixes MSP at minimum 1.5 times the cost of production based on the A2+FL metric."
+  },
+  {
+    "label": "Procurement and Public Distribution Mechanism",
+    "info": "Food Corporation of India (FCI) alongside state agencies procures wheat and paddy under Central Pool operations; NAFED and SFAC handle pulses and oilseeds procurement under the PM-AASHA (Pradhan Mantri Annadata Aay SanraksHan Abhiyan) framework."
+  },
+  {
+    "label": "Direct Income Support: PM-KISAN",
+    "info": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a 100% Central Sector Scheme operational since December 2018; transfers ₹6,000 annually in three equal tranches of ₹2,000 directly into Aadhaar-seeded bank accounts of eligible farmer families."
+  },
+  {
+    "label": "Crop Insurance: Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "info": "Comprehensive yield-loss and localized calamity coverage with uniform low premium rates payable by farmers: 2% for Kharif crops, 1.5% for Rabi crops, and 5% for Annual Commercial/Horticultural crops, with the balance subsidized equally by Centre and States."
+  },
+  {
+    "label": "Institutional Agricultural Credit Architecture",
+    "info": "Priority Sector Lending (PSL) mandates domestic scheduled commercial banks to allocate 18% of Adjusted Net Bank Credit (ANBC) to agriculture (with an 8-10% sub-target for small and marginal farmers). Credit is routed via the Kisan Credit Card (KCC) scheme supported by Modified Interest Subvention Scheme (MISS) providing effective loans at 4% p.a. for timely repayment."
+  },
+  {
+    "label": "Water Efficiency: PMKSY - Per Drop More Crop",
+    "info": "Component under Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) focusing on micro-irrigation systems (drip and sprinkler) to maximize water use efficiency (WUE) from the baseline ~35-40% to upwards of 75-80%."
+  },
+  {
+    "label": "Soil Health and Nutrient Management",
+    "info": "Soil Health Card (SHC) scheme assesses 12 vital parameters (Macro: N, P, K; Secondary: S; Micro: Zn, Fe, Cu, Mn, Bo; Physical: pH, EC, OC) to rectify the skewed N:P:K application ratio (ideal 4:2:1 vs historic deviations exceeding 6:2.4:1)."
+  },
+  {
+    "label": "Fertilizer Subsidy Regimes",
+    "info": "Urea is managed under a statutory Maximum Retail Price (MRP) regime with neem-coating mandate, whereas non-urea phosphatic and potassic (P&K) fertilizers are governed under the nutrient-based subsidy (NBS) policy administered by the Department of Fertilizers."
+  },
+  {
+    "label": "Digital Public Infrastructure: Digital Agriculture Mission & AgriStack",
+    "info": "Central initiative backed by an outlay of over ₹2,800 crore to construct AgriStack: generating a unified Kisan ID, digital crop registries, and integrating geo-referenced cadastral maps for targeted delivery of farm interventions."
+  },
+  {
+    "label": "Agricultural Marketing and Infrastructure: e-NAM",
+    "info": "Electronic National Agriculture Market (e-NAM) is a pan-India virtual trading portal networking physical APMC mandis to create a unified national market with transparent price discovery and assaying facilities."
+  },
+  {
+    "label": "FPO Promotion Policy",
+    "info": "Central Sector Scheme for 'Formation and Promotion of 10,000 new Farmer Producer Organizations (FPOs)' with equity grant support and credit guarantee facility via NABARD and NCDC to enable aggregation and economies of scale for smallholders."
+  },
+  {
+    "label": "Capital Formation and Value Addition: AIF and PMMSY",
+    "info": "Agriculture Infrastructure Fund (AIF) provides a ₹1 lakh crore medium-to-long term debt financing facility with 3% interest subvention for post-harvest management infrastructure and community farming assets; allied sectors supported by PM Matsya Sampada Yojana (PMMSY) and Animal Husbandry Infrastructure Development Fund (AHIDF)."
+  },
+  {
+    "label": "Ecological and Sustainable Agriculture Mandates",
+    "info": "National Mission on Natural Farming (NMNF) and Paramparagat Krishi Vikas Yojana (PKVY) promote chemical-free indigenous agricultural techniques, zero-budget natural farming (ZBNF), and Participatory Guarantee System (PGS) certification."
+  },
+  {
+    "label": "Key Structural Bottlenecks in Indian Agriculture",
+    "info": "Persistent land fragmentation; low public Gross Capital Formation (GCF) in agriculture (~15-16% of agri-GVA, predominantly private-driven); high post-harvest losses (estimated at 10-16% across perishables); severe groundwater depletion in Green Revolution belts; and low market penetration of MSP outside wheat and paddy in select northwestern states."
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "sno": 1,
+    "mineral_name": "Iron Ore",
+    "mineral_type": "Metallic - Ferrous",
+    "major_mineral_belts": "North-Eastern Peninsular Belt (Jharkhand-Odisha), Central Belt (Durg-Bastar-Chandrapur), South-Western Belt (Bellary-Chitradurga)",
+    "geological_formation": "Dharwar and Archaean Supergroup (Banded Iron Formations - BIF)",
+    "top_producing_states_and_reserves": "Odisha (leads in extraction, >50%), Chhattisgarh, Karnataka, Jharkhand",
+    "major_mines_and_districts": "Bailadila (Dantewada, CG), Badampahar & Gorumahisani (Mayurbhanj, OD), Noamundi (West Singhbhum, JH), Kudremukh & Donimalai (Bellary, KA)",
+    "associated_ores_and_grades": "High-grade Hematite (60-65% Fe content) and Magnetite (black magnetic ore, Kudremukh)",
+    "industrial_applications": "Primary feedstock for domestic integrated blast-furnace steel mills, sponge iron units, civil construction",
+    "import_dependency_and_strategic_status": "Completely self-sufficient; major net exporter of iron ore lumps and fines to China and Japan",
+    "regulatory_framework": "Mines and Minerals (Development and Regulation) Act (MMDR Act), Indian Bureau of Mines (IBM)"
+  },
+  {
+    "sno": 2,
+    "mineral_name": "Bauxite",
+    "mineral_type": "Metallic - Non-Ferrous (Aluminium Ore)",
+    "major_mineral_belts": "Eastern Ghats Mobile Belt, Chota Nagpur Plateau, Maikala Range, Amarkantak Plateau",
+    "geological_formation": "Tertiary lateritic cappings over basaltic plateaus and Deccan Traps",
+    "top_producing_states_and_reserves": "Odisha (>50% of national output), Gujarat, Jharkhand, Chhattisgarh, Maharashtra",
+    "major_mines_and_districts": "Panchpatmali & Damanjodi (Koraput, OD), Baphlimali (Rayagada, OD), Lohardaga (JH), Amarkantak (Bilaspur, CG)",
+    "associated_ores_and_grades": "Gibbsite, Boehmite, and Diaspore associated with iron oxides and silica",
+    "industrial_applications": "Extraction of alumina via Bayer process for aluminum metal smelting, aerospace alloys, refractories, cement",
+    "import_dependency_and_strategic_status": "Abundant domestic reserves, fully self-reliant with exports of alumina chemicals and bauxite ore",
+    "regulatory_framework": "MMDR Amendment Acts, National Aluminium Company Limited (NALCO), Geological Survey of India (GSI)"
+  },
+  {
+    "sno": 3,
+    "mineral_name": "Lithium",
+    "mineral_type": "Strategic / Critical Mineral / Clean-Energy Metal",
+    "major_mineral_belts": "Sub-Himalayan folded belts, South Karnataka pegmatite belts",
+    "geological_formation": "Salal-Haimana bauxitic-clay limestone zones (Jammu) and granitic pegmatites (Mandya)",
+    "top_producing_states_and_reserves": "Jammu & Kashmir (inferred G4 reserves of 5.9 MT in Reasi), Karnataka (Mandya district reserves), Rajasthan (Degana)",
+    "major_mines_and_districts": "Salal-Haimana area (Reasi, J&K), Marlagalla-Allapatna (Mandya, KA)",
+    "associated_ores_and_grades": "Spodumene, Lepidolite, and clay-hosted bauxite-lithiferous deposits",
+    "industrial_applications": "Lithium-ion batteries for Electric Vehicles (EVs), grid energy storage, smartphone batteries, atomic lubricants",
+    "import_dependency_and_strategic_status": "Near 100% import reliant (mainly from China, Chile, and Australia); categorized as a Tier-1 Critical Mineral",
+    "regulatory_framework": "Offshore and Onshore Critical Mineral Auction Traunches, Khanij Bidesh India Ltd (KABIL)"
+  },
+  {
+    "sno": 4,
+    "mineral_name": "Coal (Thermal and Coking)",
+    "mineral_type": "Non-Metallic / Fossil Energy Mineral",
+    "major_mineral_belts": "Damodar Valley, Mahanadi Valley, Son Valley, Wardha-Godavari Valley",
+    "geological_formation": "Gondwana Coalfields (over 98% of reserves, Permian strata) and Tertiary Coal (Assam, Meghalaya)",
+    "top_producing_states_and_reserves": "Odisha, Chhattisgarh, Jharkhand (highest reserves), Madhya Pradesh, Telangana (Singareni)",
+    "major_mines_and_districts": "Jharia (sole prime coking coal mine, Dhanbad, JH), Raniganj (first coalfield, WB), Korba (CG), Talcher (OD)",
+    "associated_ores_and_grades": "Bituminous (high ash, non-coking), Anthracite (minimal in J&K), Lignite (Neyveli, Tamil Nadu)",
+    "industrial_applications": "Thermal power generation (>70% of India's electricity), blast furnace reductant in steel making, cement kilns",
+    "import_dependency_and_strategic_status": "Self-sufficient in thermal non-coking coal; imports over 85% of prime metallurgical coking coal for steel",
+    "regulatory_framework": "Coal Mines (Special Provisions) Act, Commercial Coal Mine E-Auctions, Coal India Limited (CIL)"
+  },
+  {
+    "sno": 5,
+    "mineral_name": "Rare Earth Elements (REE - Monazite / Neodymium)",
+    "mineral_type": "Strategic / Nuclear & Critical Mineral",
+    "major_mineral_belts": "Coastal Placer Sand Belts of Southern and Eastern India, inland teris of Tamil Nadu",
+    "geological_formation": "Quaternary coastal beach sands formed from weathering of Charnockites and Khondalites",
+    "top_producing_states_and_reserves": "Odisha, Kerala (Chavara), Tamil Nadu (Manavalakurichi), Andhra Pradesh, Gujarat",
+    "major_mines_and_districts": "Chavara beach sands (Kollam, KL), Manavalakurichi (Kanyakumari, TN), OSCOM (Chatrapur, Ganjam, OD)",
+    "associated_ores_and_grades": "Monazite (contains Thorium and Light REEs like Lanthanum, Cerium, Neodymium), Ilmenite, Rutile, Zircon",
+    "industrial_applications": "Permanent magnets for wind turbines, electric vehicle motors, military guidance systems, nuclear fuel (Thorium)",
+    "import_dependency_and_strategic_status": "India has the 3rd largest reserves of Monazite worldwide, but downstream refining into permanent magnets relies on imports",
+    "regulatory_framework": "Atomic Energy Act 1962, IREL (India) Limited (formerly Indian Rare Earths Limited), DAE"
+  }
+]

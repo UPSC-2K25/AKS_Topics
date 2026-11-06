@@ -1,0 +1,106 @@
+[
+  {
+    "label": "Constitutional and Jurisdictional Dichotomy",
+    "info": "Ports fall under the Concurrent List (List III, Entry 32) of the Seventh Schedule of the Constitution of India. Major Ports are declared by Parliament under Union jurisdiction, while Non-Major (Minor/Intermediate) Ports fall under the administrative purview of respective State Maritime Boards or State Governments."
+  },
+  {
+    "label": "Macroeconomic Contribution to External Trade",
+    "info": "Maritime transport handles approximately 95% of India's international trade by volume and roughly 68% by value. India commands a 7,516.6 km coastline and an Exclusive Economic Zone (EEZ) exceeding 2.37 million square kilometers."
+  },
+  {
+    "label": "Nodal Ministry and Administrative Structure",
+    "info": "Governed by the Ministry of Ports, Shipping and Waterways (MoPSW). Supported by the Directorate General of Shipping (statutory maritime safety regulator), Inland Waterways Authority of India (IWAI), Tariff Authority for Major Ports (TAMP - phased out), and the Indian Ports Association (IPA)."
+  },
+  {
+    "label": "Key Flagship Publications and Reports",
+    "info": "Annual Report of the Ministry of Ports, Shipping and Waterways; Basic Port Statistics of India (Transport Research Wing, MoPSW); Maritime India Vision 2030 (MIV 2030); Maritime Amrit Kaal Vision 2047; and the World Bank Container Port Performance Index (CPPI)."
+  },
+  {
+    "label": "Statutory Governance: Major Port Authorities Act, 2021",
+    "info": "Repealed the Major Port Trusts Act, 1963. Replaced rigid port trusts with autonomous Boards of Major Port Authorities, decentralized administrative decision-making, deregulated tariff-fixing (dismantling TAMP's mandate to allow market-determined pricing), and permitted master planning for port land monetization."
+  },
+  {
+    "label": "Cargo Traffic Distribution Dynamics",
+    "info": "India operates 12 operational Major Ports alongside ~217 notified Non-Major Ports. Cargo share has witnessed a long-term structural migration: Major Ports handle roughly 54-55% of total maritime cargo throughput, while agile, private non-major ports (e.g., Mundra, Krishnapatnam) account for 45-46%."
+  },
+  {
+    "label": "Turnaround Time (TRT) and Operational Efficiency",
+    "info": "Average Turnaround Time (TRT) at Indian Major Ports has improved significantly from 96 hours (~4.0 days) in 2014-15 down to approximately 48-52 hours (~2.0-2.2 days), driven by RFID tracking, automated gate systems, direct port delivery (DPD), and modernized container gantry cranes."
+  },
+  {
+    "label": "Deendayal Port (Kandla, Gujarat)",
+    "info": "Constructed in the 1950s to offset the loss of Karachi Port to Pakistan following partition. A natural tidal port situated in the Gulf of Kutch; serves as India's premier dry-cargo and liquid/crude handling major port by volume. Houses India's earliest notified export processing zone (Kandla Free Trade Zone)."
+  },
+  {
+    "label": "Mumbai Port (Maharashtra)",
+    "info": "One of India's oldest modern ports, operational since 1873. A natural deep-water harbour located on the Arabian Sea coast, historically handling general break-bulk cargo, passenger traffic, and petroleum products; currently shifting bulk freight to adjacent modernized container terminals."
+  },
+  {
+    "label": "Jawaharlal Nehru Port Authority (JNPA / Nhava Sheva, Maharashtra)",
+    "info": "Commissioned in 1989 across Mumbai harbour to decongest Mumbai Port. India's premier fully containerized major port, handling roughly half of the country's major-port container throughput (>6 million TEUs). Connected directly as the southern terminus of the Western Dedicated Freight Corridor (WDFC)."
+  },
+  {
+    "label": "Mormugao Port (Goa)",
+    "info": "Situated at the mouth of the Zuari river estuary on the central west coast. Operates as a natural open harbour traditionally dedicated to iron-ore exports mined from the Goan hinterland, diversified into coking coal imports and coastal cruise tourism."
+  },
+  {
+    "label": "New Mangalore Port (Karnataka)",
+    "info": "Deep-water all-weather port on the coastal plain of Karnataka. Originally designed to handle export concentrates of iron ore from the Kudremukh mines; currently manages major volumes of crude oil imports for the Mangalore Refinery and Petrochemicals Limited (MRPL) and LPG/coal cargo."
+  },
+  {
+    "label": "Cochin Port (Kerala)",
+    "info": "A natural all-weather port positioned on Willingdon and Vallarpadam islands in the Vembanad backwaters, situated close to the international east-west shipping super-corridor. Houses India's first dedicated container transshipment terminal—the International Container Transshipment Terminal (ICTT) Vallarpadam."
+  },
+  {
+    "label": "Syama Prasad Mookerjee Port (Kolkata-Haldia, West Bengal)",
+    "info": "India's only major riverine port, situated ~232 km from the sea on the banks of the Hooghly River. Comprises twin facilities: Kolkata Dock System (KDS) upstream with lock gates and Haldia Dock Complex (HDC) downstream for deep-draft bulk cargo. Dependent on capital and maintenance dredging and tidal schedules; serves as the lifeline for landlocked Nepal and Bhutan."
+  },
+  {
+    "label": "Paradip Port (Odisha)",
+    "info": "A deep-water artificial port situated at the confluence of the Mahanadi river and the Bay of Bengal. Ranks consistently as the highest or second-highest cargo-handling major port in India; predominantly handles thermal coal coastal shipping to southern power stations, coking coal, and iron-ore exports from the Chota Nagpur belt."
+  },
+  {
+    "label": "Visakhapatnam Port (Andhra Pradesh)",
+    "info": "Deepest natural major port on the east coast, situated in a creek protected seaward by the geological promontory known as 'Dolphin's Nose'. Handles iron ore from Bailadila (Chhattisgarh), petroleum, fertilizers, and general dry bulk; features a dedicated outer harbour with deep drafts."
+  },
+  {
+    "label": "Kamarajar Port (Ennore, Tamil Nadu)",
+    "info": "Originally developed as a satellite port to decongest Chennai Port, located ~24 km north. Holds the unique distinction of being India's first corporate major port (registered under the Companies Act rather than a traditional trust/authority model); primary handler of thermal coal for Tamil Nadu generation plants."
+  },
+  {
+    "label": "Chennai Port (Tamil Nadu)",
+    "info": "The third oldest port in India (operational since 1881) and the second largest container major port on the eastern seaboard. An artificial harbour formed by breakwaters in an open sea coast; gateway for automobile exports ('Detroit of India'), electronics, and leather goods."
+  },
+  {
+    "label": "V.O. Chidambaranar Port (Thoothukudi / Tuticorin, Tamil Nadu)",
+    "info": "Artificial deep-sea harbour in the Gulf of Mannar, sheltered by two parallel breakwaters. Handles bulk coal imports for southern thermal plants, copper concentrates, edible oils, and salt; strategic geographical proximity to Sri Lankan transshipment hubs."
+  },
+  {
+    "label": "Greenfield Major Port: Vadhavan Port (Maharashtra)",
+    "info": "Union Cabinet-approved mega greenfield deep-draft major port project near Dahanu, Maharashtra (costing over ₹76,000 crore). Designed under a Landlord Port model as an all-weather port with a natural draft of ~20 meters, capable of accommodating mega container vessels up to 24,000 TEUs to mitigate capacity limits at JNPA."
+  },
+  {
+    "label": "Landlord Port Model Transition",
+    "info": "Policy shift championed by MoPSW and NITI Aayog: Public Port Authorities retain ownership of port land and statutory functions (safety, navigation, dredging), while marine operations, cargo berths, and handling equipment are leased out to private terminal operators under long-term Public-Private Partnership (PPP) concession agreements."
+  },
+  {
+    "label": "Sagarmala Programme Framework",
+    "info": "Central umbrella initiative operationalized in 2015 to promote port-led direct economic development. Structured around five core pillars: Port Modernization & New Port Development, Port Connectivity Enhancement (rail/road links), Port-Linked Industrialization (Coastal Economic Zones - CEZs), Coastal Community Development, and Coastal Shipping / Inland Waterways Transport."
+  },
+  {
+    "label": "Transshipment Bottleneck and Foreign Port Leakage",
+    "info": "Historically, nearly 25-30% of Indian containerized transshipment cargo is routed through foreign transshipment hubs (Colombo, Singapore, Port Klang, Jebel Ali), imposing substantial freight penalties on Indian exporters. Tackled via development of domestic transshipment terminals at Vizhinjam (Kerala), Vallarpadam (Kochi), and Galathea Bay (Great Nicobar)."
+  },
+  {
+    "label": "Inland Waterways and Coastal Shipping Integration",
+    "info": "National Waterways Act, 2016 declared 111 National Waterways (NWs). Jal Marg Vikas Project (JMVP), backed by the World Bank, upgrades NW-1 (Ganga-Bhagirathi-Hooghly from Varanasi to Haldia) with multimodal terminals at Varanasi, Sahibganj, and Haldia to promote cost-efficient inland movement and intermodal coastal feedering."
+  },
+  {
+    "label": "Digital Public Infrastructure in Maritime Logistics",
+    "info": "Deployment of the National Logistics Portal-Marine (NLP-Marine) as an open single-window digital platform connecting all maritime stakeholders; supplemented by Sagar-Setu mobile application and Enterprise Business Solutions (EBS) to eliminate paper manifests and lower physical dwell times."
+  },
+  {
+    "label": "Harit Sagar - Green Port Guidelines",
+    "info": "Launched by MoPSW to steer decarbonization across all Major Ports. Targets include electrification of port cranes and yard equipment, cold ironing (shore-to-ship power supply while berthed to eliminate onboard diesel auxiliary generator emissions), bunkering infrastructure for green hydrogen/ammonia/methanol, and raising renewable energy share in total port power consumption to over 60% by 2030."
+  }
+]

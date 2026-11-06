@@ -1,0 +1,90 @@
+[
+  {
+    "label": "Macroeconomic Share of Secondary/Industrial Sector",
+    "info": "Contributes approximately 28-30% of Gross Value Added (GVA) to the Indian economy, with manufacturing alone accounting for around 15-17%, employing about 11-12% of the workforce."
+  },
+  {
+    "label": "Index of Industrial Production (IIP)",
+    "info": "A volume index measuring short-term performance of industrial groups; compiled monthly by the National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI). Base year: 2011-12."
+  },
+  {
+    "label": "IIP Sectoral Weights",
+    "info": "Manufacturing holds the largest weight at 77.63%, followed by Mining at 14.37%, and Electricity at 7.99%."
+  },
+  {
+    "label": "Index of Eight Core Industries (ICI)",
+    "info": "Represents 40.27% of the total weight of items included in the IIP; compiled and released monthly by the Office of the Economic Adviser (OEA), Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry."
+  },
+  {
+    "label": "Eight Core Industries Weight Hierarchy",
+    "info": "Refinery Products (28.04%) > Electricity (19.85%) > Steel (17.92%) > Coal (10.33%) > Crude Oil (8.98%) > Natural Gas (6.88%) > Cement (5.37%) > Fertilizers (2.63%)."
+  },
+  {
+    "label": "Nodal Regulatory Ministries",
+    "info": "Ministry of Commerce and Industry (DPIIT & Department of Commerce), Ministry of Heavy Industries, Ministry of Micro, Small and Medium Enterprises (MoMSME), Ministry of Textiles, Ministry of Steel, Ministry of Mines, and Ministry of Chemicals and Fertilizers."
+  },
+  {
+    "label": "Key Annual Reports and Publications",
+    "info": "Annual Survey of Industries (ASI) by MoSPI; Economic Survey by Ministry of Finance; DPIIT Annual Report; State of World/National Logistics Reports; and periodic NITI Aayog sectoral action plans."
+  },
+  {
+    "label": "Historical Evolution: IPR 1948 and IPR 1956",
+    "info": "IPR 1948 established a mixed economy model. IPR 1956 ('Economic Constitution of India') adopted the Mahalanobis heavy-industry model with state dominance, dividing industries into Schedule A (state monopoly), Schedule B (state-led mixed), and Schedule C (private)."
+  },
+  {
+    "label": "Structural Transition: New Industrial Policy 1991",
+    "info": "Dismantled the 'License-Quota-Permit Raj' via Liberalization, Privatization, and Globalization (LPG); abolished industrial licensing for almost all sectors; allowed automatic FDI; and curtailed MRTP restrictions."
+  },
+  {
+    "label": "Reserved Sectors for Public Ownership",
+    "info": "Only two strategic sectors remain reserved exclusively for the public sector: Atomic Energy and Railway Operations (specific core infrastructure)."
+  },
+  {
+    "label": "Compulsory Industrial Licensing Sectors",
+    "info": "Licensing remains mandatory for four strategic/hazardous areas: Distillation and brewing of alcoholic drinks; Cigars and cigarettes of tobacco; Electronic aerospace and defense equipment; and Specified hazardous chemicals / industrial explosives."
+  },
+  {
+    "label": "Production Linked Incentive (PLI) Schemes",
+    "info": "Flagship scheme covering 14 key sectors (e.g., semiconductors, electronics, pharmaceuticals, solar PV, specialty steel, ACC batteries) with financial outlays exceeding ₹1.97 lakh crore to boost domestic value addition and create global champions."
+  },
+  {
+    "label": "Micro, Small, and Medium Enterprises (MSME) Definition (Composite Criteria)",
+    "info": "Micro: Investment <= ₹1 Crore & Turnover <= ₹5 Crore; Small: Investment <= ₹10 Crore & Turnover <= ₹50 Crore; Medium: Investment <= ₹50 Crore & Turnover <= ₹250 Crore. Governed under MSMED Act, 2006."
+  },
+  {
+    "label": "MSME Socio-Economic Significance",
+    "info": "Contributes ~30% of India's GDP, over 45% of total manufacturing output, ~40-45% of overall exports, and employs more than 110 million people across rural and urban centers."
+  },
+  {
+    "label": "Steel Industry Profile",
+    "info": "India is the 2nd largest producer of crude steel globally. National Steel Policy 2017 targets 300 Million Tonnes (MT) of crude steel capacity and 160 kg per capita consumption by 2030-31."
+  },
+  {
+    "label": "Textiles and Apparel Industry Profile",
+    "info": "One of the oldest industries in India and the 2nd largest employment provider after agriculture; accounts for ~2% of GDP and ~10-12% of total export earnings. Key initiative: PM-MITRA (Mega Integrated Textile Region and Apparel) Parks."
+  },
+  {
+    "label": "Automobile and Auto-Components Sector",
+    "info": "India is the 3rd largest automobile market globally; contributes ~7% of GDP and nearly half of manufacturing GDP. Supported by the FAME-II / PM E-DRIVE schemes and the Automotive Mission Plan (AMP)."
+  },
+  {
+    "label": "Pharmaceuticals and Biotechnology Sector",
+    "info": "Known as the 'Pharmacy of the World', India ranks 3rd globally in pharmaceutical production by volume and 14th by value; supplies over 50% of global vaccine demand and 20% of global generic medicines."
+  },
+  {
+    "label": "Electronics System Design and Manufacturing (ESDM)",
+    "info": "Anchored by the National Policy on Electronics (NPE) and the India Semiconductor Mission (ISM) with a ₹76,000 crore outlay; shifted India from a net smartphone importer to the 2nd largest mobile handset manufacturer globally."
+  },
+  {
+    "label": "Industrial Infrastructure Enablers",
+    "info": "PM GatiShakti National Master Plan for multimodal connectivity; National Logistics Policy (NLP) targeting logistics cost reduction from ~13-14% of GDP to global benchmarks (<8%); and the National Industrial Corridor Development Programme (NICDP) spanning 11 smart industrial corridors."
+  },
+  {
+    "label": "Key Structural Challenges in Indian Industry",
+    "info": "'Premature deindustrialization' (services-led growth skipping manufacturing peak); 'Missing Middle' phenomenon (preponderance of tiny informal units vs few mega-corporations with lack of mid-tier firms); inverted duty structures; and comparatively lower R&D expenditure (~0.64-0.7% of GDP)."
+  },
+  {
+    "label": "Environmental and Decarbonization Mandates",
+    "info": "Industry accounts for roughly one-third of total greenhouse gas emissions; addressed through Perform, Achieve and Trade (PAT) scheme by BEE, National Green Hydrogen Mission, Carbon Credit Trading Scheme (CCTS), and zero-emission goals under Panchamrit targets (Net Zero by 2070)."
+  }
+]

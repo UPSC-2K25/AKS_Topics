@@ -1,0 +1,72 @@
+[
+  {
+    "sno": 1,
+    "river_name": "Ganga",
+    "river_system": "Himalayan River System",
+    "origin_source": "Gangotri Glacier near Gaumukh (as Bhagirathi), Uttarkashi district, Uttarakhand (elevation approx 3,892 m)",
+    "total_length_km": "2,525 km (entirely within India and Bangladesh)",
+    "basin_states": "Uttarakhand, Uttar Pradesh, Bihar, West Bengal, Madhya Pradesh, Rajasthan, Haryana, Himachal Pradesh, Chhattisgarh",
+    "left_bank_tributaries": "Ramganga, Gomti, Ghaghara, Gandak, Kosi, Mahananda",
+    "right_bank_tributaries": "Yamuna, Son, Punpun, Damodar (distributary Hugli basin)",
+    "major_dams_and_projects": "Tehri Dam (on Bhagirathi), Farakka Barrage, Haridwar Bhimgoda Barrage, Kanpur Barrage",
+    "national_parks_and_protected_areas_crossed": "Gangotri National Park, Rajaji National Park, Vikramshila Gangetic Dolphin Sanctuary, Sundarbans National Park",
+    "interstate_water_disputes": "Ganga Water Treaty (1996 international dispute with Bangladesh); domestic tributary water tribunals",
+    "cultural_and_economic_significance": "Lifeblood of the Indo-Gangetic Plains supporting over 400 million people, vast alluvial agrarian base, sacred pilgrimage centers"
+  },
+  {
+    "sno": 2,
+    "river_name": "Godavari (Dakshin Ganga)",
+    "river_system": "Peninsular East-Flowing",
+    "origin_source": "Trimbakeshwar, Brahmagiri Hills, Nashik district, Maharashtra (elevation approx 1,067 m)",
+    "total_length_km": "1,465 km",
+    "basin_states": "Maharashtra, Telangana, Andhra Pradesh, Chhattisgarh, Odisha, Madhya Pradesh, Karnataka, Puducherry (Yanam)",
+    "left_bank_tributaries": "Dharna, Penganga, Wainganga, Wardha, Pranhita, Pench, Kanhan, Indravati, Sabari",
+    "right_bank_tributaries": "Pravara, Mula, Manjra, Peddavagu, Maner",
+    "major_dams_and_projects": "Polavaram National Project, Kaleshwaram Lift Irrigation, Sriram Sagar Project (Pochampad), Jayakwadi Dam",
+    "national_parks_and_protected_areas_crossed": "Indravati National Park, Papikonda National Park, Kanger Ghati National Park, Kinnerasani Wildlife Sanctuary",
+    "interstate_water_disputes": "Godavari Water Disputes Tribunal (GWDT) between Maharashtra, Andhra Pradesh, Telangana, Karnataka, and Odisha",
+    "cultural_and_economic_significance": "Second longest river in India, sustains the fertile KG agricultural basin and offshore hydrocarbon gas reserves"
+  },
+  {
+    "sno": 3,
+    "river_name": "Brahmaputra",
+    "river_system": "Himalayan River System (Trans-Himalayan)",
+    "origin_source": "Chemayungdung Glacier near Mount Kailash and Lake Manasarovar, Tibet (known as Yarlung Tsangpo; elevation 5,150 m)",
+    "total_length_km": "2,900 km (approx 916 km inside India)",
+    "basin_states": "Arunachal Pradesh, Assam, West Bengal, Meghalaya, Nagaland, Sikkim",
+    "left_bank_tributaries": "Lhasa, Nyang, Dibang, Lohit, Burhi Dihing, Dhansiri (South)",
+    "right_bank_tributaries": "Kameng, Manas, Beki, Raidak, Jaldhaka, Teesta, Subansiri",
+    "major_dams_and_projects": "Bogibeel Rail-Road Bridge, Dhola-Sadiya Bridge, Subansiri Lower Hydroelectric Project, Ranganadi Dam",
+    "national_parks_and_protected_areas_crossed": "Kaziranga National Park, Manas National Park, Dibru-Saikhowa National Park, Orang National Park",
+    "interstate_water_disputes": "Transboundary riparian data sharing concerns with China; Teesta water distribution negotiations with Bangladesh",
+    "cultural_and_economic_significance": "Braided river system hosting Majuli (world's largest inhabited riverine island), major waterway (National Waterway 2)"
+  },
+  {
+    "sno": 4,
+    "river_name": "Narmada (Reva)",
+    "river_system": "Peninsular West-Flowing (Rift Valley Drainage)",
+    "origin_source": "Amarkantak Plateau, Anuppur district, Madhya Pradesh (elevation approx 1,057 m)",
+    "total_length_km": "1,312 km",
+    "basin_states": "Madhya Pradesh, Gujarat, Maharashtra, Rajasthan (irrigation beneficiary)",
+    "left_bank_tributaries": "Sher, Shakkar, Dudhi, Tawa, Ganjal, Chhota Tawa, Kundi",
+    "right_bank_tributaries": "Hiran, Barna, Choral, Man, Uri, Hatni, Orsang",
+    "major_dams_and_projects": "Sardar Sarovar Dam, Indira Sagar Project, Omkareshwar Dam, Bargi Dam, Maheshwar Dam",
+    "national_parks_and_protected_areas_crossed": "Kanha National Park (catchment), Satpura National Park, Narmada Canal corridors, Shoolpaneshwar Wildlife Sanctuary",
+    "interstate_water_disputes": "Narmada Water Disputes Tribunal (NWDT) between Gujarat, Madhya Pradesh, Maharashtra, and Rajasthan",
+    "cultural_and_economic_significance": "Largest west-flowing river flowing through a fault/rift valley between Vindhya and Satpura ranges; forms Marble Rocks at Bhedaghat"
+  },
+  {
+    "sno": 5,
+    "river_name": "Cauvery (Kaveri)",
+    "river_system": "Peninsular East-Flowing",
+    "origin_source": "Talakaveri in Brahmagiri range, Kodagu (Coorg) district, Karnataka (elevation approx 1,341 m)",
+    "total_length_km": "800 km",
+    "basin_states": "Karnataka, Tamil Nadu, Kerala, Puducherry (Karaikal)",
+    "left_bank_tributaries": "Harangi, Hemavati, Shimsha, Arkavathi",
+    "right_bank_tributaries": "Lakshmantirtha, Kabbani, Suvarnavathi, Bhavani, Noyyal, Amaravati",
+    "major_dams_and_projects": "Krishna Raja Sagara (KRS) Dam, Mettur Dam (Stanley Reservoir), Shivanasamudra Falls HEP, Grand Anicut (Kallanai)",
+    "national_parks_and_protected_areas_crossed": "Bandipur National Park, Nagarhole National Park (catchment), Cauvery Wildlife Sanctuary, Mudumalai corridor",
+    "interstate_water_disputes": "Cauvery Water Disputes Tribunal (CWDT) & Cauvery Water Management Authority (CWMA) between TN, KA, KL, and Puducherry",
+    "cultural_and_economic_significance": "Known as the 'Garden of Southern India'; perennial character due to receiving rain from both Southwest and Northeast monsoons"
+  }
+]

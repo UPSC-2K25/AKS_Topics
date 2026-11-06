@@ -1,0 +1,110 @@
+[
+  {
+    "label": "Pedological Classification and Taxonomy Systems",
+    "info": "Indian soils are classified into 8 major groups by the Indian Council of Agricultural Research (ICAR). Under the USDA Soil Taxonomy hierarchy, Inceptisols dominate (~39.7%), followed by Entisols (~28.1%), Alfisols (~13.6%), Vertisols (~8.5%), Aridisols (~4.3%), Ultisols (~2.5%), and Mollisols (~0.4%)."
+  },
+  {
+    "label": "Nodal Ministries and Administrative Institutions",
+    "info": "Ministry of Agriculture and Farmers Welfare (DA&FW and DARE); Ministry of Environment, Forest and Climate Change (MoEFCC); and Ministry of Jal Shakti. Specialized scientific research and mapping are executed by ICAR-National Bureau of Soil Survey and Land Use Planning (ICAR-NBSS&LUP, Nagpur), ICAR-Indian Institute of Soil Science (ICAR-IISS, Bhopal), and ICAR-Central Soil Salinity Research Institute (ICAR-CSSRI, Karnal)."
+  },
+  {
+    "label": "Key Flagship Reports and Atlases",
+    "info": "Desertification and Land Degradation Atlas of India (Space Applications Centre - SAC, ISRO); Harmonized Soil Degradation Database of India (ICAR-NBSS&LUP / NAAS); State of Indian Soils Report (MoA&FW); and the Soil Organic Carbon (SOC) Stock Atlas of India."
+  },
+  {
+    "label": "Alluvial Soils - Extent and Genesis",
+    "info": "Cover roughly 40-43% of India's total geographical area (~143 million hectares). Predominantly azonal, transportational depositional soils formed by the deposition of silts from the Himalayan (Indus, Ganga, Brahmaputra) and Peninsular coastal river systems."
+  },
+  {
+    "label": "Alluvial Soils - Chemical Composition and Profile",
+    "info": "Generally immature profiles (lacking distinct B-horizons); light grey to ash grey in color; rich in potash (K) and phosphoric acid, but notably deficient in nitrogen (N) and organic matter/humus. Textures vary from sandy loams in upper reaches to fine clays in deltas."
+  },
+  {
+    "label": "Alluvial Stratification: Khadar vs. Bhangar",
+    "info": "Khadar represents newer, low-lying, flood-replenished alluvium with fine silty texture and high natural fertility. Bhangar represents older, elevated alluvium containing calcareous nodular concretions known as 'Kankar', which is less prone to inundation but prone to salinization under excessive irrigation."
+  },
+  {
+    "label": "Black Soils (Regur) - Genesis and Extent",
+    "info": "Cover approximately 15-16% of total geographical area across the Deccan Lava Trap (Maharashtra, Gujarat, western Madhya Pradesh, northern Karnataka). Derived in-situ from the subaerial weathering of Cretaceous basaltic lava flows."
+  },
+  {
+    "label": "Black Soils - Mineralogy and Argillaceous Nature",
+    "info": "Dominated by 2:1 expanding-lattice montmorillonite and smectite clay minerals. Imparts high plastic elasticity, extreme stickiness when wet, and profound shrinkage upon desiccation, leading to deep vertical cracking (fissuring) that causes the pedological phenomenon of 'self-ploughing'."
+  },
+  {
+    "label": "Black Soils - Fertility and Cropping Matrix",
+    "info": "Exceptionally high moisture-retention capacity; rich in iron, calcium, magnesium carbonates, and potash; poor in nitrogen, phosphorus, and humus. The premier agro-ecosystem for upland rainfed cotton (hence termed 'Black Cotton Soil'), soybean, pigeon pea, sorghum, and sugarcane."
+  },
+  {
+    "label": "Red and Yellow Soils - Genesis and Distribution",
+    "info": "Cover approximately 18.5% of total land area, primarily across the Archaean metamorphic crystalline basement (granites, gneisses, schists) in eastern/southern Deccan, Odisha, Chhattisgarh, and the Chota Nagpur Plateau under sub-humid to semi-arid conditions."
+  },
+  {
+    "label": "Red and Yellow Soils - Chemistry and Texture",
+    "info": "The red hue arises from wide ferric oxide dissemination across the profile; hydrates into a yellow coloration under prolonged water-logging. Sandy to clayey loam texture, acidic to neutral pH, friable structure; poor in nitrogen, phosphorus, and organic matter, but highly responsive to chemical fertilizers and drip irrigation."
+  },
+  {
+    "label": "Laterite Soils - Genesis and Desilication",
+    "info": "Formed in-situ under hot and humid tropical conditions characterized by alternating wet and dry monsoons. High seasonal precipitation leaches mobile silica and lime downwards ('desilication' / Ferrallitization), leaving an unyielding topsoil rich in residual sesquioxides (iron and aluminum oxides)."
+  },
+  {
+    "label": "Laterite Soils - Distribution and Agro-Ecological Utility",
+    "info": "Covers ~4.3% of area, capping flat summits of the Western Ghats, Eastern Ghats, Rajmahal Hills, and Meghalaya Plateau. Acidic (pH 4.5–5.5), high phosphorus fixation capacity, and deficient in calcium and magnesium. Highly suited for plantation crops (tea, coffee, cashew, rubber) and commercial quarrying of building bricks."
+  },
+  {
+    "label": "Arid and Desert Soils (Aridisols) - Features and Chemistry",
+    "info": "Cover ~4.0-4.5% of total area, mainly across western Rajasthan, northern Gujarat, and south-western Punjab. Characterized by high aeolian sand fractions, negligible clay, alkaline pH, high soluble salt contents, and deficient nitrogen and humus. Downward enrichment of calcium leads to impermeable subsoil calcic Kankar horizons."
+  },
+  {
+    "label": "Saline and Alkaline Soils (Usar / Reh / Kallar / Chopan)",
+    "info": "Cover ~6.73 million hectares. Saline soils (Solonchaks) contain excessive neutral soluble salts (chlorides and sulfates of Na, Ca, Mg); Alkaline soils (Solonetz) contain high exchangeable sodium percentage (ESP > 15%) and sodium carbonates, raising pH above 8.5. Prevalent in canal command zones of Punjab, Haryana, UP, and coastal Sundarbans/Kutch."
+  },
+  {
+    "label": "Soil Salinity Reclamation Protocols",
+    "info": "Standardized by ICAR-CSSRI: physical flushing and subterranean tile drainage to remove soluble salts; chemical amendment via application of Gypsum (calcium sulfate) or iron pyrites to displace exchangeable sodium with calcium ions; accompanied by green manuring with Sesbania aculeata (Dhaincha)."
+  },
+  {
+    "label": "Peaty and Organic Soils (Kari Soils / Histosols)",
+    "info": "Formed in poorly drained, humid depressions where excessive water-logging impedes organic decay. Exhibits high organic matter and humus accumulation (up to 40-50%), dark black coloration, and extreme acidity. Found in Kottayam-Alappuzha districts of Kerala (Kari soils, where submerged rice cultivation occurs), Sunderbans, and northern Bihar."
+  },
+  {
+    "label": "Forest and Mountain Soils - Heterogeneity and Podzolization",
+    "info": "Occur along Himalayan slopes and higher elevations. Shallow, stony, and coarse-textured on upper ridges; deep fertile silt-loams on lower valley terraces. High-altitude coniferous belts develop acidic, bleached Podzol profiles due to slow organic decomposition and severe leaching under snow cover."
+  },
+  {
+    "label": "National Land Degradation Status (ISRO SAC Atlas)",
+    "info": "According to the Space Applications Centre (SAC-ISRO) Desertification and Land Degradation Atlas, 97.85 million hectares—constituting 29.77% of India's Total Geographical Area (TGA)—is undergoing desertification and land degradation, with Rajasthan, Maharashtra, and Gujarat accounting for the largest extents."
+  },
+  {
+    "label": "Mechanisms of Soil Degradation in India",
+    "info": "Water erosion is the single largest driver of soil degradation (accounting for ~11.01% of degraded area, causing topsoil stripping and gully/ravine erosion like the Chambal ravines), followed by vegetation degradation (~9.15%), wind erosion (~5.46% in arid western belts), and chemical salinization/alkalization (~1.0%)."
+  },
+  {
+    "label": "Bonn Challenge Commitment and Land Degradation Neutrality (LDN)",
+    "info": "India is a signatory to the United Nations Convention to Combat Desertification (UNCCD). Under the Bonn Challenge, India raised its national target to restore 26 million hectares of degraded and deforested land by 2030, anchored by target 15.3 of the UN Sustainable Development Goals (SDGs)."
+  },
+  {
+    "label": "Soil Organic Carbon (SOC) Status",
+    "info": "ICAR-NBSS&LUP data reveals that over 50-60% of Indian cultivated soils are severely depleted of Soil Organic Carbon, registering SOC levels below 0.5% (against an optimal benchmark of >0.75-1.0%). Depletion is driven by high tropical temperatures accelerating microbial oxidation, crop residue burning, and low organic manure replenishment."
+  },
+  {
+    "label": "Soil Health Card (SHC) Scheme",
+    "info": "Launched in 2015 by the Ministry of Agriculture and Farmers Welfare under the motto 'Swasth Dhara, Khet Hara'. Evaluates 12 specific fertility indicators: Macronutrients (N, P, K), Secondary nutrients (Sulfur), Micronutrients (Zinc, Iron, Copper, Manganese, Boron), and Physical parameters (pH, Electrical Conductivity, Soil Organic Carbon)."
+  },
+  {
+    "label": "Macro-Nutrient Distortion and Fertilizer Imbalance",
+    "info": "Heavily skewed application of urea driven by historical price controls has severely distorted the national Nitrogen-Phosphorus-Potassium (N:P:K) consumption ratio, shifting it away from the agronomically recommended 4:2:1 baseline to ratios exceeding 6.7:2.7:1 in northwestern intensive agricultural belts."
+  },
+  {
+    "label": "Soil Micro-Nutrient Deficiencies",
+    "info": "Widespread multi-nutrient micro-deficiencies constrain Indian soils: an estimated 36-40% of soils are deficient in Zinc (Zn), 23-28% deficient in Boron (B), 25% deficient in Sulfur (S), and 12-15% deficient in Iron (Fe), directly contributing to 'hidden hunger' in food crops."
+  },
+  {
+    "label": "Nutrient Based Subsidy (NBS) and Soil Chemistry Reform",
+    "info": "Administered by the Department of Fertilizers, Ministry of Chemicals and Fertilizers since 2010. Formulates dynamic per-kilogram fiscal subsidies on non-urea phosphatic and potassic (P&K) grades based on their nutrient composition (N, P, K, and S) to incentivize balanced secondary and micronutrient-fortified fertilizer applications."
+  },
+  {
+    "label": "Digital Soil Mapping: Land Resource Inventory (LRI)",
+    "info": "Spearheaded by ICAR-NBSS&LUP at 1:10,000 scale using remote sensing, GIS, and digital terrain modeling. Generates site-specific Land Management Units (LMUs) to deliver cadastral-level parcel advisory on soil depth, texture, water retention, and crop suitability."
+  }
+]

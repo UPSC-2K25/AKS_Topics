@@ -1,0 +1,67 @@
+[
+  {
+    "sno": 1,
+    "achievement_name": "Pokhran-I (Operation Smiling Buddha)",
+    "year_or_date": "1974 (May 18)",
+    "domain": "Nuclear Technology / Strategic Deterrence",
+    "implementing_agency": "Bhabha Atomic Research Centre (BARC) & DRDO",
+    "lead_scientists": "Raja Ramanna, Homi N. Sethna, P. K. Iyengar",
+    "objective": "Design, fabricate, and detonate a contained underground fission device for Peaceful Nuclear Explosions (PNE)",
+    "key_technologies_developed": "Implosion-type plutonium core physics package, fast-neutron initiator, precision detonator timing systems",
+    "launch_or_test_platform": "Underground shaft detonation at Pokhran Test Range, Thar Desert, Rajasthan",
+    "strategic_and_scientific_impact": "Established India's sovereign nuclear capability and mastery of plutonium metallurgy",
+    "global_context_or_ranking": "First confirmed nuclear test conducted outside the five permanent UN Security Council members"
+  },
+  {
+    "sno": 2,
+    "achievement_name": "PARAM 8000 Supercomputer",
+    "year_or_date": "1991",
+    "domain": "High-Performance Supercomputing",
+    "implementing_agency": "Centre for Development of Advanced Computing (C-DAC), Pune",
+    "lead_scientists": "Vijay P. Bhatkar",
+    "objective": "Build an indigenous supercomputer after international sanctions blocked the export of Cray X-MP machines to India",
+    "key_technologies_developed": "Massively Parallel Processing (MPP) architecture utilizing Inmos T800 transputers, parallel compiler software",
+    "launch_or_test_platform": "Open-architecture parallel computing nodes",
+    "strategic_and_scientific_impact": "Overcame international technology transfer restrictions, securing high-performance computing power for molecular modeling and weather research",
+    "global_context_or_ranking": "Second fastest supercomputer in the world at its launch price-performance tier; India's first supercomputer"
+  },
+  {
+    "sno": 3,
+    "achievement_name": "Chandrayaan-1 Lunar Mission (Discovery of Water on Moon)",
+    "year_or_date": "2008 (October 22)",
+    "domain": "Deep Space Planetary Exploration",
+    "implementing_agency": "Indian Space Research Organisation (ISRO)",
+    "lead_scientists": "G. Madhavan Nair, Mylswamy Annadurai",
+    "objective": "Conduct high-resolution chemical, mineralogical, and photo-geological mapping of the lunar surface",
+    "key_technologies_developed": "Moon Impact Probe (MIP), Terrain Mapping Camera (TMC), Deep Space Network (IDSN 32m antenna at Byalalu)",
+    "launch_or_test_platform": "PSLV-C11 (XL configuration) from SDSC SHAR",
+    "strategic_and_scientific_impact": "Instruments (M3 and MIP) confirmed the presence of hydroxyl and water molecules across the lunar surface",
+    "global_context_or_ranking": "Credited with the historic detection of water ice molecules across the lunar polar regolith"
+  },
+  {
+    "sno": 4,
+    "achievement_name": "Mars Orbiter Mission (Mangalyaan / MOM)",
+    "year_or_date": "2013 (November 5) / Insertion: 2014 (September 24)",
+    "domain": "Interplanetary Deep Space Exploration",
+    "implementing_agency": "Indian Space Research Organisation (ISRO)",
+    "lead_scientists": "K. Radhakrishnan, S. Arunan, Mylswamy Annadurai",
+    "objective": "Demonstrate interplanetary spacecraft design, deep-space navigation, autonomous mission operations, and Martian imaging",
+    "key_technologies_developed": "Autonomous onboard fault-recovery software, deep-space attitude control, Mars Color Camera (MCC)",
+    "launch_or_test_platform": "PSLV-C25 from Satish Dhawan Space Centre (SHAR)",
+    "strategic_and_scientific_impact": "Demonstrated cost-effective interplanetary mission engineering while studying Martian atmospheric escape and surface topography",
+    "global_context_or_ranking": "First nation in the world to reach Martian orbit on its maiden attempt; first Asian nation to reach Mars"
+  },
+  {
+    "sno": 5,
+    "achievement_name": "Chandrayaan-3 Lunar South Pole Soft Landing",
+    "year_or_date": "2023 (August 23)",
+    "domain": "Planetary Landing / Lunar Exploration",
+    "implementing_agency": "Indian Space Research Organisation (ISRO)",
+    "lead_scientists": "S. Somanath, P. Veeramuthuvel, S. Unnikrishnan Nair, M. Sankaran",
+    "objective": "Execute a safe, autonomous soft landing on the lunar south polar region and deploy the Pragyan rover for in-situ science",
+    "key_technologies_developed": "Lander Hazard Detection and Avoidance (LHDA) algorithms, throttleable 800N bi-propellant thrusters, Laser Doppler Velocimeters, APXS",
+    "launch_or_test_platform": "LVM3-M4 launch vehicle; Vikram Lander touched down at 'Shiv Shakti Point'",
+    "strategic_and_scientific_impact": "Carried out direct in-situ thermo-physical, plasma, and elemental analysis of south-polar lunar regolith (confirming sulfur)",
+    "global_context_or_ranking": "First nation in history to soft-land a spacecraft near the lunar south pole; 4th nation to achieve a soft lunar landing"
+  }
+]

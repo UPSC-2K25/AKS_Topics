@@ -1,0 +1,150 @@
+[
+  {
+    "categoryId": "generic",
+    "categoryTitle": "Generic & Core",
+    "badge": "bg-slate-100 text-slate-700 border border-slate-200",
+    "topics": [
+      {
+        "id": "india-core",
+        "title": "India: Core Facts, Economy & Governance",
+        "description": "Comprehensive profile covering the national profile, Constitution, economy, and key indexes.",
+        "file": "./Generic/india.json"
+      }
+    ]
+  },
+  {
+    "categoryId": "geography",
+    "categoryTitle": "Geography",
+    "badge": "bg-cyan-50 text-cyan-700 border border-cyan-200",
+    "topics": [
+      {
+        "id": "indian-rivers",
+        "title": "Indian River Systems & Water Geography",
+        "description": "Himalayan and Peninsular river basins, tributaries, water disputes, and management.",
+        "file": "./Geography/indian-river-system.json"
+      },
+      {
+        "id": "indian-industries",
+        "title": "Indian Industries and Secondary Sector",
+        "description": "Growth and contribution of Secondary Sector",
+        "file": "./Geography/indian-industries.json"
+      },
+      {
+        "id": "indian-agriculture",
+        "title": "Indian Primary Sector",
+        "description": "Agriculture and its contribution to Indian GDP",
+        "file": "./Geography/indian-agriculture.json"
+      },
+      {
+        "id": "indian-mineral-belts",
+        "title": "Indian Mineral Belts & Crust Geography",
+        "description": "Finding out the precious metals of bharat.",
+        "file": "./Geography/mineral-belts.json"
+      },
+      {
+        "id": "crops-of-india",
+        "title": "Major & Minor Crops of India",
+        "description": "Cropping seasons, agro-climatic requirements, foodgrains, commercial crops, and pulses.",
+        "file": "./Geography/crops.json"
+      },
+      {
+        "id": "indian-monsoons",
+        "title": "Monsoons in India",
+        "description": "Mechanism, theories, jet streams, branches, cycles, and teleconnections of the Indian monsoon.",
+        "file": "./Geography/monsoon.json"
+      },
+      {
+        "id": "indian-mountains",
+        "title": "Mountains in India",
+        "description": "Himalayan orogeny, Trans-Himalayas, Purvanchal, Peninsular ranges, passes, and geology.",
+        "file": "./Geography/mountains.json"
+      },
+      {
+        "id": "indian-soil",
+        "title": "Soil & Soil Features in India",
+        "description": "ICAR/USDA classifications, pedological traits, spatial extent, and degradation dynamics.",
+        "file": "./Geography/soil.json"
+      }
+    ]
+  },
+  {
+    "categoryId": "polity",
+    "categoryTitle": "Constitution & Governance",
+    "badge": "bg-indigo-50 text-indigo-700 border border-indigo-200",
+    "topics": []
+  },
+  {
+    "categoryId": "history",
+    "categoryTitle": "History & Heritage",
+    "badge": "bg-amber-50 text-amber-700 border border-amber-200",
+    "topics": []
+  },
+  {
+    "categoryId": "economy",
+    "categoryTitle": "Economy & Development",
+    "badge": "bg-emerald-50 text-emerald-700 border border-emerald-200",
+    "topics": [
+      {
+        "id": "economic-corridors",
+        "title": "Economic Corridors of India",
+        "description": "NICDP nodes, dedicated freight corridors, Bharatmala, and multi-modal logistics networks.",
+        "file": "./Economy/economic-corridors.json"
+      },
+      {
+        "id": "seaports-in-india",
+        "title": "Major Seaports in India",
+        "description": "Major and non-major maritime ports, administrative models, traffic, and Sagarmala initiatives.",
+        "file": "./Economy/seaports.json"
+      }
+    ]
+  },
+  {
+    "categoryId": "environment",
+    "categoryTitle": "Environment & Ecology",
+    "badge": "bg-teal-50 text-teal-700 border border-teal-200",
+    "topics": []
+  },
+  {
+    "categoryId": "sci-tech",
+    "categoryTitle": "Science & Technology",
+    "badge": "bg-blue-50 text-blue-700 border border-blue-200",
+    "topics": []
+  },
+  {
+    "categoryId": "security",
+    "categoryTitle": "Internal Security",
+    "badge": "bg-rose-50 text-rose-700 border border-rose-200",
+    "topics": []
+  },
+  {
+    "categoryId": "disaster",
+    "categoryTitle": "Disaster Management",
+    "badge": "bg-orange-50 text-orange-700 border border-orange-200",
+    "topics": []
+  },
+  {
+    "categoryId": "culture",
+    "categoryTitle": "Art & Culture",
+    "badge": "bg-pink-50 text-pink-700 border border-pink-200",
+    "topics": [
+      {
+        "id": "dance-and-artforms-india",
+        "title": "Danceforms & Artforms of India",
+        "description": "Classical and folk dances, Shadanga painting traditions, puppetry, and theatrical forms.",
+        "file": "./CultureArt/dance-artforms.json"
+      },
+      {
+        "id": "temple-architecture-india",
+        "title": "Major Temples & Architecture in India",
+        "description": "Nagara, Dravida, and Vesara styles, rock-cut architecture, and landmark heritage sites.",
+        "file": "./CultureArt/temple-architecture.json"
+      }
+    ]
+  },
+  {
+    "categoryId": "current-affairs",
+    "categoryTitle": "Current Affairs",
+    "badge": "bg-purple-50 text-purple-700 border border-purple-200",
+    "topics": []
+  }
+]

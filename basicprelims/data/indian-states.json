@@ -1,0 +1,57 @@
+[
+  {
+    "sno": 1,
+    "state_or_ut_name": "Assam",
+    "capital_and_geographical_region": "Dispur; North-Eastern Region (Brahmaputra and Barak river valleys)",
+    "international_borders": "Bhutan to the north; Bangladesh to the west and south (along with the strategic Siliguri Corridor gateway)",
+    "historical_and_cultural_heritage": "Ahom Dynasty (who repelled the Mughal Empire at the Battle of Saraighat in 1671 led by Lachit Borphukan), Bihu dance, Kamakhya Temple, Assamese Classical Language",
+    "major_geographical_features": "Brahmaputra River, Majuli River Island, Karbi Anglong and Cachar Hills, Mikir Hills",
+    "economic_and_resource_significance": "Assam Tea (GI tag, contributes over 50% of India's tea), oldest operational oil refinery in Asia at Digboi, Muga golden silk",
+    "special_constitutional_provisions": "Sixth Schedule of the Constitution (Bodoland, Karbi Anglong, and Dima Hasao Autonomous District Councils); Article 371B",
+    "strategic_and_geopolitical_importance": "Anchor state for India's 'Act East Policy', vital transit hub connecting the seven northeastern sister states to the mainland via the Chicken's Neck"
+  },
+  {
+    "sno": 2,
+    "state_or_ut_name": "Kerala",
+    "capital_and_geographical_region": "Thiruvananthapuram; Coastal Plains & Southern Western Ghats (Malabar and Coromandel fringe)",
+    "international_borders": "Coastline along the Arabian Sea (no international land boundaries)",
+    "historical_and_cultural_heritage": "Chera Dynasty, Kingdom of Travancore (Marthanda Varma defeated the Dutch East India Company at the Battle of Colachel in 1741), Kathakali, Kalaripayattu, Malayalam Classical Language",
+    "major_geographical_features": "Anamudi Peak (highest peak in South India at 2,695 m), Palghat Gap, Vembanad Lake (longest lake in India / Ramsar site), Ashtamudi Lake",
+    "economic_and_resource_significance": "'Spice Coast of India' (Cardamom, Black Pepper), Natural Rubber (leads national production >70%), Coconut, coir manufacturing, monazite mineral beach sands",
+    "special_constitutional_provisions": "Decentralized Panchayati Raj planning under the People's Plan Campaign, high Human Development Index (HDI)",
+    "strategic_and_geopolitical_importance": "Dominates busy international Indian Ocean trade lanes, home to the Southern Naval Command (Kochi) and Vizhinjam International Transshipment Deepwater Seaport"
+  },
+  {
+    "sno": 3,
+    "state_or_ut_name": "Ladakh (Union Territory)",
+    "capital_and_geographical_region": "Leh and Kargil; Trans-Himalayas (Cold High-Altitude Desert Plateau)",
+    "international_borders": "Pakistan-administered Kashmir to the west/northwest (Line of Control); China (Tibet / Xinjiang) along the Line of Actual Control (LAC)",
+    "historical_and_cultural_heritage": "Namgyal Dynasty of Ladakh, Tibetan Buddhist monastic architecture (Hemis, Thiksey Gompas), Losar festival, historical Silk Route trade crossroads",
+    "major_geographical_features": "Karakoram Range, Siachen Glacier, Zanskar Range, Pangong Tso Lake, Tso Moriri Lake, Indus River, Khardung La Pass",
+    "economic_and_resource_significance": "Pashmina wool extraction (Changthangi goats), solar and geothermal power potential (Puga valley), apricot horticulture (Raktsey Karpo GI)",
+    "special_constitutional_provisions": "Union Territory without legislature (governed directly under the J&K Reorganisation Act 2019); Ladakh Autonomous Hill Development Councils (LAHDC Leh & Kargil)",
+    "strategic_and_geopolitical_importance": "Most sensitive northern military sector containing Daulat Beg Oldi (DBO airstrip), Galwan Valley, Depsang Plains, and the Siachen Glacier tri-junction"
+  },
+  {
+    "sno": 4,
+    "state_or_ut_name": "Gujarat",
+    "capital_and_geographical_region": "Gandhinagar; Western India (Kathiawar Peninsula, Kutch, and alluvial mainland plains)",
+    "international_borders": "Land and maritime border with Pakistan (Sindh province / Sir Creek tidal estuary)",
+    "historical_and_cultural_heritage": "Indus Valley Civilization ports (Lothal, Dholavira UNESCO Site), Solanki Dynasty, Modhera Sun Temple, Garba dance, birthplace of Mahatma Gandhi and Sardar Patel",
+    "major_geographical_features": "Longest coastline among Indian states (approx 1,600 km), Great Rann of Kutch (seasonal salt marsh), Girnar Hill, Gulf of Khambhat, Narmada and Tapi deltas",
+    "economic_and_resource_significance": "Industrial power: Petroleum refining (Jamnagar), diamond cutting (Surat), chemical manufacturing, cotton production, groundnut crops, Mundra and Deendayal (Kandla) ports",
+    "special_constitutional_provisions": "Article 371(2) providing for special developmental boards for Saurashtra, Kutch, and the rest of Gujarat",
+    "strategic_and_geopolitical_importance": "Hosts India's largest private and public container ports; key energy infrastructure gateway handling crude imports; maritime security monitoring at Sir Creek"
+  },
+  {
+    "sno": 5,
+    "state_or_ut_name": "Arunachal Pradesh",
+    "capital_and_geographical_region": "Itanagar; Eastern Himalayan Mountain System (North-East Border)",
+    "international_borders": "Tibet (China) along the McMahon Line to the north; Bhutan to the west; Myanmar to the east",
+    "historical_and_cultural_heritage": "Tawang Monastery (second largest Tibetan Buddhist monastery in the world), indigenous tribal councils (Kebang of the Adis), Losar, Torgya festivals",
+    "major_geographical_features": "Kangto peak, Namcha Barwa tri-junction, Sela Pass, Bum La Pass, Dihang/Brahmaputra gorge, Subansiri, Lohit, and Dibang river valleys",
+    "economic_and_resource_significance": "Highest hydroelectric power potential in India, dense tropical and sub-alpine forest timber, kiwi fruit horticulture, diverse medicinal biodiversity",
+    "special_constitutional_provisions": "Article 371H (special discretionary powers for the Governor on law and order); Bengal Eastern Frontier Regulation 1873 (Inner Line Permit / ILP)",
+    "strategic_and_geopolitical_importance": "Frontline border defense buffer; historical site of the 1962 Sino-Indian War; safeguarded by key infrastructure projects like Sela Tunnel and the Trans-Arunachal Highway"
+  }
+]

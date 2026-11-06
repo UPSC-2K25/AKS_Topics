@@ -1,0 +1,67 @@
+[
+  {
+    "sno": 1,
+    "protected_area_name": "Kaziranga National Park",
+    "designation_type": "National Park, Tiger Reserve, UNESCO World Heritage Site",
+    "state_and_district": "Golaghat, Nagaon, and Sonitpur districts, Assam",
+    "biogeographic_zone": "Brahmaputra Flood Plains / Indomalayan Realm",
+    "rivers_flowing_through": "Brahmaputra, Diphlu, Mora Diphlu, and Mora Dhansiri",
+    "dominant_vegetation_type": "Tropical Moist Deciduous, alluvial inundated grasslands, and tropical semi-evergreen forests",
+    "flagship_and_endemic_fauna": "Great Indian One-horned Rhinoceros (Rhinoceros unicornis), Wild Water Buffalo, Eastern Swamp Deer",
+    "iucn_red_list_species": "One-horned Rhinoceros (Vulnerable), Bengal Tiger (Endangered), Asian Elephant (Endangered), Bengal Florican (Critically Endangered)",
+    "conservation_programs": "Indian Rhino Vision 2020 (IRV 2020), Project Tiger, Project Elephant",
+    "special_features_and_threats": "Hosts two-thirds of the world's great one-horned rhinoceros population; recurring annual monsoon floods and highway animal mortality"
+  },
+  {
+    "sno": 2,
+    "protected_area_name": "Jim Corbett National Park",
+    "designation_type": "National Park, Tiger Reserve",
+    "state_and_district": "Nainital and Pauri Garhwal districts, Uttarakhand",
+    "biogeographic_zone": "Terai-Arc Landscape / Shivalik Foothills",
+    "rivers_flowing_through": "Ramganga, Kosi, Mandal, and Sonanadi",
+    "dominant_vegetation_type": "Moist Deciduous, Sal (Shorea robusta) forests, Khair-Sissoo belts, and chaur grasslands",
+    "flagship_and_endemic_fauna": "Royal Bengal Tiger (Panthera tigris), Asian Elephant, Gharial, Marsh Crocodile",
+    "iucn_red_list_species": "Bengal Tiger (Endangered), Asian Elephant (Endangered), Gharial (Critically Endangered), Hog Deer (Endangered)",
+    "conservation_programs": "Birthplace of Project Tiger (launched here on April 1, 1973)",
+    "special_features_and_threats": "Oldest national park in India (established in 1936 as Hailey National Park); eco-tourism pressures and linear infrastructure fragmentation"
+  },
+  {
+    "sno": 3,
+    "protected_area_name": "Keibul Lamjao National Park",
+    "designation_type": "National Park, Core Zone of Loktak Ramsar Wetland",
+    "state_and_district": "Bishnupur district, Manipur",
+    "biogeographic_zone": "Northeast Hills / Indo-Burma Hotspot",
+    "rivers_flowing_through": "Loktak Lake water system fed by Khuga and Manipur rivers",
+    "dominant_vegetation_type": "Phumdis (floating mats of decomposing organic matter and soil vegetation), wetland reeds, and grasses",
+    "flagship_and_endemic_fauna": "Manipur Brow-antlered Deer or Sangai / Dancing Deer (Rucervus eldii eldii)",
+    "iucn_red_list_species": "Sangai (Endangered / endemic sub-species), Hog Deer (Endangered)",
+    "conservation_programs": "Species Recovery Programme under Integrated Development of Wildlife Habitats",
+    "special_features_and_threats": "World's only floating national park; thinning of phumdis caused by water level variations from the Ithai Barrage"
+  },
+  {
+    "sno": 4,
+    "protected_area_name": "Gir National Park and Wildlife Sanctuary",
+    "designation_type": "National Park and Wildlife Sanctuary",
+    "state_and_district": "Junagadh, Gir Somnath, and Amreli districts, Gujarat",
+    "biogeographic_zone": "Semi-Arid Gujarat-Rajputana Zone / Kathiawar Peninsula",
+    "rivers_flowing_through": "Hiran, Shetrunji, Datardi, Raval, Godavari, and Machhundri",
+    "dominant_vegetation_type": "Tropical Dry Deciduous teak scrub forests and savannah grasslands",
+    "flagship_and_endemic_fauna": "Asiatic Lion (Panthera leo persica), Chousingha (Four-horned antelope)",
+    "iucn_red_list_species": "Asiatic Lion (Endangered), Chousingha (Vulnerable), White-backed Vulture (Critically Endangered)",
+    "conservation_programs": "Project Lion, Asiatic Lion Conservation Project",
+    "special_features_and_threats": "Sole remaining natural habitat of the wild Asiatic Lion; risks of disease transmission (Canine Distemper Virus) and pending translocation to Kuno"
+  },
+  {
+    "sno": 5,
+    "protected_area_name": "Silent Valley National Park",
+    "designation_type": "National Park, Core Area of Nilgiri Biosphere Reserve",
+    "state_and_district": "Palakkad district, Kerala",
+    "biogeographic_zone": "Western Ghats Hotspot / Malabar Rain Forest",
+    "rivers_flowing_through": "Kunthipuzha River (tributary of Bharathapuzha)",
+    "dominant_vegetation_type": "Tropical Wet Evergreen Rain Forests and high-altitude Shola grasslands",
+    "flagship_and_endemic_fauna": "Lion-tailed Macaque (Macaca silenus), Nilgiri Tahr, Malabar Giant Squirrel",
+    "iucn_red_list_species": "Lion-tailed Macaque (Endangered), Nilgiri Tahr (Endangered), Great Indian Hornbill (Vulnerable)",
+    "conservation_programs": "Part of Project Elephant, UNESCO World Heritage site (Western Ghats cluster)",
+    "special_features_and_threats": "Historic 1970s 'Save Silent Valley' movement halted a hydroelectric dam; completely devoid of cicada insect noises"
+  }
+]

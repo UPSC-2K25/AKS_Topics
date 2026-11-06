@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UPSC Civil Services Knowledge Vault</title>
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body class="bg-slate-50 text-slate-900 h-screen flex flex-col overflow-hidden">
+
+  <!-- Top Sticky Header -->
+  <header class="bg-white border-b border-slate-200 shrink-0 z-30 shadow-sm">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-2.5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2.5">
+      
+      <!-- Brand & Title -->
+      <div class="flex items-center gap-2.5 shrink-0">
+        <div class="w-8 h-8 rounded-lg bg-indigo-600 text-white flex items-center justify-center font-bold text-base shadow-sm shrink-0">
+          🏛️
+        </div>
+        <div>
+          <h1 class="text-base font-bold text-slate-900 leading-tight">UPSC Knowledge Vault</h1>
+          <p class="text-[11px] text-slate-500">Curated Datasets for Civil Services Preparation</p>
+        </div>
+      </div>
+
+      <!-- Controls: Topic Select Dropdown + Search Bar -->
+      <div class="flex items-center gap-2 w-full sm:w-auto">
+        <!-- Topic Selection Dropdown -->
+        <div class="relative w-1/2 sm:w-64">
+          <select 
+            id="topicSelect" 
+            class="w-full appearance-none pl-3 pr-8 py-1.5 text-xs font-medium bg-slate-100 hover:bg-slate-200/70 border border-slate-200 focus:bg-white focus:ring-2 focus:ring-indigo-500 focus:outline-none rounded-lg transition-all cursor-pointer text-slate-800"
+          >
+            <!-- Dynamically populated -->
+          </select>
+          <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-slate-500">
+            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </div>
+        </div>
+
+        <!-- Global Search Input -->
+        <div class="relative w-1/2 sm:w-72">
+          <input 
+            type="text" 
+            id="searchInput" 
+            placeholder="Search keywords, articles..." 
+            class="w-full pl-8 pr-3 py-1.5 text-xs bg-slate-100 hover:bg-slate-200/70 focus:bg-white focus:ring-2 focus:ring-indigo-500 focus:outline-none rounded-lg border border-slate-200 transition-all text-slate-900 placeholder:text-slate-400"
+          />
+          <svg class="w-3.5 h-3.5 text-slate-400 absolute left-2.5 top-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+        </div>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- Main Content Body (Fitted into remaining viewport height) -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 py-2.5 flex-1 w-full flex flex-col justify-between overflow-hidden">
+    <div class="flex flex-col flex-1 overflow-hidden">
+      <!-- Meta Information Row -->
+      <div class="flex items-center justify-between gap-2 mb-2 shrink-0">
+        <div class="flex items-center gap-2">
+          <span id="topicBadge" class="text-[11px] px-2 py-0.5 rounded-full font-semibold uppercase tracking-wider"></span>
+          <h2 id="topicTitle" class="text-base font-bold text-slate-900"></h2>
+          <span id="topicCount" class="text-xs text-slate-500 font-medium"></span>
+        </div>
+        <div class="text-[11px] text-slate-400 italic hidden sm:block">Click any row to open full notes</div>
+      </div>
+
+      <!-- Desktop Table View (Compact & Contained) -->
+      <div class="bg-white rounded-xl border border-slate-200 shadow-sm flex-1 overflow-hidden hidden md:flex flex-col">
+        <div class="overflow-x-auto overflow-y-auto flex-1">
+          <table class="w-full text-left border-collapse">
+            <thead id="tableHeader" class="bg-slate-100 text-slate-700 sticky top-0 border-b border-slate-200 uppercase tracking-wider font-semibold z-10">
+              <!-- Dynamically populated -->
+            </thead>
+            <tbody id="tableBody" class="divide-y divide-slate-100">
+              <!-- Dynamically populated with single-line truncated text -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Mobile Card View (Contained Scroll) -->
+      <div id="cardContainer" class="flex-1 overflow-y-auto space-y-2 md:hidden pr-1">
+        <!-- Dynamically populated -->
+      </div>
+    </div>
+
+    <!-- Pagination Controls Bar (Pinned at bottom, 12 rows per page) -->
+    <div id="paginationBar" class="shrink-0 mt-2.5 flex items-center justify-between border-t border-slate-200 pt-2 text-xs text-slate-600">
+      <div id="paginationSummary" class="text-slate-500 font-medium">
+        <!-- Showing X to Y of Z entries -->
+      </div>
+      <div class="flex items-center gap-2">
+        <button 
+          id="prevPageBtn" 
+          class="px-3 py-1 rounded-md border border-slate-300 bg-white hover:bg-slate-100 disabled:opacity-40 disabled:cursor-not-allowed font-medium transition-colors shadow-sm text-xs"
+        >
+          &larr; Prev
+        </button>
+        <span id="pageIndicator" class="px-2 font-semibold text-slate-800 text-xs">
+          Page 1 of 1
+        </span>
+        <button 
+          id="nextPageBtn" 
+          class="px-3 py-1 rounded-md border border-slate-300 bg-white hover:bg-slate-100 disabled:opacity-40 disabled:cursor-not-allowed font-medium transition-colors shadow-sm text-xs"
+        >
+          Next &rarr;
+        </button>
+      </div>
+    </div>
+  </main>
+
+  <!-- High-Density Inline Bulleted Modal (With Arrow Navigation) -->
+  <div id="detailDrawer" class="fixed inset-0 z-50 bg-slate-900/60 backdrop-blur-xs hidden flex justify-center items-center p-2 sm:p-4">
+    <div class="bg-white w-full max-w-5xl max-h-[95vh] rounded-xl shadow-2xl flex flex-col overflow-hidden border border-slate-200">
+      
+      <!-- Modal Header with Record Flipping Buttons -->
+      <div class="px-4 py-2.5 border-b border-slate-200 flex items-center justify-between bg-slate-100/90 shrink-0">
+        <div class="flex items-center gap-2.5 truncate mr-2">
+          <span id="modalCategory" class="text-[10px] uppercase tracking-wider font-bold text-indigo-700 bg-indigo-50 border border-indigo-200 px-2 py-0.5 rounded shrink-0"></span>
+          <h3 id="modalTitle" class="text-sm sm:text-base font-bold text-slate-900 truncate"></h3>
+        </div>
+
+        <!-- Flipping Controls & Close Button -->
+        <div class="flex items-center gap-1.5 shrink-0">
+          <span id="modalRecordPos" class="text-[11px] font-semibold text-slate-500 px-1.5 py-0.5 bg-white border border-slate-200 rounded">
+            1 of 1
+          </span>
+          <button 
+            id="modalPrevBtn" 
+            title="Previous record (Left Arrow)"
+            class="p-1 rounded-md bg-white border border-slate-200 text-slate-600 hover:text-slate-900 hover:bg-slate-50 disabled:opacity-30 disabled:cursor-not-allowed transition-colors shadow-xs"
+          >
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"/>
+            </svg>
+          </button>
+          <button 
+            id="modalNextBtn" 
+            title="Next record (Right Arrow)"
+            class="p-1 rounded-md bg-white border border-slate-200 text-slate-600 hover:text-slate-900 hover:bg-slate-50 disabled:opacity-30 disabled:cursor-not-allowed transition-colors shadow-xs"
+          >
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/>
+            </svg>
+          </button>
+          <button 
+            id="closeModalBtn" 
+            title="Close (ESC)"
+            class="text-slate-400 hover:text-slate-700 p-1 rounded-md hover:bg-slate-200 transition-colors ml-1"
+          >
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Borderless Bulleted List Body -->
+      <div id="modalContent" class="p-3 sm:p-4 overflow-y-auto flex-1">
+        <!-- Dynamically populated with tight inline bullet entries -->
+      </div>
+
+      <!-- Minimal Footer -->
+      <div class="px-4 py-1.5 border-t border-slate-200 bg-slate-50 flex justify-between items-center shrink-0 text-[11px] text-slate-400">
+        <span class="flex items-center gap-1.5">
+          <span>Use <kbd class="px-1 py-0.5 bg-slate-200 border border-slate-300 rounded font-mono text-[10px] text-slate-700">&larr;</kbd> <kbd class="px-1 py-0.5 bg-slate-200 border border-slate-300 rounded font-mono text-[10px] text-slate-700">&rarr;</kbd> keys to flip records</span>
+          <span class="hidden sm:inline">&bull; Press <kbd class="px-1 py-0.5 bg-slate-200 border border-slate-300 rounded font-mono text-[10px] text-slate-700">ESC</kbd> to close</span>
+        </span>
+        <button onclick="closeModal()" class="px-3.5 py-1 bg-slate-800 hover:bg-slate-900 text-white rounded font-medium text-xs transition-colors">
+          Close Note
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Main JavaScript File -->
+  <script src="./app.js?v=2.1"></script>
+</body>
+</html>

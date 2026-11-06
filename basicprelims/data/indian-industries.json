@@ -1,0 +1,62 @@
+[
+  {
+    "sno": 1,
+    "industry_name": "Iron and Steel Industry",
+    "classification": "Heavy / Basic Metallurgical / Core Sector",
+    "major_industrial_clusters": "Chota Nagpur Plateau, Kalinganagar Belt, Bellary-Hospet, Visakhapatnam Coastal Belt",
+    "raw_material_linkages": "Iron ore (hematite/magnetite), coking coal, flux-grade limestone, dolomite, manganese",
+    "locational_factors": "Weight-losing raw material inputs, railway bulk freight routes, access to port locations (Vizag)",
+    "leading_states_and_units": "Odisha (Rourkela, Kalinganagar), Jharkhand (Tata Jamshedpur, Bokaro), Chhattisgarh (Bhilai), West Bengal (Durgapur, Burnpur)",
+    "government_schemes_and_policy": "National Steel Policy (targeting 300 MT capacity by 2030), Production Linked Incentive (PLI) Scheme for Specialty Steel",
+    "export_contribution_and_gdp_share": "Crucial manufacturing foundation, accounts for roughly 2% of India's GDP and employs over 2 million personnel",
+    "structural_challenges": "Heavy dependence on imported coking coal from Australia, high logistics freight costs, decarbonization requirements (Green Steel transition)"
+  },
+  {
+    "sno": 2,
+    "industry_name": "Cotton Textile Industry",
+    "classification": "Agro-based / Labor-intensive Consumer Industry",
+    "major_industrial_clusters": "Mumbai-Pune Belt, Ahmedabad-Surat (Cottonopolis/Manchester of India), Coimbatore-Tirupur ('Knitwear Capital')",
+    "raw_material_linkages": "Raw seed cotton, pure lint, chemical synthetic dyes, process water",
+    "locational_factors": "Originally humid coastal climates, raw material proximity, cheap skilled labor, market access (powerlooms shifted to decentralized interiors)",
+    "leading_states_and_units": "Gujarat, Maharashtra, Tamil Nadu, Telangana, Punjab (Ludhiana hosiery)",
+    "government_schemes_and_policy": "PM MITRA (Mega Integrated Textile Region and Apparel) Parks Scheme, RoDTEP, Amended Technology Upgradation Fund Scheme (ATUFS)",
+    "export_contribution_and_gdp_share": "Accounts for around 4% of GDP, 12% of total merchandise export earnings, and is the second largest employment provider after agriculture",
+    "structural_challenges": "Outdated small-scale machinery in powerlooms, fluctuations in domestic raw cotton yields from pink bollworm pests, tariff competition from Bangladesh and Vietnam"
+  },
+  {
+    "sno": 3,
+    "industry_name": "Pharmaceutical Industry",
+    "classification": "Knowledge-based / Chemical / Precision Manufacturing",
+    "major_industrial_clusters": "Hyderabad ('Vaccine Capital / Genome Valley'), Ahmedabad-Vadodara, Baddi-Solan (Himachal Pradesh), Mumbai-Thane",
+    "raw_material_linkages": "Active Pharmaceutical Ingredients (APIs), key starting materials (KSMs), fine petro-chemicals, glass/polymer packaging",
+    "locational_factors": "Proximity to research institutions, availability of skilled chemical engineers, industrial chemical infrastructure, state excise incentives",
+    "leading_states_and_units": "Telangana, Gujarat, Maharashtra, Himachal Pradesh, Andhra Pradesh (Bulk Drug Park Vizag)",
+    "government_schemes_and_policy": "PLI Scheme for Bulk Drugs and Pharmaceuticals, Promotion of Bulk Drug Parks Scheme, Strengthening of Pharmaceutical Industry (SPI)",
+    "export_contribution_and_gdp_share": "'Pharmacy of the World'; supplies over 20% of global generic medicines and 60% of worldwide vaccines",
+    "structural_challenges": "Over 65% import reliance on China for Active Pharmaceutical Ingredients (APIs), stringent US-FDA regulatory audits, pricing caps on essential medicines"
+  },
+  {
+    "sno": 4,
+    "industry_name": "Petrochemical and Petroleum Refining Industry",
+    "classification": "Heavy Chemical / Core Sector / Footloose-Tidewater linked",
+    "major_industrial_clusters": "Jamnagar-Dahej Belt, Mumbai-Uran, Paradip, Haldia, Panipat, Nagapattinam",
+    "raw_material_linkages": "Crude petroleum oil, natural gas, naphtha, ethane, cracking chemical catalysts",
+    "locational_factors": "Tidewater port locations for deep-draft crude supertankers (VLCCs), market pipelines for inland demand centers",
+    "leading_states_and_units": "Gujarat (Reliance Jamnagar: world's largest refining hub), Maharashtra, Odisha (IOCL Paradip), Haryana (IOCL Panipat)",
+    "government_schemes_and_policy": "Petroleum, Chemicals and Petrochemical Investment Regions (PCPIR) policy, Hydrocarbon Exploration and Licensing Policy (HELP)",
+    "export_contribution_and_gdp_share": "Refined petroleum products consistently rank as India's top merchandise export by value",
+    "structural_challenges": "Over 85% reliance on crude oil imports, exposure to geopolitical supply disruptions, environmental carbon-emission mandates"
+  },
+  {
+    "sno": 5,
+    "industry_name": "Information Technology and Software Services (IT-BPM)",
+    "classification": "Knowledge-based / Service Industry / Footloose",
+    "major_industrial_clusters": "Bengaluru ('Silicon Valley of India'), Hyderabad (Cyberabad), Pune, Chennai (OMR IT Corridor), Delhi-NCR (Gurugram/Noida)",
+    "raw_material_linkages": "Intellectual talent, fiber optic high-bandwidth undersea cables, uninterrupted power arrays, computing cloud servers",
+    "locational_factors": "Clusters of premier engineering/technical institutions, cosmopolitan urban infrastructure, English-speaking workforce",
+    "leading_states_and_units": "Karnataka (Infosys, Wipro), Telangana, Maharashtra, Tamil Nadu, Uttar Pradesh/Haryana",
+    "government_schemes_and_policy": "Software Technology Parks of India (STPI) scheme, National Policy on Software Products, Digital India, IT SEZ tax holidays",
+    "export_contribution_and_gdp_share": "Generates nearly 7.5% of national GDP, over $200 billion in services exports, and employs over 5 million professionals",
+    "structural_challenges": "Rapid rise of Generative AI automating baseline coding and call center roles, protectionist H-1B visa policies abroad, talent upskilling demands"
+  }
+]

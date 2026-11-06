@@ -1,0 +1,110 @@
+[
+  {
+    "label": "Cropping Seasons and Agro-Climatic Classification",
+    "info": "India follows three distinct agricultural seasons: Kharif (monsoon sowing in June–July, harvest in September–October; rain-dependent crops like paddy, maize, cotton), Rabi (winter sowing in October–December, harvest in March–April; cool-weather crops like wheat, mustard, gram), and Zaid (summer transition in March–June; fast-maturing crops like watermelon, cucumber, fodder). The Planning Commission delineated 15 Agro-Climatic Zones based on physiography, soil, and climate."
+  },
+  {
+    "label": "Nodal Ministries and Central Agricultural Organizations",
+    "info": "Governed by the Ministry of Agriculture and Farmers Welfare (DA&FW and DARE); Ministry of Commerce and Industry (APEDA, MPEDA, Commodity Boards); and Ministry of Consumer Affairs, Food and Public Distribution. Supported by the Indian Council of Agricultural Research (ICAR) and the Commission for Agricultural Costs and Prices (CACP)."
+  },
+  {
+    "label": "Key Flagship Reports and Data Platforms",
+    "info": "Agricultural Statistics at a Glance (Directorate of Economics and Statistics, MoA&FW); Periodic Advance Estimates of Crop Production; CACP Price Policy Reports; UPAg (Unified Portal for Agricultural Statistics); and the Land Use Statistics of India."
+  },
+  {
+    "label": "Foodgrain Production Scale and Global Standing",
+    "info": "Total foodgrain production hovers at record highs exceeding 330 million metric tonnes (MMT). India ranks 1st globally in the production of pulses, milk, and jute; 2nd in rice, wheat, sugarcane, cotton, groundnut, fruits, and vegetables; yet exhibits crop yields that generally lag behind global averages (e.g., China, USA)."
+  },
+  {
+    "label": "Rice (Oryza sativa) - Agronomy and Spatial Distribution",
+    "info": "India's paramount staple food crop occupying ~46–47 million hectares (largest cropped area). Tropical/subtropical Kharif crop requiring high temperatures (22–32°C), high humidity, and >100 cm annual rainfall (or canal/groundwater irrigation). Flourishes on deep clayey and alluvial soils. Leading producing states: West Bengal, Uttar Pradesh, and Punjab (which exhibits the highest yield via canal/tube-well irrigation)."
+  },
+  {
+    "label": "Rice - Structural Trade and Varieties",
+    "info": "India is the world's leading exporter of rice, commanding roughly 40% of the global rice trade. Exports are bifurcated into high-value GI-tagged aromatic Basmati (cultivated in Punjab, Haryana, western UP, J&K) and non-Basmati parboiled/white rice. Direct Seeded Rice (DSR) and System of Rice Intensification (SRI) are key policy interventions to mitigate methane emissions and water overuse."
+  },
+  {
+    "label": "Wheat (Triticum aestivum) - Agronomy and Production Belt",
+    "info": "The primary Rabi staple crop, occupying ~31–32 million hectares. Temperate cereal requiring cool growing conditions (10–15°C) and bright sunshine during harvest (21–26°C), with 50–75 cm rainfall. Thrives on well-drained fertile loamy and clayey alluvial soils. Leading states: Uttar Pradesh (largest volume), Madhya Pradesh, and Punjab (highest per-hectare productivity)."
+  },
+  {
+    "label": "Wheat - Food Security Buffer and Climate Vulnerability",
+    "info": "Forms the bedrock of national food security, public distribution (NFSA), and central buffer stocks maintained by the Food Corporation of India (FCI). Highly vulnerable to terminal heat stress during grain-filling stage (February–March), prompting ICAR to release climate-resilient heat-tolerant varieties like HD-3385 and DBW-303."
+  },
+  {
+    "label": "Maize (Corn) - Dual Utility and Industrial Demand",
+    "info": "A versatile C4 plant grown across Kharif, Rabi, and Spring seasons, requiring 21–27°C and 50–100 cm rainfall. Known as the 'Queen of Cereals'; primarily allocated toward poultry/animal feed (~60%), industrial starch (~15%), and bioethanol blending, with direct food use remaining minor. Top producing states: Karnataka, Madhya Pradesh, Bihar, and Maharashtra."
+  },
+  {
+    "label": "Millets / Nutri-Cereals (Shree Anna) - Climate Resilience",
+    "info": "Coarse grains celebrated during the UN International Year of Millets (2023). Highly drought-tolerant C4 crops with low water footprints (requiring 30–50 cm rainfall), short growing cycles, and high resistance to temperature extremes. Cultivated predominantly on inferior, rainfed marginal soils."
+  },
+  {
+    "label": "Major Millets: Jowar, Bajra, and Ragi",
+    "info": "Pearl Millet / Bajra: Largest grown millet, drought-tolerant, grown on poor sandy soils; Rajasthan is the undisputed top producer. Sorghum / Jowar: Both Kharif and Rabi crop in central/southern peninsular India; Maharashtra is the leading producer. Finger Millet / Ragi: Rich in calcium and iron, suited to red/lateritic soils; Karnataka accounts for >50% of national output."
+  },
+  {
+    "label": "Minor Millets Spectrum and Nutritional Density",
+    "info": "Comprises Kodo, Kutki (Little Millet), Chena (Proso Millet), Sanwa (Barnyard Millet), and Kangni (Foxtail Millet). Rich in dietary fiber, low glycemic index, and essential micronutrients; central to tribal subsistence agriculture in central and eastern India, supported by the PM-POSHAN and NFSA inclusion mandates."
+  },
+  {
+    "label": "Pulses - Agronomy, Soil Ecology, and Production Dynamics",
+    "info": "India is the world's largest producer (~25–28 MMT), consumer, and importer of pulses. Predominantly rainfed leguminous crops that enrich soil fertility through biological nitrogen fixation via root-nodule rhizobia (except Rajma). Major states: Madhya Pradesh, Maharashtra, Rajasthan, and Uttar Pradesh."
+  },
+  {
+    "label": "Gram (Chickpea) and Tur (Pigeon Pea)",
+    "info": "Gram: Accounts for ~45–50% of total national pulse output; major Rabi pulse thriving on loamy soils across MP, Rajasthan, and Maharashtra. Tur/Arhar: Major Kharif long-duration pulse (6–9 months), highly susceptible to wilt and pod borer pests; Maharashtra, Karnataka, and UP are leading producers."
+  },
+  {
+    "label": "Minor Pulses Spectrum",
+    "info": "Encompasses Urad (Black Gram), Moong (Green Gram), Masoor (Lentil), Horse Gram (Kulthi), and Cowpea (Lobia). Moong serves as an effective short-duration catch crop during Zaid; Masoor is a high-protein winter pulse cultivated across the central and eastern alluvial plains."
+  },
+  {
+    "label": "Sugarcane - Agro-Economics and FRP Framework",
+    "info": "A heavy water- and nutrient-demanding perennial crop (10–18 months) requiring 21–27°C and 75–100 cm rainfall. Regulated by Fair and Remunerative Price (FRP) announced by CCEA under the Sugarcane (Control) Order, 1966. Dual geographical belts: Subtropical (UP - largest area/production) and Tropical (Maharashtra/Tamil Nadu - maritime climate yielding higher sucrose content and longer crushing seasons)."
+  },
+  {
+    "label": "Sugarcane By-Products and Ethanol Blending Programme (EBP)",
+    "info": "Sugarcane processing yields bagasse (cogeneration power), press mud (bio-fertilizer), and molasses. Diverting heavy molasses, B-heavy molasses, and direct cane juice toward ethanol production is central to achieving India's 20% ethanol blending target (E20) in petrol, saving foreign exchange and stabilizing sugar mill liquidity."
+  },
+  {
+    "label": "Cotton (White Gold) - Agronomy and Production Belt",
+    "info": "India's premier commercial fiber crop and raw material for the textile sector. Kharif crop requiring 210 frost-free days, high insolation, and 50–100 cm rainfall; flourishes on the deep black clayey soils (Regur) of the Deccan and Malwa plateaus. Leading producing states: Gujarat, Maharashtra, and Telangana."
+  },
+  {
+    "label": "Bt Cotton Adoption and Emerging Pest Complexities",
+    "info": "Over 90–95% of India's cotton area is planted with genetically modified Bt Cotton (Bollgard-II incorporating Cry1Ac and Cry2Ab genes from Bacillus thuringiensis) targeting American Bollworm. However, resistance development by Pink Bollworm (PBW) has emerged as a severe yield constraint across central and southern belts."
+  },
+  {
+    "label": "Jute (Golden Fiber) - Agronomy and Packaging Mandates",
+    "info": "Natural bast fiber requiring hot, humid tropical climate (>25°C, >150 cm rainfall, abundant clear retting water). Grown almost exclusively on the rich alluvial silt soils of the lower Ganga-Brahmaputra delta. West Bengal accounts for ~75–80% of national production, followed by Assam and Bihar. Protected by the Jute Packaging Materials (JPM) Act, 1987, mandating 100% packaging of foodgrains in jute bags."
+  },
+  {
+    "label": "Major Oilseeds Profile and Import Dependency",
+    "info": "India is one of the largest vegetable oil consumers globally, importing ~55–60% of domestic edible oil requirements (primarily palm oil from Indonesia/Malaysia, and soybean/sunflower oil from South America/Ukraine). Nine major oilseeds: Soybean, Groundnut, Rapeseed-Mustard, Sunflower, Sesamum, Safflower, Nigerseed, Castor, and Linseed."
+  },
+  {
+    "label": "Soybean, Groundnut, and Rapeseed-Mustard Dynamics",
+    "info": "Soybean: Leading oilseed by volume (~35% of total); Kharif crop centered in MP ('Soya State') and Maharashtra. Groundnut: Major Kharif/Rabi oilseed; Gujarat leads production, followed by Rajasthan and Tamil Nadu. Rapeseed-Mustard: Crucial Rabi oilseed with high oil content (38–42%); Rajasthan produces roughly 45–50% of national output."
+  },
+  {
+    "label": "Minor and Non-Traditional Oilseeds",
+    "info": "Castor Seed: Non-edible industrial oilseed; India is the global monopoly producer (>85% global share), led by Gujarat. Nigerseed: Minor tribal rainfed crop in MP and Odisha; critical for bird feed exports. Safflower (Kardi): Drought-resistant oilseed grown on black soils in Maharashtra and Karnataka. Rice Bran Oil and Cottonseed Oil serve as major secondary edible oil sources."
+  },
+  {
+    "label": "Plantation Crops: Tea, Coffee, and Natural Rubber",
+    "info": "Tea: Acidic, well-drained hill soils with 150–250 cm rainfall; Assam (Brahmaputra and Barak valleys) produces >50%, followed by West Bengal (Darjeeling, Jalpaiguri) and Nilgiris. Coffee: Shade-grown, warm-humid slopes (1,000–1,500 m); Karnataka accounts for >70% (Chikkamagaluru, Kodagu, Hassan), cultivating Arabica (mild, aromatic) and Robusta (strong). Rubber: Equatorial/tropical crop requiring >200 cm rain; Kerala dominates national production (~70–75%)."
+  },
+  {
+    "label": "Spices and Minor Commercial Cash Crops",
+    "info": "Spices: India is the world's largest producer and exporter of spices (governed by Spices Board, Kochi); major crops include Chilli (Andhra Pradesh leads), Turmeric (Telangana/Maharashtra lead), Cardamom ('Queen of Spices', Western Ghats of Kerala), Black Pepper ('King of Spices'), and Cumin (Gujarat/Rajasthan). Tobacco: Commercial cash crop; Flue-Cured Virginia (FCV) tobacco is concentrated in Andhra Pradesh and Karnataka, regulated by the Tobacco Board."
+  },
+  {
+    "label": "National Oil Palm Mission: NMEO-OP",
+    "info": "National Mission on Edible Oils - Oil Palm (NMEO-OP) launched with an outlay of ₹11,040 crore to substantially expand domestic oil palm cultivation. Focuses heavily on the North-Eastern States and Andaman & Nicobar Islands, targeting 1.0 million hectares under oil palm by 2025–26 to curtail the enormous edible oil import bill."
+  },
+  {
+    "label": "Structural Production Bottlenecks in Indian Crops",
+    "info": "Chronic yield plateaus in pulses and oilseeds compared to global benchmarks; severe soil and groundwater depletion in northwestern cereal bowls due to skewed MSP-driven rice-wheat monoculture; high post-harvest losses in horticultural produce (10–16%); and vulnerability to climate extremes (unseasonal hailstorms, delayed monsoon onsets, and terminal heat stress)."
+  }
+]

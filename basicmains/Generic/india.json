@@ -1,0 +1,186 @@
+[
+  {
+    "label": "1. India: Basic National Profile",
+    "info": "India is a sovereign, socialist, secular, democratic republic. It is the world's largest democracy and the most populous country. Population: approximately 1.46 billion in 2025 (World Bank). Capital: New Delhi. Area: approximately 3.287 million sq km. Currency: Indian Rupee. National motto: Satyameva Jayate. India is a Union of 28 States and 8 Union Territories."
+  },
+  {
+    "label": "2. India's Constitution and Constitutionalism",
+    "info": "The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950. It originally contained 395 Articles, 22 Parts and 8 Schedules. It is the world's longest written national Constitution. Important features: parliamentary democracy, federalism with unitary features, fundamental rights, directive principles, independent judiciary, secularism and universal adult franchise. The Basic Structure Doctrine established in Kesavananda Bharati v. State of Kerala (1973) limits Parliament's amending power."
+  },
+  {
+    "label": "3. India's Global Economic Position",
+    "info": "India's nominal GDP was approximately USD 3.96 trillion in 2025 (World Bank), making it one of the world's largest economies. GDP per capita was approximately USD 2,703 in 2025. India's economic scale creates opportunities for global influence, domestic consumption, manufacturing and services exports. However, aggregate GDP must be distinguished from per capita income, employment quality, distributional outcomes and human development."
+  },
+  {
+    "label": "4. Economic Growth and Macroeconomic Stability",
+    "info": "India's real GDP growth was approximately 7.6% in 2025 according to World Bank data. The Economic Survey 2025-26 discusses the growth frontier, fiscal consolidation, inflation, external resilience and strategic resilience. Growth drivers include domestic consumption, investment, services, infrastructure and digitalisation. Challenges include job-rich growth, productivity, capital formation, inflation risks, global trade uncertainty and fiscal pressures."
+  },
+  {
+    "label": "5. Demographic Dividend and Population",
+    "info": "India's population was approximately 1.46 billion in 2025 (World Bank). A large working-age population offers a demographic dividend only if supported by quality education, health, skills, productive jobs and women's participation. Risks include youth unemployment, underemployment, regional demographic differences, ageing in some states and pressure on public services. The policy priority is to convert population scale into human capital rather than treating population alone as an economic advantage."
+  },
+  {
+    "label": "6. Human Development Index (HDI)",
+    "info": "India ranked 130 out of 193 countries in the UNDP Human Development Report 2025, with an HDI value of 0.685 based on 2023 data. India remained in the medium human development category. HDI combines life expectancy, education and gross national income per capita. This ranking highlights the gap between India's economic scale and its human development outcomes. Way forward: improve public health, learning outcomes, nutrition, gender equality and income opportunities."
+  },
+  {
+    "label": "7. Poverty and Inclusive Development",
+    "info": "The World Bank reported that India's poverty headcount at USD 3.00 a day in 2021 PPP terms was 2.6% in 2023. Poverty measurement depends on the poverty line, purchasing power parity and survey methodology; figures from different institutions are not directly interchangeable. Multidimensional poverty includes deprivations in health, education and living standards. Key policy issues: social protection, employment, housing, sanitation, nutrition, financial inclusion and access to quality public services."
+  },
+  {
+    "label": "8. Employment and Labour Market",
+    "info": "Employment generation and quality remain central development challenges. India's large workforce faces informality, underemployment, skill mismatch, uneven female labour force participation and limited social security for many workers. PLFS is the key official source for labour force participation, worker population ratio and unemployment estimates. Priorities include labour-intensive manufacturing, MSMEs, services, apprenticeships, skill development, formalisation and social security portability."
+  },
+  {
+    "label": "9. Agriculture and Rural Economy",
+    "info": "Agriculture remains vital for livelihoods, food security and rural welfare despite its declining relative share in national output. Major challenges include fragmented holdings, climate vulnerability, low farm incomes, input costs, market access, storage losses, groundwater stress and uneven irrigation. Government interventions include MSP, PM-KISAN, crop insurance, irrigation programmes and food distribution. Way forward: diversification, farmer producer organisations, agro-processing, digital extension, sustainable farming, value chains and non-farm rural employment."
+  },
+  {
+    "label": "10. Manufacturing and Industrialisation",
+    "info": "India seeks to expand manufacturing through initiatives such as Make in India, Production Linked Incentive schemes, industrial corridors and logistics reforms. Opportunities include electronics, pharmaceuticals, defence production, automobiles, textiles, renewable energy equipment and semiconductors. Constraints include logistics costs, skills, technology, regulatory complexity, scale, global competition and dependence on selected imported inputs."
+  },
+  {
+    "label": "11. Services Sector and Digital Economy",
+    "info": "India has globally competitive services sectors, including IT and business services, finance, telecommunications, healthcare, education and professional services. Digital public infrastructure such as Aadhaar, UPI and interoperable platforms has enabled digital identity, payments and service delivery at scale. Opportunities include AI, fintech, digital exports and platform-based services. Risks include cybercrime, digital exclusion, privacy concerns, platform-worker vulnerability and job displacement."
+  },
+  {
+    "label": "12. Fiscal Policy and Public Finance",
+    "info": "India's public finance priorities include infrastructure investment, welfare spending, defence, education, healthcare and fiscal consolidation. Fiscal deficit represents the excess of total expenditure over total receipts excluding borrowings. Public debt, interest payments and the quality of expenditure affect fiscal sustainability. The FRBM framework seeks fiscal discipline."
+  },
+  {
+    "label": "13. Inflation and Monetary Policy",
+    "info": "The Reserve Bank of India conducts monetary policy under an inflation-targeting framework. The CPI inflation target is 4%, with a tolerance band of 2% to 6%, under the prevailing framework. Inflation affects purchasing power, savings, investment and welfare, particularly for poorer households. Monetary policy uses the policy repo rate and liquidity tools, while food inflation is also influenced by supply chains, weather, storage and market structure."
+  },
+  {
+    "label": "14. Trade, External Sector and Globalisation",
+    "info": "India's external sector includes merchandise trade, services exports, remittances, foreign investment and foreign exchange reserves. World Bank data reports remittances received at approximately 3.8% of GDP in 2025. India's trade policy seeks to diversify exports, attract investment, integrate with global value chains and manage strategic dependencies. Challenges include merchandise trade deficits, energy imports, protectionism, supply-chain shocks and global geopolitical uncertainty. Way forward: export competitiveness, logistics, trade facilitation and resilient supply chains."
+  },
+  {
+    "label": "15. Global Innovation Index and R&D",
+    "info": "India ranked 38th among 140 economies in the Global Innovation Index 2025, according to WIPO. The ranking reflects innovation inputs and outputs across institutions, human capital, infrastructure, market sophistication, business sophistication, knowledge and technology outputs, and creative outputs. India's innovation ecosystem includes startups, IT, pharmaceuticals, space and digital public infrastructure. Challenges include R&D expenditure, university-industry collaboration, patents, advanced manufacturing and commercialisation."
+  },
+  {
+    "label": "16. Digital India and Technology Governance",
+    "info": "Digital India aims to improve connectivity, digital services, digital literacy and technology-enabled governance. UPI has become a major digital payments platform; Aadhaar enables identity-linked service delivery. Digital public infrastructure can reduce transaction costs and improve inclusion, but requires safeguards. Key issues include data protection, cybersecurity, algorithmic accountability, digital divides, exclusion errors, misinformation and concentration of market power. Way forward: secure-by-design systems, accessible interfaces, data minimisation and effective grievance redressal."
+  },
+  {
+    "label": "17. Artificial Intelligence and Emerging Technologies",
+    "info": "India's AI opportunities include healthcare, agriculture, education, public administration, language technology, manufacturing and scientific research. The IndiaAI Mission seeks to strengthen compute capacity, datasets, skills, innovation and responsible AI development. Risks include bias, privacy violations, deepfakes, job displacement, cyber threats and unequal access to computing. UPSC angle: AI governance, ethical technology, strategic autonomy, digital sovereignty and balancing innovation with fundamental rights."
+  },
+  {
+    "label": "18. Education and Human Capital",
+    "info": "Education is central to productivity, social mobility, citizenship and demographic dividend. The National Education Policy 2020 emphasises foundational literacy and numeracy, multidisciplinary learning, vocational education, flexibility and research. Challenges include learning outcomes, teacher capacity, unequal access, digital divide, school infrastructure, higher education quality and employability. Priorities: foundational learning, teacher training, public investment, vocational pathways, research funding and equitable access."
+  },
+  {
+    "label": "19. Public Health and Nutrition",
+    "info": "India's health challenges include non-communicable diseases, communicable diseases, malnutrition, maternal and child health, mental health and uneven access to healthcare. Life expectancy at birth was 72 years in 2024 according to World Bank data. Health policy includes Ayushman Bharat, Health and Wellness Centres, PM-JAY and public health programmes. Priorities include stronger primary care, preventive health, public health workforce, affordable medicines, nutrition, health data governance and reduced out-of-pocket expenditure."
+  },
+  {
+    "label": "20. Gender Equality and Women's Empowerment",
+    "info": "India ranked 131st out of 148 economies in the World Economic Forum's Global Gender Gap Report 2025, with a gender parity score of 64.4%. The report identified particularly weak performance in economic participation and opportunity and political empowerment. Issues include unpaid care work, labour force participation, wage gaps, safety, property rights and representation. Solutions include childcare, safe transport, equal opportunity, financial inclusion, skills, health, political representation and gender-responsive budgeting."
+  },
+  {
+    "label": "21. Social Justice and Diversity",
+    "info": "India's social diversity includes multiple religions, languages, castes, tribes, regions and cultural traditions. Constitutional safeguards include equality before law (Article 14), prohibition of discrimination (Article 15), equality of opportunity in public employment (Article 16), abolition of untouchability (Article 17) and protection of cultural and educational rights (Articles 29-30). Challenges include caste discrimination, communalism, social exclusion, regional disparities and unequal access to resources."
+  },
+  {
+    "label": "22. Federalism and Centre-State Relations",
+    "info": "India's Constitution establishes a federal system with a strong Union. The Seventh Schedule distributes legislative subjects across Union, State and Concurrent Lists. Article 246 and related provisions define legislative competence; Article 280 provides for the Finance Commission; Article 263 provides for an Inter-State Council. Cooperative and competitive federalism are important for development. Challenges include fiscal dependence, centrally sponsored schemes, Governor-related disputes, inter-state water disputes and uneven administrative capacity. Way forward: consultation, predictable transfers and stronger institutions."
+  },
+  {
+    "label": "23. Local Self-Government and Decentralisation",
+    "info": "The 73rd and 74th Constitutional Amendments institutionalised Panchayati Raj and urban local bodies. They provide for elected local governments, reservations and periodic elections. The Eleventh and Twelfth Schedules list subjects for rural and urban local bodies. However, devolution of functions, funds and functionaries remains uneven. Priorities include municipal finance, gram sabha participation, capacity building, local planning, social audits and accountable service delivery."
+  },
+  {
+    "label": "24. Governance, Civil Services and Ethics",
+    "info": "Civil services support policy implementation, continuity, law and order and public service delivery. Ethical governance requires integrity, impartiality, objectivity, empathy, accountability, transparency and constitutional commitment. Challenges include corruption, political interference, red tape, conflicts of interest, weak grievance redressal and implementation gaps. Reforms include mission-mode capacity building, citizen charters, social audits, e-governance, performance evaluation and protection for honest decision-making."
+  },
+  {
+    "label": "25. Judiciary, Rule of Law and Access to Justice",
+    "info": "India has an integrated judicial system with the Supreme Court, High Courts and subordinate courts. Article 32 empowers the Supreme Court to enforce fundamental rights; Article 226 empowers High Courts to issue writs. Judicial review, PIL and constitutional interpretation protect rights and constitutional supremacy. Challenges include case pendency, vacancies, costs, undertrial detention, uneven legal aid and delays. Priorities: judicial capacity, technology, alternative dispute resolution, legal aid and police-prosecution reforms."
+  },
+  {
+    "label": "26. Fundamental Rights and Civil Liberties",
+    "info": "Part III of the Constitution guarantees fundamental rights, including equality, freedom, protection against exploitation, religious freedom, cultural and educational rights and constitutional remedies. Article 21 protects life and personal liberty, interpreted to include multiple dimensions of dignity. Article 19 protects specified freedoms subject to constitutional restrictions. UPSC analysis must balance individual rights, public order, national security, privacy, free expression and due process. Landmark judgments include Kesavananda Bharati, Maneka Gandhi and Puttaswamy."
+  },
+  {
+    "label": "27. National Security and Defence",
+    "info": "India faces conventional and non-conventional security challenges, including border disputes, terrorism, cyberattacks, maritime insecurity, drones, disinformation and critical infrastructure threats. Strategic areas include the Line of Actual Control, Line of Control and Indian Ocean Region. Defence priorities include modernisation, jointness, indigenous production, intelligence coordination, cybersecurity and border infrastructure. Defence indigenisation can strengthen strategic autonomy while reducing import dependence."
+  },
+  {
+    "label": "28. India's Foreign Policy and Strategic Autonomy",
+    "info": "India's foreign policy seeks strategic autonomy, security, economic development, energy access and global influence. It engages with the United States, Russia, China, the EU, Japan and other partners, while participating in BRICS, G20, QUAD, SCO and the UN. India advocates reform of global governance and greater representation for developing countries. Challenges include strategic competition, neighbourhood instability, global conflicts, trade disruptions and balancing partnerships."
+  },
+  {
+    "label": "29. Neighbourhood First and Regional Connectivity",
+    "info": "India's neighbourhood includes countries central to security, trade, energy, migration and cultural links. Neighbourhood First and SAGAR-related approaches emphasise regional cooperation, connectivity, maritime security and development partnerships. Key issues include cross-border terrorism, political instability, water sharing, migration, trade barriers and external influence. Priorities include reliable infrastructure, disaster cooperation, people-to-people ties, energy connectivity and diplomatic engagement."
+  },
+  {
+    "label": "30. Climate Change and India's Vulnerability",
+    "info": "India faces climate risks including heatwaves, floods, droughts, cyclones, glacial changes, sea-level rise and urban climate stress. Vulnerability is shaped by high population exposure, livelihoods, infrastructure and adaptive capacity. India's climate commitments include achieving net-zero emissions by 2070 and expanding non-fossil energy capacity. Policy priorities include adaptation, resilient infrastructure, climate finance, early warning systems, sustainable agriculture and a just transition."
+  },
+  {
+    "label": "31. Energy Transition and Energy Security",
+    "info": "India's energy policy must balance affordability, reliability, economic growth and decarbonisation. Renewable energy, solar, wind, nuclear, green hydrogen, storage, biofuels and energy efficiency can reduce emissions and import vulnerability. Challenges include coal dependence, grid integration, storage, critical minerals, land acquisition and transition costs. India's net-zero target is 2070."
+  },
+  {
+    "label": "32. Environment, Biodiversity and Conservation",
+    "info": "India is a megadiverse country with varied ecosystems, including the Himalayas, forests, wetlands, grasslands, coasts and marine habitats. Environmental challenges include air pollution, biodiversity loss, deforestation, habitat fragmentation, invasive species, waste and water stress. Constitutional provisions include Article 48A (environmental protection) and Article 51A(g) (citizen duty). Policies include protected areas, wildlife conservation, afforestation and pollution control. Way forward: ecological restoration, community participation, sustainable land use and stronger environmental governance."
+  },
+  {
+    "label": "33. Water Security and River Management",
+    "info": "India faces water stress due to uneven rainfall, groundwater depletion, pollution, urban demand, irrigation inefficiency and inter-state river disputes. Water is a State subject, while inter-state river regulation and dispute mechanisms involve Union powers and constitutional provisions. Priorities include watershed management, aquifer recharge, wastewater reuse, efficient irrigation, river basin planning and pollution control."
+  },
+  {
+    "label": "34. Urbanisation and Smart Cities",
+    "info": "India's urbanisation creates opportunities for productivity, jobs, innovation and service delivery, but also congestion, housing shortages, informal settlements, pollution, urban flooding and weak municipal finances. Smart Cities Mission and AMRUT seek to improve urban infrastructure and services. Sustainable urban policy requires public transport, affordable housing, walkability, resilient drainage, waste management, land-use planning and empowered local governments."
+  },
+  {
+    "label": "35. Infrastructure and Connectivity",
+    "info": "Infrastructure investment in highways, railways, ports, airports, logistics, electricity and digital connectivity supports productivity and integration. PM Gati Shakti and the National Logistics Policy aim to improve coordination and logistics efficiency. Challenges include land acquisition, financing, environmental clearances, project delays, maintenance and last-mile access. Priorities include multimodal connectivity, resilient infrastructure, public-private partnerships and lifecycle planning."
+  },
+  {
+    "label": "36. Disaster Management and Resilience",
+    "info": "India is vulnerable to floods, cyclones, earthquakes, droughts, landslides, heatwaves and industrial disasters. The Disaster Management Act 2005 established institutional arrangements including the National Disaster Management Authority. The Sendai Framework emphasises risk reduction, preparedness, resilience and 'Build Back Better'. Priorities include early warning, resilient infrastructure, local capacity, risk-sensitive land use, insurance and climate adaptation."
+  },
+  {
+    "label": "37. Food Security and Nutrition",
+    "info": "India's food security architecture includes procurement, buffer stocks, the Targeted Public Distribution System and the National Food Security Act 2013. Food security has dimensions of availability, access, utilisation and stability. Challenges include malnutrition, dietary diversity, food inflation, climate shocks, storage losses and regional inequality. Priorities include nutrition-sensitive agriculture, maternal and child nutrition, diversified diets, supply chain reform and effective public distribution."
+  },
+  {
+    "label": "38. Culture, Heritage and Civilisational Diversity",
+    "info": "India's heritage includes ancient urban civilisation, philosophical traditions, religious diversity, classical languages, architecture, literature, music, dance, crafts and living cultural practices. Cultural heritage supports tourism, soft power, identity and social cohesion. Challenges include conservation, urban encroachment, illicit trafficking, underfunding, loss of traditional skills and balancing heritage with development. Constitutional Articles 29 and 51A(f) recognise cultural protection and citizen responsibility."
+  },
+  {
+    "label": "39. India's Strategic Vision: Viksit Bharat 2047",
+    "info": "Viksit Bharat 2047 is a national vision to transform India into a developed country by the centenary of independence. It requires sustained growth, high-quality employment, human development, innovation, infrastructure, institutional capacity and environmental sustainability. Key constraints include low productivity, inequality, skill gaps, climate vulnerability, urban pressures and geopolitical uncertainty. The vision needs measurable milestones, strong Centre-State coordination, citizen participation and policy continuity."
+  },
+  {
+    "label": "40. India's Strengths, Weaknesses, Opportunities and Threats (SWOT)",
+    "info": "Strengths: democratic institutions, large domestic market, demographic scale, digital public infrastructure, services exports, strategic geography and cultural diversity. Weaknesses: uneven human development, job quality, regional disparities, infrastructure gaps and low productivity in parts of the economy. Opportunities: manufacturing, AI, green energy, innovation, Global South leadership and supply-chain diversification. Threats: climate change, geopolitical tensions, cyber risks, social polarisation, global economic shocks and resource stress. SWOT helps synthesise India's multidimensional development prospects for UPSC essays and GS answers."
+  },
+  {
+    "label": "41. Important Global Rankings: Quick Revision",
+    "info": "HDI: 130/193 (UNDP Human Development Report 2025; data year 2023; HDI 0.685). Global Innovation Index: 38/140 (WIPO 2025). Global Gender Gap Index: 131/148 (WEF 2025; score 64.4%). GDP: approximately USD 3.96 trillion in 2025 (World Bank). Population: approximately 1.46 billion in 2025 (World Bank). These rankings are source- and year-specific; do not mix editions or treat rankings as absolute measures of national performance."
+  },
+  {
+    "label": "42. Important Constitutional Articles: Quick Revision",
+    "info": "Article 14: equality before law. Article 15: prohibition of discrimination. Article 16: equality of opportunity in public employment. Article 17: abolition of untouchability. Article 19: specified freedoms. Article 21: life and personal liberty. Article 21A: right to education for ages 6-14. Article 32: constitutional remedies. Article 40: organisation of village panchayats. Article 48A: environment protection. Article 51A: fundamental duties. Article 246 and Seventh Schedule: legislative distribution. Article 280: Finance Commission. Article 324: Election Commission. Article 368: constitutional amendment."
+  },
+  {
+    "label": "43. Major Government Initiatives: Quick Revision",
+    "info": "Economic and manufacturing: Make in India, PLI schemes, Startup India, PM Gati Shakti, National Logistics Policy. Digital: Digital India, India Stack, UPI, IndiaAI Mission. Social: Ayushman Bharat, PM-JAY, POSHAN Abhiyaan, Samagra Shiksha. Agriculture: PM-KISAN, PM Fasal Bima Yojana, PM Krishi Sinchai Yojana. Environment and energy: National Solar Mission, National Green Hydrogen Mission, FAME-related mobility initiatives. Urban: Smart Cities Mission, AMRUT, PMAY. UPSC answer writing should evaluate outcomes and implementation, not merely list schemes."
+  },
+  {
+    "label": "44. Major Reports and Data Sources for UPSC",
+    "info": "Economic Survey and Union Budget: macroeconomy, fiscal policy and sectoral analysis. World Bank World Development Indicators: GDP, population, poverty and social indicators. UNDP Human Development Report: HDI. WIPO Global Innovation Index: innovation. WEF Global Gender Gap Report: gender parity. PLFS: employment and labour force. NFHS: health, nutrition and demographic indicators. NCRB: crime and prison statistics. NITI Aayog: policy and SDG-related reports. RBI: monetary policy, banking and financial stability. MoSPI: national accounts and official statistics. Use the original report and year when citing data."
+  },
+  {
+    "label": "45. UPSC Essay and Mains Analytical Framework",
+    "info": "For any India-related topic, structure the answer across constitutional, political, economic, social, technological, environmental, legal, ethical, security and international dimensions. Begin with a relevant fact, constitutional provision, report or example. Explain the significance, achievements, gaps and stakeholders. Use data selectively, with source and year. End with a practical way forward based on constitutional values, inclusion, sustainability, institutional reform and citizen participation. This framework helps avoid one-dimensional answers."
+  },
+  {
+    "label": "46. Summary",
+    "info": "India is a vast, diverse constitutional democracy and a major global economy with substantial demographic, technological, strategic and cultural strengths. Its nominal GDP was approximately USD 3.96 trillion in 2025 and its population approximately 1.46 billion, according to the World Bank. Yet its HDI rank of 130 out of 193 in the UNDP 2025 report highlights the need to translate economic scale into stronger health, education and living standards. India ranked 38th in the WIPO Global Innovation Index 2025 and 131st in the WEF Global Gender Gap Report 2025, reflecting innovation potential alongside persistent gender inequalities. Its key priorities include job-rich growth, human capital, inclusive governance, manufacturing, agricultural transformation, digital innovation, energy security, climate resilience, social justice, federalism and institutional capacity. India's global role is shaped by strategic autonomy, neighbourhood relations, multilateral engagement and Global South priorities. Achieving Viksit Bharat 2047 requires constitutional values, ethical governance, productive employment, equitable opportunity, sustainable development and effective implementation. For UPSC, India should be analysed not only through its achievements and rankings but also through the structural challenges, regional differences and policy choices that determine whether growth becomes inclusive and sustainable."
+  }
+]

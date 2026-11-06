@@ -1,0 +1,379 @@
+[
+  {
+    "id": "diseases",
+    "title": "Major Pathogen Diseases",
+    "category": "Science & Health",
+    "file": "data/diseases.json",
+    "badge": "bg-rose-100 text-rose-800",
+    "primaryKey": "disease_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "disease_name", "label": "Disease" },
+      { "key": "pathogen_type", "label": "Type" },
+      { "key": "causative_agent", "label": "Causative Agent" },
+      { "key": "transmission", "label": "Transmission" },
+      { "key": "vaccination", "label": "Vaccine / Prevention" }
+    ]
+  },
+  {
+    "id": "national-movements",
+    "title": "Indian National Movements",
+    "category": "Modern History",
+    "file": "data/national-movements.json",
+    "badge": "bg-amber-100 text-amber-800",
+    "primaryKey": "movement_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "timeframe", "label": "Timeline" },
+      { "key": "movement_name", "label": "Movement" },
+      { "key": "movement_type", "label": "Type" },
+      { "key": "key_leaders", "label": "Key Leaders" },
+      { "key": "core_objectives", "label": "Core Objectives" }
+    ]
+  },
+  {
+    "id": "scientific-achievements",
+    "title": "Scientific & Tech Milestones",
+    "category": "Science & Tech",
+    "file": "data/scientific-achievements.json",
+    "badge": "bg-blue-100 text-blue-800",
+    "primaryKey": "achievement_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "year_or_date", "label": "Year" },
+      { "key": "achievement_name", "label": "Achievement" },
+      { "key": "domain", "label": "Domain" },
+      { "key": "implementing_agency", "label": "Agency" }
+    ]
+  },
+  {
+    "id": "armed-operations",
+    "title": "Major Armed Forces Operations",
+    "category": "Defense & Security",
+    "file": "data/armed-operations.json",
+    "badge": "bg-emerald-100 text-emerald-800",
+    "primaryKey": "operation_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "year_or_duration", "label": "Year" },
+      { "key": "operation_name", "label": "Operation" },
+      { "key": "branch", "label": "Branch" },
+      { "key": "operational_objective", "label": "Objective" }
+    ]
+  },
+  {
+    "id": "indian-rivers",
+    "title": "Important Indian Rivers",
+    "category": "Geography",
+    "file": "data/indian-rivers.json",
+    "badge": "bg-cyan-100 text-cyan-800",
+    "primaryKey": "river_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "river_name", "label": "River" },
+      { "key": "river_system", "label": "System" },
+      { "key": "origin_source", "label": "Origin" },
+      { "key": "basin_states", "label": "Basin States" }
+    ]
+  },
+  {
+    "id": "national-parks",
+    "title": "National Parks & Sanctuaries",
+    "category": "Environment & Ecology",
+    "file": "data/national-parks.json",
+    "badge": "bg-green-100 text-green-800",
+    "primaryKey": "protected_area_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "protected_area_name", "label": "Protected Area" },
+      { "key": "state_and_district", "label": "State / District" },
+      { "key": "flagship_and_endemic_fauna", "label": "Flagship Fauna" },
+      { "key": "rivers_flowing_through", "label": "Rivers" }
+    ]
+  },
+  {
+    "id": "indian-industries",
+    "title": "Important Industries of India",
+    "category": "Economic Geography",
+    "file": "data/indian-industries.json",
+    "badge": "bg-orange-100 text-orange-800",
+    "primaryKey": "industry_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "industry_name", "label": "Industry" },
+      { "key": "classification", "label": "Classification" },
+      { "key": "major_industrial_clusters", "label": "Major Clusters" },
+      { "key": "leading_states_and_units", "label": "Leading Units" }
+    ]
+  },
+  {
+    "id": "mineral-deposits",
+    "title": "Important Mineral Deposits",
+    "category": "Economic Geography",
+    "file": "data/mineral-deposits.json",
+    "badge": "bg-stone-100 text-stone-800",
+    "primaryKey": "mineral_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "mineral_name", "label": "Mineral" },
+      { "key": "mineral_type", "label": "Type" },
+      { "key": "top_producing_states_and_reserves", "label": "Top States" },
+      { "key": "major_mines_and_districts", "label": "Mines / Districts" }
+    ]
+  },
+  {
+    "id": "indian-states",
+    "title": "Significance of States & UTs",
+    "category": "Indian Polity & Geography",
+    "file": "data/indian-states.json",
+    "badge": "bg-indigo-100 text-indigo-800",
+    "primaryKey": "state_or_ut_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "state_or_ut_name", "label": "State / UT" },
+      { "key": "capital_and_geographical_region", "label": "Capital & Region" },
+      { "key": "special_constitutional_provisions", "label": "Constitutional Articles" }
+    ]
+  },
+  {
+    "id": "landmark-judgements",
+    "title": "Landmark Judgements of India",
+    "category": "Indian Polity & Constitution",
+    "file": "data/landmark-judgements.json",
+    "badge": "bg-purple-100 text-purple-800",
+    "primaryKey": "case_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "year_decided", "label": "Year" },
+      { "key": "case_name", "label": "Case Title" },
+      { "key": "doctrine_or_principle_evolved", "label": "Doctrine / Principle" },
+      { "key": "constitutional_articles_involved", "label": "Articles" }
+    ]
+  },
+  {
+    "id": "important-bodies",
+    "title": "Important Constitutional & Statutory Bodies",
+    "category": "Governance & Polity",
+    "file": "data/important-bodies.json",
+    "badge": "bg-teal-100 text-teal-800",
+    "primaryKey": "body_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "body_name", "label": "Body Name" },
+      { "key": "constitutional_status", "label": "Status" },
+      { "key": "governing_article_or_statute", "label": "Article / Act" },
+      { "key": "parent_ministry_or_branch", "label": "Parent Ministry" }
+    ]
+  },
+  {
+    "id": "ancient-ports",
+    "title": "Ancient & Medieval Ports",
+    "category": "Ancient History & Culture",
+    "file": "data/ancient-ports.json",
+    "badge": "bg-amber-100 text-amber-800",
+    "primaryKey": "port_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "port_name", "label": "Port Name" },
+      { "key": "coastal_region_and_state", "label": "Region / State" },
+      { "key": "controlling_dynasty", "label": "Dynasty" },
+      { "key": "major_trade_goods", "label": "Trade Goods" },
+      { "key": "associated_river", "label": "River Basin" }
+    ]
+  },
+  {
+    "id": "dance-and-martial-arts",
+    "title": "Dances & Martial Arts",
+    "category": "Art & Culture",
+    "file": "data/dance-and-martial-arts.json",
+    "badge": "bg-pink-100 text-pink-800",
+    "primaryKey": "art_form_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "art_form_name", "label": "Art Form" },
+      { "key": "classification", "label": "Classification" },
+      { "key": "origin_state_and_region", "label": "Origin / State" },
+      { "key": "unesco_status", "label": "Heritage Status" }
+    ]
+  },
+  {
+    "id": "ramsar-wetlands",
+    "title": "Ramsar Wetlands of India",
+    "category": "Environment & Ecology",
+    "file": "data/ramsar-wetlands.json",
+    "badge": "bg-teal-100 text-teal-800",
+    "primaryKey": "wetland_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "wetland_name", "label": "Wetland" },
+      { "key": "state_and_district", "label": "State / District" },
+      { "key": "montreux_record_status", "label": "Montreux Record" },
+      { "key": "key_biodiversity_or_fauna", "label": "Key Fauna" }
+    ]
+  },
+  {
+    "id": "biosphere-reserves",
+    "title": "Biosphere Reserves & MAB",
+    "category": "Environment & Ecology",
+    "file": "data/biosphere-reserves.json",
+    "badge": "bg-emerald-100 text-emerald-800",
+    "primaryKey": "reserve_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "reserve_name", "label": "Reserve Name" },
+      { "key": "location_states", "label": "States" },
+      { "key": "unesco_mab_status", "label": "UNESCO MAB" },
+      { "key": "key_endemic_species", "label": "Endemic Species" }
+    ]
+  },
+  {
+    "id": "constitutional-amendments",
+    "title": "Constitutional Amendments",
+    "category": "Polity & Constitution",
+    "file": "data/constitutional-amendments.json",
+    "badge": "bg-indigo-100 text-indigo-800",
+    "primaryKey": "amendment_act",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "year_enacted", "label": "Year" },
+      { "key": "amendment_act", "label": "Amendment Act" },
+      { "key": "articles_amended_or_inserted", "label": "Key Articles" },
+      { "key": "key_provisions_and_changes", "label": "Core Changes" }
+    ]
+  },
+  {
+    "id": "parliamentary-committees",
+    "title": "Parliamentary Committees",
+    "category": "Polity & Governance",
+    "file": "data/parliamentary-committees.json",
+    "badge": "bg-blue-100 text-blue-800",
+    "primaryKey": "committee_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "committee_name", "label": "Committee" },
+      { "key": "committee_type", "label": "Type" },
+      { "key": "total_membership", "label": "Members" },
+      { "key": "minister_membership_eligibility", "label": "Minister Rule" }
+    ]
+  },
+  {
+    "id": "military-exercises",
+    "title": "Joint Military Exercises",
+    "category": "Defense & Security",
+    "file": "data/military-exercises.json",
+    "badge": "bg-slate-100 text-slate-800",
+    "primaryKey": "exercise_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "exercise_name", "label": "Exercise" },
+      { "key": "participating_nations", "label": "Participants" },
+      { "key": "service_branch", "label": "Branch" },
+      { "key": "exercise_type", "label": "Format" }
+    ]
+  },
+  {
+    "id": "mountain-passes",
+    "title": "Mountain Passes of India",
+    "category": "Physical Geography",
+    "file": "data/mountain-passes.json",
+    "badge": "bg-stone-100 text-stone-800",
+    "primaryKey": "pass_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "pass_name", "label": "Pass" },
+      { "key": "state_or_ut", "label": "State / UT" },
+      { "key": "mountain_range", "label": "Mountain Range" },
+      { "key": "connecting_regions_or_countries", "label": "Connects" }
+    ]
+  },
+  {
+    "id": "soil-types",
+    "title": "Soil Types of India",
+    "category": "Geography & Agriculture",
+    "file": "data/soil-types.json",
+    "badge": "bg-amber-100 text-amber-900",
+    "primaryKey": "soil_type",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "soil_type", "label": "Soil Type" },
+      { "key": "icarr_order_or_classification", "label": "Order" },
+      { "key": "regional_distribution", "label": "Regions" },
+      { "key": "suitable_crops", "label": "Suitable Crops" }
+    ]
+  },
+  {
+    "id": "indigenous-missiles",
+    "title": "Indigenous Missile Systems",
+    "category": "Science & Defense Tech",
+    "file": "data/indigenous-missiles.json",
+    "badge": "bg-red-100 text-red-800",
+    "primaryKey": "missile_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "missile_name", "label": "Missile" },
+      { "key": "missile_class", "label": "Class" },
+      { "key": "operational_range_km", "label": "Range" },
+      { "key": "propulsion_and_fuel_type", "label": "Propulsion" }
+    ]
+  },
+  {
+    "id": "environmental-conventions",
+    "title": "Environmental Conventions",
+    "category": "Environment & Treaties",
+    "file": "data/environmental-conventions.json",
+    "badge": "bg-green-100 text-green-800",
+    "primaryKey": "convention_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "convention_name", "label": "Convention" },
+      { "key": "adoption_year_and_force_date", "label": "Adopted / Force" },
+      { "key": "legally_binding_status", "label": "Binding Nature" },
+      { "key": "india_ratification_status", "label": "India Status" }
+    ]
+  },
+  {
+    "id": "classical-philosophies",
+    "title": "Classical Indian Philosophy",
+    "category": "Art & Culture",
+    "file": "data/classical-philosophies.json",
+    "badge": "bg-yellow-100 text-yellow-800",
+    "primaryKey": "school_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "school_name", "label": "School" },
+      { "key": "classification", "label": "Tradition" },
+      { "key": "founder_or_chief_proponent", "label": "Founder" },
+      { "key": "core_metaphysical_doctrine", "label": "Core Doctrine" }
+    ]
+  },
+  {
+    "id": "tribes-and-pvtgs",
+    "title": "Tribes & PVTGs of India",
+    "category": "Social Issues & Governance",
+    "file": "data/tribes-and-pvtgs.json",
+    "badge": "bg-purple-100 text-purple-800",
+    "primaryKey": "tribe_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "tribe_name", "label": "Tribe Name" },
+      { "key": "state_or_ut", "label": "State / UT" },
+      { "key": "pvtg_status", "label": "PVTG Status" },
+      { "key": "distinctive_social_customs_or_festivals", "label": "Customs" }
+    ]
+  },
+  {
+    "id": "multilateral-groupings",
+    "title": "Multilateral Institutions",
+    "category": "International Relations",
+    "file": "data/multilateral-groupings.json",
+    "badge": "bg-cyan-100 text-cyan-800",
+    "primaryKey": "organization_name",
+    "columns": [
+      { "key": "sno", "label": "#" },
+      { "key": "organization_name", "label": "Organization" },
+      { "key": "establishment_year", "label": "Year" },
+      { "key": "headquarters", "label": "Headquarters" },
+      { "key": "india_membership_status", "label": "India Status" }
+    ]
+  }
+]
